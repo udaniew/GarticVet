@@ -1,0 +1,127 @@
+@font-face {
+    font-family: 'SuaFonte';
+    src: url('font/default-bold.ttf') format('truetype');
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url('imagens/fundo.png') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    font-family: 'SuaFonte', Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}
+
+.content {
+    margin-left: 50px;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+    font-family: 'SuaFonte', Arial, sans-serif;
+}
+
+p {
+    font-size: 1.2em;
+    margin: 10px 0 20px;
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #008CBA; /* Cor de fundo original */
+    border: none;
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease; /* Suaviza a transição */
+}
+
+button:hover {
+    background-color: #008CBA; /* Mantém a cor de fundo ao passar o mouse */
+    box-shadow: 0 0 15px 5px rgba(0, 140, 186, 0.8); /* Efeito neon */
+    transform: scale(1.1); /* Aumenta o botão ao passar o mouse */
+}
+
+
+.image-or-video {
+    margin-right: 50px;
+}
+
+video {
+    border-radius: 10px;
+}
+
+.video-background {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50vw; /* O vídeo ocupará 50% da largura da tela */
+    height: 100vh; /* O vídeo ocupará 100% da altura da tela */
+    overflow: hidden;
+    z-index: -1; /* Colocar o vídeo atrás do texto */
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 50%);
+    /* Gradiente que começa com preto forte do lado direito e vai se desvanecendo */
+}
+
+video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.7); /* Escurece um pouco o vídeo */
+}
+
+/* Foto que fica no canto inferior esquerdo*/
+
+.footer {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    display: flex;
+    align-items: center;
+    z-index: 999;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    margin-left: 20px; /* Ajuste o valor conforme necessário */
+}
+
+.profile-pic {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #fff;
+    margin-right: 10px;
+}
+
+.profile-link {
+    text-decoration: none; /* Remove o sublinhado do link */
+    color: white; /* Cor do texto */
+    transition: transform 0.3s ease; /* Suaviza o efeito de zoom */
+}
+
+.profile-link:hover {
+    transform: scale(1.1); /* Efeito de zoom leve */
+}
+
+.profile p {
+    margin: 0;
+    font-size: 14px;
+}
+

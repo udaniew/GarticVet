@@ -1,1 +1,1203 @@
-const _0x1a6ff6={};_0x1a6ff6['papel']=['mp4/papel.mp4'],_0x1a6ff6['esquadro']=['mp4/esquadro.mp4'],_0x1a6ff6['piano']=['mp4/piano.mp4'],_0x1a6ff6['jarra']=['mp4/jarra.mp4'],_0x1a6ff6['boneca']=['mp4/boneca.mp4'],_0x1a6ff6['escrivaninha']=['mp4/escrivaninha.mp4','mp4/escrivaninha2.mp4'],_0x1a6ff6['lápis\x20de\x20cor']=['mp4/lápis\x20de\x20cor.mp4'],_0x1a6ff6['luva']=['mp4/luva.mp4'],_0x1a6ff6['luva\x20de\x20boxe']=['mp4/luva\x20de\x20boxe.mp4'],_0x1a6ff6['saxofone']=['mp4/saxofone.mp4'],_0x1a6ff6['cômoda']=['mp4/cômoda.mp4'],_0x1a6ff6['fogão\x20a\x20lenha']=['mp4/fogão\x20a\x20lenha.mp4'],_0x1a6ff6['brilho\x20labial']=['mp4/brilho\x20labial.mp4'],_0x1a6ff6['seringa']=['mp4/seringa.mp4'],_0x1a6ff6['guidão']=['mp4/guidão.mp4'],_0x1a6ff6['roteador']=['mp4/roteador.mp4'],_0x1a6ff6['tigela']=['mp4/tigela.mp4','mp4/tigela2.mp4'],_0x1a6ff6['ofurô']=['mp4/ofurô.mp4'],_0x1a6ff6['cama\x20elástica']=['mp4/cama\x20elástica.mp4'],_0x1a6ff6['estante']=['mp4/estante.mp4','mp4/estante2.mp4','mp4/estante3.mp4'],_0x1a6ff6['botão']=['mp4/botão.mp4','mp4/botão2.mp4'],_0x1a6ff6['broche']=['mp4/broche.mp4'],_0x1a6ff6['figurinha']=['mp4/figurinha.mp4','mp4/figurinha2.mp4'],_0x1a6ff6['pano\x20de\x20chão']=['mp4/pano\x20de\x20chão.mp4'],_0x1a6ff6['bongô']=['mp4/bongô.mp4'],_0x1a6ff6['cola']=['mp4/cola.mp4'],_0x1a6ff6['alarme']=['mp4/alarme.mp4'],_0x1a6ff6['míssil']=['mp4/míssil.mp4'],_0x1a6ff6['cortina']=['mp4/cortina.mp4','mp4/cortina2.mp4'],_0x1a6ff6['barril']=['mp4/barril2.mp4'],_0x1a6ff6['bigorna']=['mp4/bigorna.mp4'],_0x1a6ff6['gaveta']=['mp4/gaveta.mp4'],_0x1a6ff6['vasilha']=['mp4/vasilha.mp4'],_0x1a6ff6['mola']=['mp4/mola.mp4'],_0x1a6ff6['zíper']=['mp4/zíper.mp4'],_0x1a6ff6['caderno']=['mp4/caderno.mp4'],_0x1a6ff6['caderneta']=['mp4/caderneta.mp4'],_0x1a6ff6['máquina\x20de\x20datilografar']=['mp4/máquina\x20de\x20datilografar.mp4'],_0x1a6ff6['fichário']=['mp4/fichário.mp4'],_0x1a6ff6['âncora']=['mp4/âncora.mp4'],_0x1a6ff6['impressora']=['mp4/impressora.mp4'],_0x1a6ff6['filmadora']=['mp4/filmadora.mp4','mp4/filmadora2.mp4'],_0x1a6ff6['ferro\x20de\x20passar\x20roupa']=['mp4/ferro\x20de\x20passar\x20roupa.mp4'],_0x1a6ff6['macacão']=['mp4/macacão.mp4'],_0x1a6ff6['chave\x20canhão']=['mp4/chave\x20canhão.mp4'],_0x1a6ff6['capacete']=['mp4/capacete.mp4','mp4/capacete2.mp4'],_0x1a6ff6['prancheta']=['mp4/prancheta.mp4'],_0x1a6ff6['cartucho\x20de\x20tinta']=['mp4/cartucho\x20de\x20tinta.mp4'],_0x1a6ff6['balde']=['mp4/balde.mp4','mp4/balde2.mp4'],_0x1a6ff6['telefone']=['mp4/telefone.mp4'],_0x1a6ff6['edredom']=['mp4/edredom.mp4'],_0x1a6ff6['prateleira']=['mp4/prateleira.mp4'],_0x1a6ff6['geladeira']=['mp4/geladeira.mp4'],_0x1a6ff6['pires']=['mp4/pires.mp4'],_0x1a6ff6['bilhete']=['mp4/bilhete.mp4'],_0x1a6ff6['cristal']=['mp4/cristal.mp4'],_0x1a6ff6['transferidor']=['mp4/transferidor.mp4'],_0x1a6ff6['cama']=['mp4/cama.mp4'],_0x1a6ff6['chave\x20de\x20roda']=['mp4/chave\x20de\x20roda.mp4'],_0x1a6ff6['cruz']=['mp4/cruz.mp4','mp4/cruz2.mp4'],_0x1a6ff6['medalha']=['mp4/medalha.mp4'],_0x1a6ff6['lamparina']=['mp4/lamparina.mp4'],_0x1a6ff6['tanque']=['mp4/tanque.mp4'],_0x1a6ff6['camisa\x20de\x20força']=['mp4/camisa\x20de\x20força.mp4'],_0x1a6ff6['esmalte']=['mp4/esmalte.mp4'],_0x1a6ff6['caixa']=['mp4/caixa.mp4'],_0x1a6ff6['talco']=['mp4/talco.mp4'],_0x1a6ff6['cílios\x20postiços']=['mp4/cílios\x20postiços.mp4'],_0x1a6ff6['chapéu']=['mp4/chapéu.mp4','mp4/chapéu2.mp4'],_0x1a6ff6['carrinho\x20de\x20mão']=['mp4/carrinho\x20de\x20mão.mp4'],_0x1a6ff6['ioiô']=['mp4/ioiô.mp4','mp4/ioiô2.mp4'],_0x1a6ff6['lança']=['mp4/lança.mp4'],_0x1a6ff6['cafeteira']=['mp4/cafeteira.mp4'],_0x1a6ff6['carretel']=['mp4/carretel.mp4'],_0x1a6ff6['calota']=['mp4/calota.mp4'],_0x1a6ff6['hidrante']=['mp4/hidrante.mp4'],_0x1a6ff6['anilha']=['mp4/anilha.mp4'],_0x1a6ff6['máscara\x20de\x20mergulho']=['mp4/máscara\x20de\x20mergulho.mp4'],_0x1a6ff6['jaleco']=['mp4/jaleco.mp4'],_0x1a6ff6['leiteira']=['mp4/leiteira.mp4'],_0x1a6ff6['beliche']=['mp4/beliche.mp4'],_0x1a6ff6['maiô']=['mp4/maiô.mp4','mp4/maiô2.mp4'],_0x1a6ff6['tela']=['mp4/tela.mp4'],_0x1a6ff6['conta-gotas']=['mp4/conta-gotas.mp4'],_0x1a6ff6['bambolê']=['mp4/bambolê.mp4'],_0x1a6ff6['pipa']=['mp4/pipa.mp4','mp4/pipa2.mp4'],_0x1a6ff6['holofote']=['mp4/holofote.mp4'],_0x1a6ff6['cadeira\x20de\x20balanço']=['mp4/cadeira\x20de\x20balanço.mp4'],_0x1a6ff6['caixa\x20de\x20isopor']=['mp4/caixa\x20de\x20isopor.mp4'],_0x1a6ff6['aquecedor']=['mp4/aquecedor.mp4'],_0x1a6ff6['corda']=['mp4/corda.mp4','mp4/corda2.mp4'],_0x1a6ff6['casaco']=['mp4/casaco.mp4','mp4/casaco2.mp4'],_0x1a6ff6['cachecol']=['mp4/cachecol.mp4'],_0x1a6ff6['pingente']=['mp4/pingente.mp4','mp4/pingente2.mp4'],_0x1a6ff6['garrafa\x20térmica']=['mp4/garrafa\x20térmica.mp4'],_0x1a6ff6['echarpe']=['mp4/echarpe.mp4'],_0x1a6ff6['xícara']=['mp4/xícara.mp4'],_0x1a6ff6['baqueta']=['mp4/baqueta.mp4'],_0x1a6ff6['compasso']=['mp4/compasso.mp4'],_0x1a6ff6['coroa']=['mp4/coroa.mp4','mp4/coroa2.mp4'],_0x1a6ff6['unha\x20postiça']=['mp4/unha\x20postiça.mp4','mp4/unha\x20postiça2.mp4'],_0x1a6ff6['coleira']=['mp4/coleira.mp4'],_0x1a6ff6['brinco']=['mp4/brinco.mp4'],_0x1a6ff6['chave\x20de\x20boca']=['mp4/chave\x20de\x20boca.mp4'],_0x1a6ff6['mordaça']=['mp4/mordaça.mp4'],_0x1a6ff6['periscópio']=['mp4/periscópio.mp4','mp4/periscópio2.mp4'],_0x1a6ff6['pérola']=['mp4/pérola.mp4','mp4/pérola2.mp4'],_0x1a6ff6['almofada']=['mp4/almofada.mp4'],_0x1a6ff6['crucifixo']=['mp4/crucifixo.mp4'],_0x1a6ff6['escavadeira']=['mp4/escavadeira.mp4'],_0x1a6ff6['lixa\x20de\x20unha']=['mp4/lixa\x20de\x20unha.mp4'],_0x1a6ff6['micro-ondas']=['mp4/micro-ondas.mp4'],_0x1a6ff6['bandeira']=['mp4/bandeira.mp4'],_0x1a6ff6['pilão']=['mp4/pilão.mp4'],_0x1a6ff6['jangada']=['mp4/jangada.mp4'],_0x1a6ff6['panela']=['mp4/panela.mp4'],_0x1a6ff6['fita']=['mp4/fita.mp4'],_0x1a6ff6['mangueira']=['mp4/mangueira.mp4'],_0x1a6ff6['aspirador\x20de\x20pó']=['mp4/aspirador\x20de\x20pó.mp4','mp4/aspirador\x20de\x20pó2.mp4'],_0x1a6ff6['boia']=['mp4/boia.mp4','mp4/boia2.mp4'],_0x1a6ff6['arco']=['mp4/arco.mp4'],_0x1a6ff6['lustre']=['mp4/lustre.mp4'],_0x1a6ff6['pódio']=['mp4/pódio.mp4'],_0x1a6ff6['carta']=['mp4/carta.mp4','mp4/carta2.mp4'],_0x1a6ff6['short']=['mp4/short.mp4'],_0x1a6ff6['presente']=['mp4/presente.mp4'],_0x1a6ff6['camiseta']=['mp4/camiseta.mp4'],_0x1a6ff6['terno']=['mp4/terno.mp4','mp4/terno2.mp4'],_0x1a6ff6['tênis']=['mp4/tênis.mp4'],_0x1a6ff6['violão']=['mp4/violão.mp4'],_0x1a6ff6['marreta']=['mp4/marreta.mp4'],_0x1a6ff6['carimbo']=['mp4/carimbo.mp4','mp4/carimbo2.mp4'],_0x1a6ff6['iate']=['mp4/iate.mp4'],_0x1a6ff6['sabre']=['mp4/sabre.mp4'],_0x1a6ff6['ralo']=['mp4/ralo.mp4'],_0x1a6ff6['reco-reco']=['mp4/reco-reco.mp4'],_0x1a6ff6['triturador']=['mp4/triturador.mp4'],_0x1a6ff6['cone']=['mp4/cone.mp4'],_0x1a6ff6['gravata']=['mp4/gravata.mp4'],_0x1a6ff6['máquina\x20de\x20lavar\x20roupa']=['mp4/máquina\x20de\x20lavar\x20roupa.mp4'],_0x1a6ff6['granada']=['mp4/granada.mp4'],_0x1a6ff6['filtro\x20de\x20papel']=['mp4/filtro\x20de\x20papel.mp4','mp4/filtro\x20de\x20papel2.mp4'],_0x1a6ff6['papel\x20higiênico']=['mp4/papel\x20higiênico.mp4'],_0x1a6ff6['bafômetro']=['mp4/bafômetro.mp4'],_0x1a6ff6['para-raios']=['mp4/para-raios.mp4'],_0x1a6ff6['abridor\x20de\x20latas']=['mp4/abridor\x20de\x20latas.mp4','mp4/abridor\x20de\x20latas2.mp4'],_0x1a6ff6['dinamite']=['mp4/dinamite.mp4'],_0x1a6ff6['toldo']=['mp4/toldo.mp4'],_0x1a6ff6['rímel']=['mp4/rímel.mp4'],_0x1a6ff6['lata']=['mp4/lata.mp4'],_0x1a6ff6['cadeira']=['mp4/cadeira.mp4'],_0x1a6ff6['pia']=['mp4/pia.mp4'],_0x1a6ff6['espelho']=['mp4/espelho.mp4'],_0x1a6ff6['sutiã']=['mp4/sutiã.mp4','mp4/sutiã2.mp4'],_0x1a6ff6['bola\x20de\x20golfe']=['mp4/bola\x20de\x20golfe.mp4'],_0x1a6ff6['abridor\x20de\x20garrafa']=['mp4/abridor\x20de\x20garrafa.mp4'],_0x1a6ff6['relógio']=['mp4/relógio.mp4'],_0x1a6ff6['escapamento']=['mp4/escapamento.mp4'],_0x1a6ff6['violoncelo']=['mp4/violoncelo.mp4'],_0x1a6ff6['revista']=['mp4/revista.mp4'],_0x1a6ff6['lona']=['mp4/lona.mp4'],_0x1a6ff6['bule']=['mp4/bule.mp4'],_0x1a6ff6['véu']=['mp4/véu.mp4'],_0x1a6ff6['manequim']=['mp4/manequim.mp4'],_0x1a6ff6['paraquedas']=['mp4/paraquedas.mp4'],_0x1a6ff6['banco']=['mp4/banco.mp4'],_0x1a6ff6['liquidificador']=['mp4/liquidificador.mp4','mp4/liquidificador2.mp4'],_0x1a6ff6['quadro']=['mp4/quadro.mp4'],_0x1a6ff6['caixa\x20de\x20som']=['mp4/caixa\x20de\x20som.mp4'],_0x1a6ff6['tapete']=['mp4/tapete.mp4'],_0x1a6ff6['tanga']=['mp4/tanga.mp4','mp4/tanga2.mp4'],_0x1a6ff6['fones\x20de\x20ouvido']=['mp4/fones\x20de\x20ouvido.mp4'],_0x1a6ff6['canoa']=['mp4/canoa.mp4'],_0x1a6ff6['frigobar']=['mp4/frigobar.mp4'],_0x1a6ff6['foguete']=['mp4/foguete.mp4'],_0x1a6ff6['porta']=['mp4/porta.mp4'],_0x1a6ff6['guilhotina']=['mp4/guilhotina.mp4'],_0x1a6ff6['serra']=['mp4/serra.mp4','mp4/serra2.mp4'],_0x1a6ff6['carrinho']=['mp4/carrinho.mp4'],_0x1a6ff6['lanterna']=['mp4/lanterna.mp4'],_0x1a6ff6['buquê']=['mp4/buquê.mp4'],_0x1a6ff6['faca']=['mp4/faca.mp4'],_0x1a6ff6['ampulheta']=['mp4/ampulheta.mp4'],_0x1a6ff6['raquete\x20elétrica']=['mp4/raquete\x20elétrica.mp4','mp4/raquete\x20elétrica2.mp4'],_0x1a6ff6['borrifador']=['mp4/borrifador.mp4'],_0x1a6ff6['tablet']=['mp4/tablet.mp4','mp4/tablet2.mp4'],_0x1a6ff6['puff']=['mp4/puff.mp4'],_0x1a6ff6['torradeira']=['mp4/torradeira.mp4'],_0x1a6ff6['rolo\x20de\x20massa']=['mp4/rolo\x20de\x20massa.mp4'],_0x1a6ff6['extintor\x20de\x20incêndio']=['mp4/extintor\x20de\x20incêndio.mp4'],_0x1a6ff6['luminária']=['mp4/luminária.mp4'],_0x1a6ff6['esparadrapo']=['mp4/esparadrapo.mp4'],_0x1a6ff6['estilingue']=['mp4/estilingue.mp4'],_0x1a6ff6['agulha\x20de\x20crochê']=['mp4/agulha\x20de\x20crochê.mp4'],_0x1a6ff6['gesso']=['mp4/gesso.mp4'],_0x1a6ff6['fantoche']=['mp4/fantoche.mp4','mp4/fantoche2.mp4'],_0x1a6ff6['lenço']=['mp4/lenço.mp4'],_0x1a6ff6['penteadeira']=['mp4/penteadeira.mp4'],_0x1a6ff6['porta-retrato']=['mp4/porta-retrato.mp4'],_0x1a6ff6['vídeo\x20cassete']=['mp4/vídeo\x20cassete.mp4'],_0x1a6ff6['berimbau']=['mp4/berimbau.mp4'],_0x1a6ff6['chaveiro']=['mp4/chaveiro.mp4'],_0x1a6ff6['cisterna']=['mp4/cisterna.mp4','mp4/cisterna2.mp4'],_0x1a6ff6['pá']=['mp4/pá.mp4'],_0x1a6ff6['mala']=['mp4/mala.mp4','mp4/mala2.mp4'],_0x1a6ff6['cinta-liga']=['mp4/cinta-liga.mp4'],_0x1a6ff6['óculos\x20de\x20sol']=['mp4/óculos\x20de\x20sol.mp4'],_0x1a6ff6['balaio']=['mp4/balaio.mp4'],_0x1a6ff6['fax']=['mp4/fax.mp4'],_0x1a6ff6['suéter']=['mp4/suéter.mp4'],_0x1a6ff6['ralador']=['mp4/ralador.mp4'],_0x1a6ff6['prancha']=['mp4/prancha.mp4','mp4/prancha2.mp4'],_0x1a6ff6['churrasqueira']=['mp4/churrasqueira.mp4'],_0x1a6ff6['chaleira']=['mp4/chaleira.mp4'],_0x1a6ff6['giz\x20de\x20cera']=['mp4/giz\x20de\x20cera.mp4'],_0x1a6ff6['vaso\x20sanitário']=['mp4/vaso\x20sanitário.mp4','mp4/vaso\x20sanitário2.mp4'],_0x1a6ff6['gramofone']=['mp4/gramofone.mp4'],_0x1a6ff6['leque']=['mp4/leque.mp4'],_0x1a6ff6['tijolo']=['mp4/tijolo.mp4','mp4/tijolo2.mp4','mp4/tijolo3.mp4'],_0x1a6ff6['calçadeira']=['mp4/calçadeira.mp4'],_0x1a6ff6['cabo']=['mp4/cabo.mp4'],_0x1a6ff6['prego']=['mp4/prego.mp4'],_0x1a6ff6['corrente']=['mp4/corrente.mp4'],_0x1a6ff6['espátula']=['mp4/espátula.mp4','mp4/espátula2.mp4'],_0x1a6ff6['arpão']=['mp4/arpão.mp4'],_0x1a6ff6['cueca']=['mp4/cueca.mp4'],_0x1a6ff6['cinto']=['mp4/cinto.mp4'],_0x1a6ff6['parabrisa']=['mp4/parabrisa.mp4'],_0x1a6ff6['tiara']=['mp4/tiara.mp4'],_0x1a6ff6['quebra-cabeça']=['mp4/quebra-cabeça.mp4','mp4/quebra-cabeça2.mp4'],_0x1a6ff6['gancho']=['mp4/gancho.mp4'],_0x1a6ff6['alargador']=['mp4/alargador.mp4'],_0x1a6ff6['esponja']=['mp4/esponja.mp4'],_0x1a6ff6['cavaquinho']=['mp4/cavaquinho.mp4'],_0x1a6ff6['anzol']=['mp4/anzol.mp4','mp4/anzol2.mp4'],_0x1a6ff6['alicate']=['mp4/alicate.mp4'],_0x1a6ff6['diamante']=['mp4/diamante.mp4'],_0x1a6ff6['quebra-nozes']=['mp4/quebra-nozes.mp4'],_0x1a6ff6['microfone']=['mp4/microfone.mp4'],_0x1a6ff6['mouse']=['mp4/mouse.mp4'],_0x1a6ff6['bolsa']=['mp4/bolsa.mp4'],_0x1a6ff6['sandália']=['mp4/sandália.mp4','mp4/sandália.mp4'],_0x1a6ff6['farda']=['mp4/farda.mp4','mp4/farda2.mp4','mp4/farda3.mp4'],_0x1a6ff6['viola']=['mp4/viola.mp4'],_0x1a6ff6['pantufa']=['mp4/pantufa.mp4'],_0x1a6ff6['joelheira']=['mp4/joelheira.mp4'],_0x1a6ff6['bicho\x20de\x20pelúcia']=['mp4/bicho\x20de\x20pelúcia.mp4'],_0x1a6ff6['delineador']=['mp4/delineador.mp4'],_0x1a6ff6['ventilador']=['mp4/ventilador.mp4'],_0x1a6ff6['sapateira']=['mp4/sapateira.mp4'],_0x1a6ff6['charuto']=['mp4/charuto.mp4'],_0x1a6ff6['batom']=['mp4/batom.mp4'],_0x1a6ff6['novelo\x20de\x20lã']=['mp4/novelo\x20de\x20lã.mp4'],_0x1a6ff6['colcha']=['mp4/colcha.mp4'],_0x1a6ff6['batente']=['mp4/batente.mp4'],_0x1a6ff6['apito']=['mp4/apito.mp4'],_0x1a6ff6['chave\x20de\x20fenda']=['mp4/chave\x20de\x20fenda.mp4'],_0x1a6ff6['telescópio']=['mp4/telescópio.mp4'],_0x1a6ff6['hélice']=['mp4/hélice.mp4'],_0x1a6ff6['webcam']=['mp4/webcam.mp4'],_0x1a6ff6['elástico']=['mp4/elástico.mp4'],_0x1a6ff6['marionete']=['mp4/marionete.mp4'],_0x1a6ff6['pistola']=['mp4/pistola.mp4'],_0x1a6ff6['monitor']=['mp4/monitor.mp4'],_0x1a6ff6['cadeira\x20elétrica']=['mp4/cadeira\x20elétrica.mp4'],_0x1a6ff6['trono']=['mp4/trono.mp4'],_0x1a6ff6['pijama']=['mp4/pijama.mp4'],_0x1a6ff6['chave\x20de\x20grifo']=['mp4/chave\x20de\x20grifo.mp4'],_0x1a6ff6['chave\x20canhão']=['mp4/chave\x20canhão2.mp4'],_0x1a6ff6['cadeira\x20de\x20rodas']=['mp4/cadeira\x20de\x20rodas.mp4'],_0x1a6ff6['camisola']=['mp4/camisola.mp4'],_0x1a6ff6['cadeira\x20de\x20praia']=['mp4/cadeira\x20de\x20praia.mp4'],_0x1a6ff6['revólver']=['mp4/revólver.mp4'],_0x1a6ff6['televisão']=['mp4/televisão.mp4'],_0x1a6ff6['pente']=['mp4/pente.mp4'],_0x1a6ff6['escova']=['mp4/escova.mp4'],_0x1a6ff6['colcha']=['mp4/colcha.mp4'],_0x1a6ff6['megafone']=['mp4/megafone.mp4'],_0x1a6ff6['armadura']=['mp4/armadura.mp4'],_0x1a6ff6['esfigmomanômetro']=['mp4/esfigmomanômetro.mp4'],_0x1a6ff6['agulha']=['mp4/agulha.mp4'],_0x1a6ff6['coturno']=['mp4/coturno.mp4'],_0x1a6ff6['fronha']=['mp4/fronha.mp4'],_0x1a6ff6['gibi']=['mp4/gibi.mp4'],_0x1a6ff6['chinelo']=['mp4/chinelo.mp4'],_0x1a6ff6['guirlanda']=['mp4/guirlanda.mp4'],_0x1a6ff6['tamanco']=['mp4/tamanco.mp4','mp4/tamanco2.mp4'],_0x1a6ff6['persiana']=['mp4/persiana.mp4'],_0x1a6ff6['barbante']=['mp4/barbante.mp4'],_0x1a6ff6['álbum']=['mp4/álbum.mp4'],_0x1a6ff6['lâmpada']=['mp4/lâmpada.mp4'],_0x1a6ff6['ferrolho']=['mp4/ferrolho.mp4'],_0x1a6ff6['pacote']=['mp4/pacote.mp4'],_0x1a6ff6['estilete']=['mp4/estilete.mp4'],_0x1a6ff6['mesa\x20de\x20sinuca']=['mp4/mesa\x20de\x20sinuca.mp4'],_0x1a6ff6['isqueiro']=['mp4/isqueiro.mp4'],_0x1a6ff6['terno']=['mp4/terno.mp4'],_0x1a6ff6['poster']=['mp4/poster.mp4'],_0x1a6ff6['pano\x20de\x20prato']=['mp4/pano\x20de\x20prato.mp4'],_0x1a6ff6['botina']=['mp4/botina.mp4'],_0x1a6ff6['picareta']=['mp4/picareta.mp4'],_0x1a6ff6['canivete']=['mp4/canivete.mp4'],_0x1a6ff6['espiral']=['mp4/espiral.mp4'],_0x1a6ff6['basculante']=['mp4/basculante.mp4'],_0x1a6ff6['travesseiro']=['mp4/travesseiro.mp4'],_0x1a6ff6['flauta']=['mp4/flauta.mp4'],_0x1a6ff6['janela']=['mp4/janela.mp4'],_0x1a6ff6['órgão']=['mp4/órgão.mp4'],_0x1a6ff6['mesa\x20de\x20ping-pong']=['mp4/mesa\x20de\x20ping-pong.mp4'],_0x1a6ff6['mouse\x20pad']=['mp4/mouse\x20pad.mp4'],_0x1a6ff6['colar']=['mp4/colar.mp4'],_0x1a6ff6['lanterna\x20chinesa']=['mp4/lanterna\x20chinesa.mp4'],_0x1a6ff6['régua']=['mp4/régua.mp4'],_0x1a6ff6['camisa']=['mp4/camisa.mp4'],_0x1a6ff6['camisa\x20de\x20força']=['mp4/camisa\x20de\x20força.mp4'],_0x1a6ff6['cobertor']=['mp4/cobertor.mp4'],_0x1a6ff6['rasteirinha']=['mp4/rasteirinha.mp4'],_0x1a6ff6['pilha']=['mp4/pilha.mp4'],_0x1a6ff6['minissaia']=['mp4/minissaia.mp4'],_0x1a6ff6['manta']=['mp4/manta.mp4'],_0x1a6ff6['boné']=['mp4/boné.mp4','mp4/boné2.mp4'],_0x1a6ff6['pá\x20de\x20lixo']=['mp4/pá\x20de\x20lixo.mp4','mp4/pá\x20de\x20lixo2.mp4'],_0x1a6ff6['blusa']=['mp4/blusa.mp4'],_0x1a6ff6['aquecedor']=['mp4/aquecedor.mp4'],_0x1a6ff6['saia']=['mp4/saia.mp4'],_0x1a6ff6['dobradiça']=['mp4/dobradiça.mp4'],_0x1a6ff6['míssil']=['mp4/míssil.mp4'],_0x1a6ff6['alto\x20falante']=['mp4/alto\x20falante.mp4'],_0x1a6ff6['colchonete']=['mp4/colchonete.mp4'],_0x1a6ff6['navalha']=['mp4/navalha.mp4'],_0x1a6ff6['vídeo\x20game']=['mp4/vídeo\x20game.mp4'],_0x1a6ff6['salto\x20alto']=['mp4/salto\x20alto.mp4'],_0x1a6ff6['manete']=['mp4/manete.mp4'],_0x1a6ff6['pasta']=['mp4/pasta.mp4','mp4/pasta2.mp4'],_0x1a6ff6['armário']=['mp4/armário.mp4'],_0x1a6ff6['maca']=['mp4/maca.mp4'],_0x1a6ff6['exaustor']=['mp4/exaustor.mp4'],_0x1a6ff6['boneca']=['mp4/boneca.mp4'],_0x1a6ff6['bisturi']=['mp4/bisturi.mp4'],_0x1a6ff6['trave']=['mp4/trave.mp4'],_0x1a6ff6['guarda-roupa']=['mp4/guarda-roupa.mp4'],_0x1a6ff6['tumba']=['mp4/tumba.mp4','mp4/tumba2.mp4'],_0x1a6ff6['biombo']=['mp4/biombo.mp4'],_0x1a6ff6['lixeira']=['mp4/lixeira.mp4'],_0x1a6ff6['guardanapo']=['mp4/guardanapo.mp4','mp4/guardanapo2.mp4'],_0x1a6ff6['palmilha']=['mp4/palmilha.mp4'],_0x1a6ff6['bota']=['mp4/bota.mp4'],_0x1a6ff6['jaqueta']=['mp4/jaqueta.mp4'],_0x1a6ff6['galocha']=['mp4/galocha.mp4'],_0x1a6ff6['brinco']=['mp4/brinco.mp4'],_0x1a6ff6['rádio']=['mp4/rádio.mp4'],_0x1a6ff6['giz\x20de\x20cera']=['mp4/giz\x20de\x20cera.mp4'],_0x1a6ff6['guitarra']=['mp4/guitarra.mp4'],_0x1a6ff6['lençol']=['mp4/lençol.mp4','mp4/lençol2.mp4'],_0x1a6ff6['giz']=['mp4/giz.mp4'],_0x1a6ff6['rodo']=['mp4/rodo.mp4'],_0x1a6ff6['sapato']=['mp4/sapato.mp4','mp4/sapato2.mp4'],_0x1a6ff6['frigideira']=['mp4/frigideira.mp4'],_0x1a6ff6['toalha']=['mp4/toalha.mp4'],_0x1a6ff6['sanduicheira']=['mp4/sanduicheira.mp4','mp4/sanduicheira2.mp4'],_0x1a6ff6['vaso']=['mp4/vaso.mp4','mp4/vaso2.mp4'],_0x1a6ff6['foice']=['mp4/foice.mp4'],_0x1a6ff6['bola']=['mp4/bola.mp4'],_0x1a6ff6['mesa']=['mp4/mesa.mp4'],_0x1a6ff6['skate']=['mp4/skate.mp4'],_0x1a6ff6['cavalo\x20de\x20pau']=['mp4/cavalo\x20de\x20pau.mp4'],_0x1a6ff6['leiteira']=['mp4/leiteira.mp4'],_0x1a6ff6['caneca']=['mp4/caneca.mp4'],_0x1a6ff6['colher']=['mp4/colher.mp4'],_0x1a6ff6['rede\x20de\x20pesca']=['mp4/rede\x20de\x20pesca.mp4'],_0x1a6ff6['suspensório']=['mp4/suspensório.mp4'],_0x1a6ff6['escada']=['mp4/escada.mp4'],_0x1a6ff6['cachimbo']=['mp4/cachimbo.mp4'],_0x1a6ff6['algema']=['mp4/algema.mp4'],_0x1a6ff6['cesta']=['mp4/cesta.mp4'],_0x1a6ff6['saca-rolhas']=['mp4/saca-rolhas.mp4'],_0x1a6ff6['concha']=['mp4/concha.mp4'],_0x1a6ff6['cerca\x20elétrica']=['mp4/cerca\x20elétrica.mp4'],_0x1a6ff6['notebook']=['mp4/notebook.mp4'],_0x1a6ff6['gaiola']=['mp4/gaiola.mp4'],_0x1a6ff6['asa\x20delta']=['mp4/asa\x20delta.mp4'],_0x1a6ff6['caneta']=['mp4/caneta.mp4'],_0x1a6ff6['balão']=['mp4/balão.mp4'],_0x1a6ff6['tamborim']=['mp4/tamborim.mp4','mp4/tamborim2.mp4'],_0x1a6ff6['alfinete']=['mp4/alfinete.mp4','mp4/alfinete2.mp4'],_0x1a6ff6['serra\x20elétrica']=['mp4/serra\x20elétrica.mp4'],_0x1a6ff6['arame\x20farpado']=['mp4/arame\x20farpado.mp4'],_0x1a6ff6['agulheiro']=['mp4/agulheiro.mp4'],_0x1a6ff6['caixa\x20de\x20correio']=['mp4/caixa\x20de\x20correio.mp4','mp4/caixa\x20de\x20correio2.mp4'],_0x1a6ff6['faixa']=['mp4/faixa.mp4'],_0x1a6ff6['volante']=['mp4/volante.mp4'],_0x1a6ff6['tridente']=['mp4/tridente.mp4'],_0x1a6ff6['borracha']=['mp4/borracha.mp4'],_0x1a6ff6['ratoeira']=['mp4/ratoeira.mp4'],_0x1a6ff6['balança']=['mp4/balança.mp4'],_0x1a6ff6['envelope']=['mp4/envelope.mp4'],_0x1a6ff6['patinete']=['mp4/patinete.mp4'],_0x1a6ff6['sapatilha']=['mp4/sapatilha.mp4','mp4/sapatilha2.mp4'],_0x1a6ff6['estátua']=['mp4/estátua.mp4','mp4/estátua2.mp4'],_0x1a6ff6['caixa\x20de\x20ferramentas']=['mp4/caixa\x20de\x20ferramentas.mp4'],_0x1a6ff6['radar']=['mp4/radar.mp4'],_0x1a6ff6['gangorra']=['mp4/gangorra.mp4'],_0x1a6ff6['sombrinha']=['mp4/sombrinha.mp4'],_0x1a6ff6['anel']=['mp4/anel.mp4'],_0x1a6ff6['caixote']=['mp4/caixote.mp4'],_0x1a6ff6['algodão']=['mp4/algodão.mp4'],_0x1a6ff6['aliança']=['mp4/aliança.mp4'],_0x1a6ff6['rede']=['mp4/rede.mp4','mp4/rede2.mp4'],_0x1a6ff6['serrote']=['mp4/serrote.mp4','mp4/serrote2.mp4'],_0x1a6ff6['spray']=['mp4/spray.mp4'],_0x1a6ff6['jardineira']=['mp4/jardineira.mp4'],_0x1a6ff6['abafador']=['mp4/abafador.mp4'],_0x1a6ff6['abajur']=['mp4/abajur.mp4'],_0x1a6ff6['guarda-chuva']=['mp4/guarda-chuva.mp4'],_0x1a6ff6['fio']=['mp4/fio.mp4','mp4/fio2.mp4'],_0x1a6ff6['lápis']=['mp4/lápis.mp4'],_0x1a6ff6['alicate\x20de\x20unha']=['mp4/alicate\x20de\x20unha.mp4'],_0x1a6ff6['cajado']=['mp4/cajado.mp4'],_0x1a6ff6['guarda-sol']=['mp4/guarda-sol.mp4'],_0x1a6ff6['garfo']=['mp4/garfo.mp4'],_0x1a6ff6['lupa']=['mp4/lupa.mp4'],_0x1a6ff6['rede\x20de\x20descanso']=['mp4/rede\x20de\x20descanso.mp4'],_0x1a6ff6['rolha']=['mp4/rolha.mp4'],_0x1a6ff6['maracá']=['mp4/maracá.mp4'],_0x1a6ff6['cano']=['mp4/cano.mp4'],_0x1a6ff6['jeans']=['mp4/jeans.mp4'],_0x1a6ff6['caixão']=['mp4/caixão.mp4'],_0x1a6ff6['balaústre']=['mp4/balaústre.mp4'],_0x1a6ff6['chocalho']=['mp4/chocalho.mp4'],_0x1a6ff6['bengala']=['mp4/bengala.mp4'],_0x1a6ff6['calcinha']=['mp4/calcinha.mp4','mp4/calcinha2.mp4'],_0x1a6ff6['nariz\x20de\x20palhaço']=['mp4/nariz\x20de\x20palhaço.mp4'],_0x1a6ff6['calça']=['mp4/calça.mp4'],_0x1a6ff6['garrafa']=['mp4/garrafa.mp4'],_0x1a6ff6['disco']=['mp4/disco.mp4'],_0x1a6ff6['tambor']=['mp4/tambor.mp4'],_0x1a6ff6['enxada']=['mp4/enxada.mp4','mp4/enxada3.mp4'],_0x1a6ff6['cocar']=['mp4/cocar.mp4'],_0x1a6ff6['aspersório']=['mp4/aspersório.mp4'],_0x1a6ff6['buzina']=['mp4/buzina.mp4'],_0x1a6ff6['caneta\x20hidrocor']=['mp4/caneta\x20hidrocor.mp4'],_0x1a6ff6['pneu']=['mp4/pneu.mp4'],_0x1a6ff6['desodorante']=['mp4/desodorante.mp4'],_0x1a6ff6['apagador']=['mp4/apagador.mp4'],_0x1a6ff6['baioneta']=['mp4/baioneta.mp4'],_0x1a6ff6['cd']=['mp4/cd.mp4'],_0x1a6ff6['moeda']=['mp4/moeda.mp4'],_0x1a6ff6['andaime']=['mp4/andaime.mp4'],_0x1a6ff6['boina']=['mp4/boina.mp4'],_0x1a6ff6['antena']=['mp4/antena.mp4'],_0x1a6ff6['monóculo']=['mp4/monóculo.mp4','mp4/monóculo2.mp4'],_0x1a6ff6['dardo']=['mp4/dardo.mp4'],_0x1a6ff6['mochila']=['mp4/mochila.mp4'],_0x1a6ff6['aquário']=['mp4/aquário.mp4'],_0x1a6ff6['copo']=['mp4/copo.mp4'],_0x1a6ff6['aro']=['mp4/aro.mp4','mp4/aro2.mp4'],_0x1a6ff6['banqueta']=['mp4/banqueta.mp4'],_0x1a6ff6['andador']=['mp4/andador.mp4'],_0x1a6ff6['assadeira']=['mp4/assadeira.mp4'],_0x1a6ff6['baú']=['mp4/baú.mp4'],_0x1a6ff6['forma']=['mp4/forma.mp4'],_0x1a6ff6['berço']=['mp4/berço.mp4'],_0x1a6ff6['garfo']=['mp4/garfo.mp4'],_0x1a6ff6['gaita']=['mp4/gaita.mp4','mp4/gaita2.mp4'],_0x1a6ff6['oboé']=['mp4/oboé.mp4'],_0x1a6ff6['computador']=['mp4/computador.mp4'],_0x1a6ff6['relógio\x20de\x20sol']=['mp4/relógio\x20de\x20sol.mp4'],_0x1a6ff6['desentupidor']=['mp4/desentupidor.mp4','mp4/desentupidor2.mp4'],_0x1a6ff6['caixa\x20de\x20fósforo']=['mp4/caixa\x20de\x20fósforo.mp4'],_0x1a6ff6['chapéu\x20de\x20aniversário']=['mp4/chapéu\x20de\x20aniversário.mp4'],_0x1a6ff6['cetro']=['mp4/cetro.mp4','mp4/cetro2.mp4'],_0x1a6ff6['fantasia']=['mp4/fantasia.mp4'],_0x1a6ff6['bomba\x20de\x20ar']=['mp4/bomba\x20de\x20ar.mp4','mp4/bomba\x20de\x20ar.mp4','mp4/bomba\x20de\x20ar3.mp4'],_0x1a6ff6['canudo']=['mp4/canudo.mp4'],_0x1a6ff6['chave\x20inglesa']=['mp4/chave\x20inglesa.mp4'],_0x1a6ff6['bracelete']=['mp4/bracelete.mp4'],_0x1a6ff6['caneleira']=['mp4/caneleira.mp4'],_0x1a6ff6['chupeta']=['mp4/chupeta.mp4'],_0x1a6ff6['cata-vento']=['mp4/cata-vento.mp4'],_0x1a6ff6['chicote']=['mp4/chicote.mp4'],_0x1a6ff6['chave']=['mp4/chave.mp4'],_0x1a6ff6['carrinho\x20de\x20feira']=['mp4/carrinho\x20de\x20feira.mp4'],_0x1a6ff6['cartão\x20postal']=['mp4/cartão\x20postal.mp4','mp4/cartão\x20postal2.mp4'],_0x1a6ff6['cinto\x20de\x20segurança']=['mp4/cinto\x20de\x20segurança.mp4'],_0x1a6ff6['claquete']=['mp4/claquete.mp4'],_0x1a6ff6['cantil']=['mp4/cantil.mp4'],_0x1a6ff6['casula']=['mp4/casula.mp4'],_0x1a6ff6['catraca']=['mp4/catraca.mp4'],_0x1a6ff6['cantoneira']=['mp4/cantoneira.mp4'],_0x1a6ff6['candeeiro']=['mp4/candeeiro.mp4'],_0x1a6ff6['capacho']=['mp4/capacho.mp4'],_0x1a6ff6['chuteira']=['mp4/chuteira.mp4'],_0x1a6ff6['chave\x20estrela']=['mp4/chave\x20estrela.mp4'],_0x1a6ff6['cartão']=['mp4/cartão.mp4'],_0x1a6ff6['caixa\x20de\x20papelão']=['mp4/caixa\x20de\x20papelão.mp4'],_0x1a6ff6['carrinho\x20de\x20rolimã']=['mp4/carrinho\x20de\x20rolimã.mp4'],_0x1a6ff6['brinquedo']=['mp4/brinquedo.mp4'],_0x1a6ff6['bronzeador']=['mp4/bronzeador.mp4'],_0x1a6ff6['canga']=['mp4/canga.mp4'],_0x1a6ff6['clipe']=['mp4/clipe.mp4'],_0x1a6ff6['clava']=['mp4/clava.mp4'],_0x1a6ff6['cartola']=['mp4/cartola.mp4'],_0x1a6ff6['camisa\x20regata']=['mp4/camisa\x20regata.mp4','mp4/camisa\x20regata2.mp4'],_0x1a6ff6['caixa\x20registradora']=['mp4/caixa\x20registradora.mp4'],_0x1a6ff6['celular']=['mp4/celular.mp4'],_0x1a6ff6['carteira']=['mp4/carteira.mp4'],_0x1a6ff6['candelabro']=['mp4/candelabro.mp4'],_0x1a6ff6['cadarço']=['mp4/cadarço.mp4'],_0x1a6ff6['coador']=['mp4/coador.mp4'],_0x1a6ff6['bolsa\x20térmica']=['mp4/bolsa\x20térmica.mp4'],_0x1a6ff6['bola\x20de\x20boliche']=['mp4/bola\x20de\x20boliche.mp4'],_0x1a6ff6['bola\x20de\x20gude']=['mp4/bola\x20de\x20gude.mp4'],_0x1a6ff6['despertador']=['mp4/despertador.mp4'],_0x1a6ff6['controle\x20remoto']=['mp4/controle\x20remoto.mp4','mp4/controle\x20remoto2.mp4'],_0x1a6ff6['cruzeta']=['mp4/cruzeta.mp4','mp4/cruzeta2.mp4'],_0x1a6ff6['colchão\x20inflável']=['mp4/colchão\x20inflável.mp4'],_0x1a6ff6['corneta']=['mp4/corneta.mp4'],_0x1a6ff6['colírio']=['mp4/colírio.mp4'],_0x1a6ff6['cuia']=['mp4/cuia.mp4'],_0x1a6ff6['ponteiro']=['mp4/ponteiro.mp4'],_0x1a6ff6['dedal']=['mp4/dedal.mp4'],_0x1a6ff6['coifa']=['mp4/coifa.mp4'],_0x1a6ff6['comedouro']=['mp4/comedouro.mp4'],_0x1a6ff6['sunga']=['mp4/sunga.mp4'],_0x1a6ff6['diário']=['mp4/diário.mp4','mp4/diário2.mp4'],_0x1a6ff6['martelo']=['mp4/martelo.mp4'],_0x1a6ff6['crachá']=['mp4/crachá.mp4'],_0x1a6ff6['curvador\x20de\x20cílios']=['mp4/curvador\x20de\x20cílios.mp4'],_0x1a6ff6['cutelo']=['mp4/cutelo.mp4','mp4/cutelo2.mp4','mp4/cutelo3.mp4'],_0x1a6ff6['dado']=['mp4/dado.mp4'],_0x1a6ff6['ímã']=['mp4/ímã.mp4'],_0x1a6ff6['fruteira']=['mp4/fruteira.mp4'],_0x1a6ff6['escudo']=['mp4/escudo.mp4'],_0x1a6ff6['estaca']=['mp4/estaca.mp4'],_0x1a6ff6['fita\x20isolante']=['mp4/fita\x20isolante.mp4'],_0x1a6ff6['esfregão']=['mp4/esfregão.mp4'],_0x1a6ff6['escopeta']=['mp4/escopeta.mp4'],_0x1a6ff6['filtro\x20de\x20linha']=['mp4/filtro\x20de\x20linha.mp4'],_0x1a6ff6['fita\x20cassete']=['mp4/fita\x20cassete.mp4'],_0x1a6ff6['fio\x20dental']=['mp4/fio\x20dental.mp4'],_0x1a6ff6['escorredor\x20de\x20pratos']=['mp4/escorredor\x20de\x20pratos.mp4'],_0x1a6ff6['rastelo']=['mp4/rastelo.mp4'],_0x1a6ff6['farol\x20de\x20milha']=['mp4/farol\x20de\x20milha.mp4'],_0x1a6ff6['escorredor\x20de\x20macarrão']=['mp4/escorredor\x20de\x20macarrão.mp4'],_0x1a6ff6['flecha']=['mp4/flecha.mp4'],_0x1a6ff6['fivela']=['mp4/fivela.mp4'],_0x1a6ff6['vela']=['mp4/vela.mp4'],_0x1a6ff6['dominó']=['mp4/dominó.mp4'],_0x1a6ff6['biruta']=['mp4/biruta.mp4'],_0x1a6ff6['escorregador']=['mp4/escorregador.mp4'],_0x1a6ff6['fita\x20adesiva']=['mp4/fita\x20adesiva.mp4'],_0x1a6ff6['farolete']=['mp4/farolete.mp4'],_0x1a6ff6['estojo']=['mp4/estojo.mp4'],_0x1a6ff6['faqueiro']=['mp4/faqueiro.mp4'],_0x1a6ff6['estabilizador']=['mp4/estabilizador.mp4'],_0x1a6ff6['facão']=['mp4/facão.mp4'],_0x1a6ff6['espremedor\x20de\x20alho']=['mp4/espremedor\x20de\x20alho.mp4'],_0x1a6ff6['freezer']=['mp4/freezer.mp4'],_0x1a6ff6['ferradura']=['mp4/ferradura.mp4'],_0x1a6ff6['farinheiro']=['mp4/farinheiro.mp4'],_0x1a6ff6['funil']=['mp4/funil.mp4'],_0x1a6ff6['tobogã']=['mp4/tobogã.mp4'],_0x1a6ff6['filtro\x20de\x20água']=['mp4/filtro\x20de\x20água.mp4'],_0x1a6ff6['carimbo']=['mp4/carimbo.mp4'],_0x1a6ff6['fita\x20crepe']=['mp4/fita\x20crepe.mp4'],_0x1a6ff6['fogão']=['mp4/fogão.mp4','mp4/fogão2.mp4'],_0x1a6ff6['rifle']=['mp4/rifle.mp4'],_0x1a6ff6['flanela']=['mp4/flanela.mp4'],_0x1a6ff6['espanador']=['mp4/espanador.mp4'],_0x1a6ff6['frasco']=['mp4/frasco.mp4'],_0x1a6ff6['escumadeira']=['mp4/escumadeira.mp4'],_0x1a6ff6['estojo\x20de\x20maquiagem']=['mp4/estojo\x20de\x20maquiagem.mp4'],_0x1a6ff6['estatueta\x20do\x20oscar']=['mp4/estatueta\x20do\x20oscar.mp4','mp4/estatueta\x20do\x20oscar2.mp4'],_0x1a6ff6['cuíca']=['mp4/cuíca.mp4'],_0x1a6ff6['livro']=['mp4/livro.mp4'],_0x1a6ff6['chuveiro']=['mp4/chuveiro.mp4','mp4/chuveiro2.mp4','mp4/chuveiro3.mp4'],_0x1a6ff6['capa']=['mp4/capa.mp4','mp4/capa2.mp4'],_0x1a6ff6['pipoqueira']=['mp4/pipoqueira.mp4','mp4/pipoqueira2.mp4'],_0x1a6ff6['contrabaixo']=['mp4/contrabaixo.mp4'],_0x1a6ff6['grampo\x20de\x20cabelo']=['mp4/grampo\x20de\x20cabelo.mp4'],_0x1a6ff6['ombreira']=['mp4/ombreira.mp4'],_0x1a6ff6['bomba']=['mp4/bomba.mp4','mp4/bomba2.mp4'],_0x1a6ff6['avental']=['mp4/avental2.mp4'],_0x1a6ff6['tinta\x20de\x20cabelo']=['mp4/tinta\x20de\x20cabelo.mp4'],_0x1a6ff6['caldeirão']=['mp4/caldeirão.mp4'],_0x1a6ff6['bicama']=['mp4/bicama.mp4'],_0x1a6ff6['mastro']=['mp4/mastro.mp4'],_0x1a6ff6['vassoura']=['mp4/vassoura.mp4','mp4/vassoura2.mp4'],_0x1a6ff6['depilador\x20elétrico']=['mp4/depilador\x20elétrico.mp4','mp4/depilador\x20elétrico2.mp4','mp4/depilador\x20elétrico3.mp4'],_0x1a6ff6['scanner']=['mp4/scanner.mp4'],_0x1a6ff6['azulejo']=['mp4/azulejo.mp4'],_0x1a6ff6['jornal']=['mp4/jornal.mp4'],_0x1a6ff6['bidê']=['mp4/bidê.mp4','mp4/bidê2.mp4'],_0x1a6ff6['bumerangue']=['mp4/bumerangue.mp4'],_0x1a6ff6['rede\x20de\x20descanso']=['mp4/rede\x20de\x20descanso.mp4'],_0x1a6ff6['panela\x20de\x20pressão']=['mp4/panela\x20de\x20pressão.mp4'],_0x1a6ff6['cassetete']=['mp4/cassetete.mp4'],_0x1a6ff6['prato']=['mp4/prato.mp4'],_0x1a6ff6['corpete']=['mp4/corpete.mp4'],_0x1a6ff6['broca']=['mp4/broca.mp4'],_0x1a6ff6['bagageiro']=['mp4/bagageiro.mp4'],_0x1a6ff6['cortador\x20de\x20grama']=['mp4/cortador\x20de\x20grama.mp4'],_0x1a6ff6['apontador\x20de\x20lápis']=['mp4/apontador\x20de\x20lápis.mp4'],_0x1a6ff6['bateria']=['mp4/bateria.mp4'],_0x1a6ff6['mosquiteiro']=['mp4/mosquiteiro.mp4'],_0x1a6ff6['convite']=['mp4/convite.mp4'],_0x1a6ff6['batina']=['mp4/batina.mp4'],_0x1a6ff6['semáforo']=['mp4/semáforo.mp4','mp4/semáforo2.mp4'],_0x1a6ff6['tornozeleira']=['mp4/tornozeleira.mp4'],_0x1a6ff6['tatame']=['mp4/tatame.mp4','mp4/tatame2.mp4'],_0x1a6ff6['barbeador']=['mp4/barbeador.mp4','mp4/barbeador2.mp4'],_0x1a6ff6['berrante']=['mp4/berrante.mp4'],_0x1a6ff6['chimbal']=['mp4/chimbal.mp4'],_0x1a6ff6['colher\x20de\x20pau']=['mp4/colher\x20de\x20pau.mp4'],_0x1a6ff6['tridente']=['mp4/tridente.mp4'],_0x1a6ff6['corsário']=['mp4/corsário.mp4'],_0x1a6ff6['cueca']=['mp4/cueca.mp4'],_0x1a6ff6['espremedor\x20de\x20frutas']=['mp4/espremedor\x20de\x20frutas.mp4'],_0x1a6ff6['bíblia']=['mp4/bíblia.mp4'],_0x1a6ff6['esteira\x20ergométrica']=['mp4/esteira\x20ergométrica.mp4'],_0x1a6ff6['corretivo']=['mp4/corretivo.mp4'],_0x1a6ff6['colchão']=['mp4/colchão.mp4','mp4/colchão2.mp4'],_0x1a6ff6['espingarda']=['mp4/espingarda.mp4'],_0x1a6ff6['cotoveleira']=['mp4/cotoveleira.mp4'],_0x1a6ff6['trampolim']=['mp4/trampolim.mp4'],_0x1a6ff6['coldre']=['mp4/coldre.mp4'],_0x1a6ff6['cofre']=['mp4/cofre.mp4'],_0x1a6ff6['furadeira']=['mp4/furadeira.mp4'],_0x1a6ff6['panfleto']=['mp4/panfleto.mp4'],_0x1a6ff6['saboneteira']=['mp4/saboneteira.mp4'],_0x1a6ff6['lantejoula']=['mp4/lantejoula.mp4'],_0x1a6ff6['pinça']=['mp4/pinça.mp4','mp4/pinça2.mp4'],_0x1a6ff6['confete']=['mp4/confete.mp4'],_0x1a6ff6['boá']=['mp4/boá.mp4'],_0x1a6ff6['piercing']=['mp4/piercing.mp4'],_0x1a6ff6['máquina\x20de\x20lavar\x20louça']=['mp4/máquina\x20de\x20lavar\x20louça.mp4'],_0x1a6ff6['binóculo']=['mp4/binóculo.mp4'],_0x1a6ff6['pote']=['mp4/pote.mp4'],_0x1a6ff6['filmadora']=['mp4/filmadora.mp4'],_0x1a6ff6['alaúde']=['mp4/alaúde.mp4'],_0x1a6ff6['aerofólio']=['mp4/aerofólio.mp4'],_0x1a6ff6['açucareiro']=['mp4/açucareiro.mp4'],_0x1a6ff6['bazuca']=['mp4/bazuca.mp4','mp4/bazuca2.mp4'],_0x1a6ff6['bandolim']=['mp4/bandolim.mp4'],_0x1a6ff6['bandana']=['mp4/bandana.mp4'],_0x1a6ff6['estribo']=['mp4/estribo.mp4'],_0x1a6ff6['biqueira']=['mp4/biqueira.mp4'],_0x1a6ff6['betoneira']=['mp4/betoneira.mp4'],_0x1a6ff6['antena\x20parabólica']=['mp4/antena\x20parabólica.mp4'],_0x1a6ff6['camafeu']=['mp4/camafeu.mp4'],_0x1a6ff6['estetoscópio']=['mp4/estetoscópio.mp4','mp4/estetoscópio2.mp4','mp4/estetoscópio3.mp4'],_0x1a6ff6['aldrava']=['mp4/aldrava.mp4'],_0x1a6ff6['bilboquê']=['mp4/bilboquê.mp4'],_0x1a6ff6['banheira']=['mp4/banheira.mp4'],_0x1a6ff6['espada']=['mp4/espada.mp4'],_0x1a6ff6['prendedor\x20de\x20cabelo']=['mp4/prendedor\x20de\x20cabelo.mp4','mp4/prendedor\x20de\x20cabelo2.mp4'],_0x1a6ff6['afiador\x20de\x20facas']=['mp4/afiador\x20de\x20facas.mp4'],_0x1a6ff6['barraca']=['mp4/barraca.mp4'],_0x1a6ff6['astrolábio']=['mp4/astrolábio.mp4'],_0x1a6ff6['bacia']=['mp4/bacia.mp4','mp4/bacia2.mp4'],_0x1a6ff6['violino']=['mp4/violino.mp4','mp4/violino2.mp4'],_0x1a6ff6['beca']=['mp4/beca.mp4'],_0x1a6ff6['abotoadura']=['mp4/abotoadura.mp4'],_0x1a6ff6['adaga']=['mp4/adaga.mp4'],_0x1a6ff6['armadilha']=['mp4/armadilha.mp4'],_0x1a6ff6['amortecedor']=['mp4/amortecedor.mp4'],_0x1a6ff6['aparador']=['mp4/aparador.mp4'],_0x1a6ff6['bata']=['mp4/bata.mp4'],_0x1a6ff6['aljava']=['mp4/aljava.mp4'],_0x1a6ff6['relicário']=['mp4/relicário.mp4'],_0x1a6ff6['aneleira']=['mp4/aneleira.mp4'],_0x1a6ff6['batedeira']=['mp4/batedeira.mp4'],_0x1a6ff6['antolho']=['mp4/antolho.mp4'],_0x1a6ff6['balaclava']=['mp4/balaclava.mp4'],_0x1a6ff6['batuta']=['mp4/batuta.mp4'],_0x1a6ff6['arca']=['mp4/arca.mp4'],_0x1a6ff6['poltrona']=['mp4/poltrona.mp4','mp4/poltrona2.mp4'],_0x1a6ff6['biquíni']=['mp4/biquíni.mp4'],_0x1a6ff6['ábaco']=['mp4/ábaco.mp4'],_0x1a6ff6['autorama']=['mp4/autorama.mp4'],_0x1a6ff6['aparelho\x20ortodôntico']=['mp4/aparelho\x20ortodôntico.mp4'],_0x1a6ff6['balsa']=['mp4/balsa.mp4'],_0x1a6ff6['bicicleta\x20ergométrica']=['mp4/bicicleta\x20ergométrica.mp4'],_0x1a6ff6['adaptador']=['mp4/adaptador.mp4'],_0x1a6ff6['árvore\x20de\x20natal']=['mp4/árvore\x20de\x20natal.mp4'],_0x1a6ff6['baleiro']=['mp4/baleiro.mp4'],_0x1a6ff6['amuleto']=['mp4/amuleto.mp4'],_0x1a6ff6['modem']=['mp4/modem.mp4'],_0x1a6ff6['divã']=['mp4/divã.mp4'],_0x1a6ff6['retrato']=['mp4/retrato.mp4'],_0x1a6ff6['mamadeira']=['mp4/mamadeira.mp4'],_0x1a6ff6['retrovisor']=['mp4/retrovisor.mp4','mp4/retrovisor2.mp4'],_0x1a6ff6['forno\x20elétrico']=['mp4/forno\x20elétrico.mp4'],_0x1a6ff6['pilão']=['mp4/pilão.mp4'],_0x1a6ff6['colete']=['mp4/colete.mp4'],_0x1a6ff6['cabide']=['mp4/cabide.mp4'],_0x1a6ff6['dvd']=['mp4/dvd.mp4'],_0x1a6ff6['varal']=['mp4/varal.mp4'],_0x1a6ff6['chapinha\x20de\x20cabelo']=['mp4/chapinha\x20de\x20cabelo.mp4'],_0x1a6ff6['carrinho\x20de\x20bebê']=['mp4/carrinho\x20de\x20bebê.mp4'],_0x1a6ff6['uniforme']=['mp4/uniforme.mp4'],_0x1a6ff6['ceroula']=['mp4/ceroula.mp4'],_0x1a6ff6['urna']=['mp4/urna.mp4'],_0x1a6ff6['tubo\x20de\x20ensaio']=['mp4/tubo\x20de\x20ensaio.mp4'],_0x1a6ff6['vestido']=['mp4/vestido.mp4'],_0x1a6ff6['celada']=['mp4/celada.mp4'],_0x1a6ff6['tuba']=['mp4/tuba.mp4'],_0x1a6ff6['turbante']=['mp4/turbante.mp4'],_0x1a6ff6['vidro']=['mp4/vidro.mp4'],_0x1a6ff6['pregador']=['mp4/pregador.mp4'],_0x1a6ff6['toga']=['mp4/toga.mp4'],_0x1a6ff6['bombacha']=['mp4/bombacha.mp4'],_0x1a6ff6['cartão\x20de\x20crédito']=['mp4/cartão\x20de\x20crédito.mp4'],_0x1a6ff6['troféu']=['mp4/troféu.mp4'],_0x1a6ff6['caxixi']=['mp4/caxixi.mp4'],_0x1a6ff6['cálice']=['mp4/cálice.mp4'],_0x1a6ff6['xilofone']=['mp4/xilofone.mp4'],_0x1a6ff6['toalha\x20de\x20mesa']=['mp4/toalha\x20de\x20mesa.mp4'],_0x1a6ff6['rabeca']=['mp4/rabeca.mp4'],_0x1a6ff6['teclado']=['mp4/teclado.mp4'],_0x1a6ff6['tábua']=['mp4/tábua.mp4'],_0x1a6ff6['queijeira']=['mp4/queijeira.mp4'],_0x1a6ff6['trompete']=['mp4/trompete.mp4'],_0x1a6ff6['termômetro']=['mp4/termômetro.mp4'],_0x1a6ff6['radar']=['mp4/radar.mp4'],_0x1a6ff6['placa']=['mp4/placa.mp4'],_0x1a6ff6['rodapé']=['mp4/rodapé.mp4'],_0x1a6ff6['revisteiro']=['mp4/revisteiro.mp4'],_0x1a6ff6['pipeta']=['mp4/pipeta.mp4'],_0x1a6ff6['zabumba']=['mp4/zabumba.mp4'],_0x1a6ff6['polaina']=['mp4/polaina.mp4'],_0x1a6ff6['quepe']=['mp4/quepe.mp4'],_0x1a6ff6['bastão']=['mp4/bastão.mp4'],_0x1a6ff6['rack']=['mp4/rack.mp4'],_0x1a6ff6['rádio\x20gravador']=['mp4/rádio\x20gravador.mp4'],_0x1a6ff6['quimono']=['mp4/quimono.mp4'],_0x1a6ff6['sanfona']=['mp4/sanfona.mp4'],_0x1a6ff6['tesoura']=['mp4/tesoura.mp4'],_0x1a6ff6['regador']=['mp4/regador.mp4'],_0x1a6ff6['porta-lápis']=['mp4/porta-lápis.mp4'],_0x1a6ff6['gabinete']=['mp4/gabinete.mp4'],_0x1a6ff6['protetor\x20auricular']=['mp4/protetor\x20auricular.mp4'],_0x1a6ff6['trampolim']=['mp4/trampolim.mp4'],_0x1a6ff6['pulverizador']=['mp4/pulverizador.mp4'],_0x1a6ff6['rédea']=['mp4/rédea.mp4'],_0x1a6ff6['samba\x20canção']=['mp4/samba\x20canção.mp4'],_0x1a6ff6['retroprojetor']=['mp4/retroprojetor.mp4'],_0x1a6ff6['pochete']=['mp4/pochete.mp4'],_0x1a6ff6['taça']=['mp4/taça.mp4'],_0x1a6ff6['porta\x20cd']=['mp4/porta\x20cd.mp4'],_0x1a6ff6['remo']=['mp4/remo.mp4'],_0x1a6ff6['pisca-pisca']=['mp4/pisca-pisca.mp4'],_0x1a6ff6['protetor\x20bucal']=['mp4/protetor\x20bucal.mp4'],_0x1a6ff6['trompa']=['mp4/trompa.mp4'],_0x1a6ff6['saco\x20de\x20plástico']=['mp4/saco\x20de\x20plástico.mp4'],_0x1a6ff6['triângulo']=['mp4/triângulo.mp4'],_0x1a6ff6['tambor']=['mp4/tambor.mp4'],_0x1a6ff6['raquete']=['mp4/raquete.mp4'],_0x1a6ff6['taco']=['mp4/taco.mp4'],_0x1a6ff6['laço']=['mp4/laço.mp4'],_0x1a6ff6['puxador']=['mp4/puxador.mp4'],_0x1a6ff6['pluma']=['mp4/pluma.mp4'],_0x1a6ff6['rádio']=['mp4/rádio.mp4'],_0x1a6ff6['rádio\x20amador']=['mp4/rádio\x20amador.mp4'],_0x1a6ff6['pincel']=['mp4/pincel.mp4'],_0x1a6ff6['zarabatana']=['mp4/zarabatana.mp4'],_0x1a6ff6['pino']=['mp4/pino.mp4'],_0x1a6ff6['ralo\x20de\x20pia']=['mp4/ralo\x20de\x20pia.mp4'],_0x1a6ff6['talher']=['mp4/talher.mp4'],_0x1a6ff6['refratário']=['mp4/refratário.mp4'],_0x1a6ff6['telha']=['mp4/telha.mp4'],_0x1a6ff6['tecido']=['mp4/tecido.mp4'],_0x1a6ff6['touca']=['mp4/touca.mp4'],_0x1a6ff6['sandália']=['mp4/sandália.mp4'],_0x1a6ff6['parafuso']=['mp4/parafuso.mp4'],_0x1a6ff6['peteca']=['mp4/peteca.mp4'],_0x1a6ff6['patinete']=['mp4/patinete.mp4'],_0x1a6ff6['penteadeira']=['mp4/penteadeira.mp4'],_0x1a6ff6['papel\x20carbono']=['mp4/papel\x20carbono.mp4'],_0x1a6ff6['papel\x20laminado']=['mp4/papel\x20laminado.mp4'],_0x1a6ff6['pen\x20drive']=['mp4/pen\x20drive.mp4'],_0x1a6ff6['pato\x20de\x20borracha']=['mp4/pato\x20de\x20borracha.mp4'],_0x1a6ff6['perna\x20de\x20pau']=['mp4/perna\x20de\x20pau.mp4'],_0x1a6ff6['pêndulo']=['mp4/pêndulo.mp4'],_0x1a6ff6['pedra-pomes']=['mp4/pedra-pomes.mp4'],_0x1a6ff6['para-raios']=['mp4/para-raios.mp4'],_0x1a6ff6['perfurador\x20de\x20papel']=['mp4/perfurador\x20de\x20papel.mp4'],_0x1a6ff6['pedal']=['mp4/pedal.mp4'],_0x1a6ff6['pé\x20de\x20cabra']=['mp4/pé\x20de\x20cabra.mp4'],_0x1a6ff6['parca']=['mp4/parca.mp4'],_0x1a6ff6['peruca']=['mp4/peruca.mp4'],_0x1a6ff6['pantufa']=['mp4/pantufa.mp4'],_0x1a6ff6['papel\x20toalha']=['mp4/papel\x20toalha.mp4'],_0x1a6ff6['pilão']=['mp4/pilão.mp4'],_0x1a6ff6['periscópio']=['mp4/periscópio.mp4'],_0x1a6ff6['patins']=['mp4/patins.mp4'],_0x1a6ff6['papel\x20higiênico']=['mp4/papel\x20higiênico.mp4'],_0x1a6ff6['pente']=['mp4/pente.mp4'],_0x1a6ff6['pé\x20de\x20pato']=['mp4/pé\x20de\x20pato.mp4'],_0x1a6ff6['penhoar']=['mp4/penhoar.mp4'],_0x1a6ff6['pergaminho']=['mp4/pergaminho.mp4'],_0x1a6ff6['smoking']=['mp4/smoking.mp4'],_0x1a6ff6['fuzil']=['mp4/fuzil.mp4'],_0x1a6ff6['lista\x20telefônica']=['mp4/lista\x20telefônica.mp4'],_0x1a6ff6['calibrador']=['mp4/calibrador.mp4'],_0x1a6ff6['incensário']=['mp4/incensário.mp4'],_0x1a6ff6['peneira']=['mp4/peneira.mp4'],_0x1a6ff6['multiprocessador']=['mp4/multiprocessador.mp4'],_0x1a6ff6['palheta']=['mp4/palheta.mp4'],_0x1a6ff6['garrafa\x20pet']=['mp4/garrafa\x20pet.mp4'],_0x1a6ff6['cartão\x20de\x20memória']=['mp4/cartão\x20de\x20memória.mp4'];const mp4=_0x1a6ff6;let words=Object['keys'](mp4);function shuffle(_0x23d846){for(let _0x3c691a=_0x23d846['length']-(-0x761+-0xb59+0x12bb);_0x3c691a>-0x2164+-0x6*-0x279+0x128e;_0x3c691a--){const _0xdac15f=Math['floor'](Math['random']()*(_0x3c691a+(-0x5d*-0x25+-0x3cd+-0x9a3*0x1)));[_0x23d846[_0x3c691a],_0x23d846[_0xdac15f]]=[_0x23d846[_0xdac15f],_0x23d846[_0x3c691a]];}}shuffle(words);let currentIndex=0x773*0x3+-0x2432+0xdd9,score=0x1056+-0x112*0x11+-0x11*-0x1c,soundEnabled=!![];const mp4Container=document['getElementById']('mp4-container'),mp4Element=document['getElementById']('mp4'),placeholder=document['getElementById']('placeholder'),userInput=document['getElementById']('user-input'),correctSound=document['getElementById']('correct-sound'),scoreElement=document['getElementById']('score'),searchButton=document['getElementById']('search-button'),searchModal=document['getElementById']('search-modal'),searchInput=document['getElementById']('search-input'),searchSubmit=document['getElementById']('search-submit'),searchResult=document['getElementById']('search-result'),closeSearchModal=document['getElementById']('close-search-modal'),soundToggle=document['getElementById']('sound-toggle'),infoButton=document['getElementById']('info-button'),infoModal=document['getElementById']('info-modal'),closeInfoModal=document['getElementById']('close-info-modal');let inactivityTimeout;function loadNextMp4(){if(currentIndex<words['length']){const _0x2362df=words[currentIndex],_0x2cb401=mp4[_0x2362df],_0x44dd7f=_0x2cb401[Math['floor'](Math['random']()*_0x2cb401['length'])];mp4Element['src']=_0x44dd7f,mp4Element['style']['display']='block',placeholder['style']['display']='none',userInput['value']='',userInput['focus'](),console['log']('Palavra\x20correta\x20para\x20o\x20vídeo\x20atual:\x20'+_0x2362df),clearTimeout(inactivityTimeout),document['getElementById']('answerReveal')['style']['display']='none',inactivityTimeout=setTimeout(()=>{document['getElementById']('answerReveal')['textContent']=_0x2362df,document['getElementById']('answerReveal')['style']['display']='inline-block';},0xb32*0x2+0x1aca*0x2+-0x24e8),mp4Element['play']()['catch'](_0x13031b=>{console['log']('Reprodução\x20automática\x20falhou:',_0x13031b);});}else shuffle(words),currentIndex=0x27+0xca3+-0x1*0xcca,loadNextMp4();}userInput['addEventListener']('keypress',_0x3c52fc=>{if(_0x3c52fc['key']==='Enter'){const _0x23646b=userInput['value']['trim']()['toLowerCase']();_0x23646b===words[currentIndex]?(currentIndex++,score++,scoreElement['textContent']=score,soundEnabled&&correctSound['play'](),loadNextMp4(),mp4Container['style']['boxShadow']='0\x200\x2060px\x2020px\x20rgba(255,\x20255,\x20255,\x201)',setTimeout(()=>{mp4Container['style']['boxShadow']='0\x200\x2060px\x2020px\x20rgba(255,\x20255,\x20255,\x200.8)';},-0x53*0x2+-0xa4*-0x6+0x7*0x1a)):userInput['value']='';}});function attemptAutoPlay(){const _0x273035=mp4Element['play']();_0x273035!==undefined&&_0x273035['then'](()=>{console['log']('Reprodução\x20automática\x20bem-sucedida');})['catch'](_0x14f761=>{console['log']('Reprodução\x20automática\x20falhou:',_0x14f761);});}mp4Element['addEventListener']('canplaythrough',attemptAutoPlay),loadNextMp4(),searchButton['addEventListener']('click',()=>{searchModal['style']['display']='flex',searchInput['value']='',searchResult['textContent']='',searchInput['focus']();}),closeSearchModal['addEventListener']('click',()=>{searchModal['style']['display']='none';}),searchSubmit['addEventListener']('click',()=>{const _0x443cf9=searchInput['value']['trim']()['toLowerCase']();if(mp4[_0x443cf9]){const _0x1dc776=mp4[_0x443cf9],_0x385295=_0x1dc776[Math['floor'](Math['random']()*_0x1dc776['length'])];searchResult['innerHTML']='<video\x20src=\x22'+_0x385295+'\x22\x20controls\x20width=\x22100%\x22></video>',mp4Container['style']['boxShadow']='0\x200\x2060px\x2020px\x20rgba(255,\x20255,\x20255,\x201)',setTimeout(()=>{mp4Container['style']['boxShadow']='0\x200\x2060px\x2020px\x20rgba(255,\x20255,\x20255,\x200.8)';},0x1*-0x1d41+-0xa42+0x2b6b);}else searchResult['textContent']='Objeto\x20ainda\x20não\x20disponível';}),searchInput['addEventListener']('keypress',_0x28f833=>{_0x28f833['key']==='Enter'&&searchSubmit['click']();}),soundToggle['addEventListener']('click',()=>{soundEnabled=!soundEnabled,soundToggle['textContent']=soundEnabled?'🔊':'🔇';}),infoButton['addEventListener']('click',()=>{infoModal['style']['display']='flex';}),closeInfoModal['addEventListener']('click',()=>{infoModal['style']['display']='none';});const backgroundWords=['continue\x20tentando!','cada\x20erro\x20é\x20uma\x20lição.','a\x20prática\x20leva\x20à\x20perfeição.','o\x20primeiro\x20traço\x20é\x20importante','observe\x20o\x20primeiro\x20traço!','ouça\x20músicas\x20enquanto\x20joga!','até\x20mesmo\x20a\x20cor\x20dos\x20desenhos\x20é\x20importante!','se\x20atente\x20aos\x20detalhes\x20únicos\x20de\x20cada\x20desenho','isso\x20é\x20apenas\x20um\x20jogo','a\x20vida\x20é\x20mais\x20que\x20um\x20joguinho','ouça\x20AntXres\x20no\x20spotify','digitar\x20devagar\x20é\x20essencial\x20às\x20vezes','seu\x20feedback\x20é\x20importante','ler\x20isso\x20atrapalha\x20você?','as\x20pessoas\x20realmente\x20leem\x20isso?','você\x20pode\x20fazer\x20melhor','a\x20verdadeira\x20vitória\x20vem\x20com\x20o\x20desafio!','você\x20está\x20ficando\x20para\x20trás,\x20que\x20tal\x20digitar\x20mais\x20rápido?','Você\x20está\x20evoluindo','que\x20tal\x20errar\x20menos?','syuz\x20fã\x20de\x20daniewz','seu\x20desempenho\x20é\x20fraco','você\x20continua\x20falhando','quanto\x20mais\x20prática,\x20melhor!','Você\x20está\x20tentando,\x20mas\x20parece\x20inútil','Você\x20está\x20longe\x20de\x20dominar.','pausas\x20são\x20necessárias!','entre\x20no\x20servidor\x20do\x20discord','percepção\x20é\x20necessário','não\x20é\x20sobre\x20velocidade,\x20às\x20vezes','até\x20mesmo\x20o\x20hardware\x20importa','jogar\x20com\x20conexões\x20cabeadas\x20será\x20sempre\x20vantajoso','o\x20mal\x20tem\x20uma\x20falsa\x20vitória\x20sobre\x20o\x20bem','tenha\x20paciência\x20com\x20as\x20pessoas','você\x20também\x20já\x20foi\x20noob','que\x20tal\x20ser\x20menos\x20arrogante?','não\x20perca\x20seu\x20tempo\x20com\x20assuntos\x20frivolos','já\x20ouviu\x20falar\x20em\x20efeito\x20placebo?','apenas\x20você\x20se\x20conhece\x20realmente','compartilhe\x20nosso\x20servidor','convide\x20pessoas\x20para\x20aprender','convide\x20pessoas\x20para\x20praticar','certas\x20coisas\x20são\x20inevitáveis','se\x20coloque\x20no\x20lugar\x20dos\x20outros','tenha\x20empatia','reconheça\x20o\x20esforço\x20dos\x20outros','a\x20humildade\x20precede\x20a\x20honra','seja\x20esperto','evite\x20assuntos\x20demasiadamente\x20superficiais','nem\x20todos\x20merecem\x20sua\x20atençâo','se\x20valorize\x20como\x20pessoa','algumas\x20frases\x20são\x20para\x20a\x20vida','aprenda\x20sobre\x20memória\x20muscular','aprenda\x20usar\x20o\x20seu\x20cérebro','já\x20ouviu\x20falar\x20sobre\x20neurociência?','você\x20já\x20errou\x20na\x20vida?\x20Acha\x20que\x20merece\x202º\x20chance?','algumas\x20pessoas\x20merecem\x20a\x202º\x20chance','feito\x20por\x20daniewz\x20e\x20denni_0014','você\x20pode\x20jogar\x20no\x20mobile\x20também','é\x20normal\x20bugar\x20em\x20alguns\x20desenhos','valorize\x20o\x20trabalho\x20das\x20pessoas','evite\x20comparações','consuma\x20bons\x20conteúdos\x20na\x20internet','quanto\x20mais\x20variações\x20de\x20desenho\x20melhor!','ajude\x20enviando\x20vídeos\x20com\x20variações\x20para\x20objetos!','mantenha\x20este\x20aplicativo\x20sempre\x20atualizado!','atualizações\x20deste\x20app\x20no\x20servidor\x20do\x20discord','digite\x20o\x20mais\x20rapido\x20possível!','pessoas\x20de\x20sucesso\x20definem\x20metas\x20realistas','uma\x20longa\x20viagem\x20começa\x20por\x20um\x20passo','o\x20melhor\x20modo\x20de\x20prever\x20o\x20futuro\x20é\x20criá-lo\x20-\x20Peter\x20Drucker','pratique\x20sua\x20digitação','seja\x20mais\x20rápido,\x20ou\x20desista','erros\x20demais,\x20foco!','não\x20consegue\x20fazer\x20melhor?','tente\x20não\x20errar','você\x20é\x20realmente\x20lento','cadê\x20sua\x20habilidade?','esse\x20é\x20seu\x20máximo?','mais\x20foco,\x20menos\x20erro!','esse\x20app\x20não\x20coleta\x20nenhum\x20dado\x20seu','esse\x20app\x20funciona\x20100%\x20off-line','sites\x20para\x20praticar\x20digitação:\x2010fastfingers,\x20monkeytype','a\x20vida\x20é\x20simples,\x20nós\x20é\x20que\x20complicamos.\x20-\x20Confúcio','a\x20coragem\x20é\x20a\x20primeira\x20qualidade\x20humana,\x20pois\x20garante\x20as\x20outras.\x20-\x20Aristóteles','sem\x20música,\x20a\x20vida\x20seria\x20um\x20erro','atualizações\x20serão\x20fornecidas\x20através\x20do\x20servidor\x20do\x20discord','estar\x20ciente\x20das\x20suas\x20limitações\x20já\x20é\x20estar\x20além\x20delas\x20-\x20hegel','garota,\x20você\x20é\x20interestelar!\x20Nem\x20a\x20estrela\x20mais\x20linda\x20tem\x20a\x20luz\x20que\x20cê\x20tem!','as\x20estrelas\x20apareceram\x20na\x20minha\x20frente\x20quando\x20eu\x20recebi\x20seu\x20abraço!','este\x20jogo\x20esta\x20disponivel\x20como\x20app\x20para\x20windows,\x20android\x20e\x20como\x20site!'];function createWordElement(_0x4a5de5){const _0x4bb7f6=document['createElement']('div');_0x4bb7f6['textContent']=_0x4a5de5,_0x4bb7f6['className']='background-word',document['body']['appendChild'](_0x4bb7f6);const _0x43f985=_0x4bb7f6['offsetWidth'],_0x52995e=_0x4bb7f6['offsetHeight'];_0x4bb7f6['remove']();const _0x42d637=window['innerWidth'],_0x371db9=window['innerHeight'];let _0x69a716,_0x1b5d73;const _0x2e8f89=Math['floor'](Math['random']()*(-0x10a3+-0x3a4+0x3*0x6c5));switch(_0x2e8f89){case-0x12a3*0x2+0x1*-0x2275+0x17e9*0x3:_0x69a716=Math['min'](0x4b5+0x22c0+-0x276b,_0x42d637-_0x43f985),_0x1b5d73=Math['min'](-0x5e*0x4c+0x79*-0x4c+0x3fde,_0x371db9-_0x52995e);break;case 0x187a+-0x26*0x106+0xe6b:_0x69a716=Math['min'](0x5eb+-0x13db*0x1+0xdfa,_0x42d637-_0x43f985),_0x1b5d73=(_0x371db9-_0x52995e)/(0x1185+-0x88f+0x2*-0x47a);break;case-0x710+0x5*-0x79+0x96f:_0x69a716=(_0x42d637-_0x43f985)/(-0x3c1+0x7f4+-0x1d*0x25),_0x1b5d73=Math['min'](0x1850+-0xbb2+-0xc94,_0x371db9-_0x52995e);break;case 0x242d+0x2e1*-0x5+-0x15c5:_0x69a716=(_0x42d637-_0x43f985)/(0x109e+-0x2aa+-0x77*0x1e),_0x1b5d73=(_0x371db9-_0x52995e)/(-0x1b84+0x1*0x23bd+-0x837*0x1);break;case 0x29e+0x1*-0xc89+0x9ef:_0x69a716=Math['max'](_0x42d637-_0x43f985-(0x180a+-0x1626+-0x1da*0x1),0x3*0x2a9+-0x84e+0x53),_0x1b5d73=(_0x371db9-_0x52995e)/(0x3*-0x75+0x11c9*0x2+-0x2231*0x1);break;case 0xd45+-0x141a+-0x2*-0x36d:_0x69a716=Math['max'](_0x42d637-_0x43f985-(-0x2277+-0x2*0x4f5+-0x53*-0x89),0x1d6e*0x1+-0x2369+-0x1*-0x5fb),_0x1b5d73=Math['min'](-0x1086*-0x2+-0xfb4+-0x1*0x114e,_0x371db9-_0x52995e);break;case-0x1*0x618+-0xab6+0x10d4:_0x69a716=Math['max'](_0x42d637-_0x43f985-(0xa65+-0x79f*0x4+-0x1421*-0x1),0x13a*0x8+0x1a53+-0x2423),_0x1b5d73=Math['max'](_0x371db9-_0x52995e-(0x2709+0x344+0x2a43*-0x1),-0x2*0x130c+-0x15eb+-0x1401*-0x3);break;case-0x1938+-0xa*0x141+0x25c9:_0x69a716=Math['min'](0x13bd*-0x1+0x1d59+-0x992,_0x42d637-_0x43f985),_0x1b5d73=Math['max'](_0x371db9-_0x52995e-(0x2ab+0x1*-0x2039+-0xecc*-0x2),0x108b+-0x20e+0xe7d*-0x1);break;default:_0x69a716=0xe8e+0x1145*-0x1+-0x8b*-0x5,_0x1b5d73=0x2*-0x1043+0xbee+0x1498;break;}_0x4bb7f6['style']['position']='absolute',_0x4bb7f6['style']['left']=_0x69a716+'px',_0x4bb7f6['style']['top']=_0x1b5d73+'px',document['body']['appendChild'](_0x4bb7f6),setTimeout(()=>{_0x4bb7f6['classList']['add']('fade-in');},-0x2445+0x8*0x33d+0xa5d),setTimeout(()=>{_0x4bb7f6['style']['opacity']=0x1544+-0x493*-0x2+0x1e6a*-0x1,setTimeout(()=>{_0x4bb7f6['remove']();},-0x2485+0x24eb*0x1+0x76a);},0xe1*-0x49+-0xcab+0x73e4);}function startBackgroundWords(){setInterval(()=>{const _0x6a5892=Math['floor'](Math['random']()*backgroundWords['length']),_0x4695cb=backgroundWords[_0x6a5892];createWordElement(_0x4695cb);},-0x1*0x92b+-0xf*-0x9a5+-0x3d48*0x1);}startBackgroundWords();
+const mp4 = {
+    'papel': ['mp4/papel.mp4'],
+    'esquadro': ['mp4/esquadro.mp4'],
+    'piano': ['mp4/piano.mp4'],
+    'jarra': ['mp4/jarra.mp4'],
+    'boneca': ['mp4/boneca.mp4'],
+    'escrivaninha': ['mp4/escrivaninha.mp4' , 'mp4/escrivaninha2.mp4'],
+    'lápis de cor': ['mp4/lápis de cor.mp4'],
+    'luva': ['mp4/luva.mp4'],
+    'luva de boxe' : ['mp4/luva de boxe.mp4'],
+    'saxofone': ['mp4/saxofone.mp4'],
+    'cômoda': ['mp4/cômoda.mp4'],
+    'fogão a lenha': ['mp4/fogão a lenha.mp4'],
+    'brilho labial': ['mp4/brilho labial.mp4'],
+    'seringa': ['mp4/seringa.mp4'],
+    'guidão': ['mp4/guidão.mp4'],
+    'roteador': ['mp4/roteador.mp4'],
+    'tigela' : ['mp4/tigela.mp4' , 'mp4/tigela2.mp4'],
+    'ofurô': ['mp4/ofurô.mp4'],
+    'cama elástica': ['mp4/cama elástica.mp4'],
+    'estante': ['mp4/estante.mp4' , 'mp4/estante2.mp4' ,'mp4/estante3.mp4'],
+    'botão': ['mp4/botão.mp4' , 'mp4/botão2.mp4'],
+    'broche': ['mp4/broche.mp4'],
+    'figurinha': ['mp4/figurinha.mp4', 'mp4/figurinha2.mp4'],
+    'pano de chão': ['mp4/pano de chão.mp4'],
+    'bongô': ['mp4/bongô.mp4'],
+    'cola': ['mp4/cola.mp4'],
+    'alarme': ['mp4/alarme.mp4'],
+    'míssil': ['mp4/míssil.mp4'],
+    'cortina': ['mp4/cortina.mp4', 'mp4/cortina2.mp4'],
+    'barril': ['mp4/barril2.mp4'],
+    'bigorna': ['mp4/bigorna.mp4'],
+    'gaveta': ['mp4/gaveta.mp4'],
+    'vasilha': ['mp4/vasilha.mp4'],
+    'mola': ['mp4/mola.mp4'],
+    'zíper': ['mp4/zíper.mp4'],
+    'caderno': ['mp4/caderno.mp4'],
+    'caderneta' : ['mp4/caderneta.mp4'],
+    'máquina de datilografar' : ['mp4/máquina de datilografar.mp4'],
+    'fichário': ['mp4/fichário.mp4'],
+    'âncora': ['mp4/âncora.mp4'],
+    'impressora': ['mp4/impressora.mp4'],
+    'filmadora': ['mp4/filmadora.mp4', 'mp4/filmadora2.mp4'],
+    'ferro de passar roupa': ['mp4/ferro de passar roupa.mp4'],
+    'macacão': ['mp4/macacão.mp4'],
+    'chave canhão': ['mp4/chave canhão.mp4'],
+    'capacete': ['mp4/capacete.mp4' , 'mp4/capacete2.mp4'],
+    'prancheta': ['mp4/prancheta.mp4'],
+    'cartucho de tinta': ['mp4/cartucho de tinta.mp4'],
+    'balde': ['mp4/balde.mp4' , 'mp4/balde2.mp4'],
+    'telefone': ['mp4/telefone.mp4'],
+    'edredom': ['mp4/edredom.mp4'],
+    'prateleira': ['mp4/prateleira.mp4'],
+    'geladeira': ['mp4/geladeira.mp4'],
+    'pires': ['mp4/pires.mp4'],
+    'bilhete': ['mp4/bilhete.mp4'],
+    'cristal': ['mp4/cristal.mp4'],
+    'transferidor': ['mp4/transferidor.mp4'],
+    'cama': ['mp4/cama.mp4'],
+    'chave de roda': ['mp4/chave de roda.mp4'],
+    'cruz': ['mp4/cruz.mp4' , 'mp4/cruz2.mp4'],
+    'medalha': ['mp4/medalha.mp4'],
+    'lamparina': ['mp4/lamparina.mp4'],
+    'tanque': ['mp4/tanque.mp4'],
+    'camisa de força': ['mp4/camisa de força.mp4'],
+    'esmalte': ['mp4/esmalte.mp4'],
+    'caixa': ['mp4/caixa.mp4'],
+    'talco': ['mp4/talco.mp4'],
+    'cílios postiços': ['mp4/cílios postiços.mp4'],
+    'chapéu': ['mp4/chapéu.mp4' , 'mp4/chapéu2.mp4'],
+    'carrinho de mão': ['mp4/carrinho de mão.mp4'],
+    'ioiô': ['mp4/ioiô.mp4', 'mp4/ioiô2.mp4'],
+    'lança': ['mp4/lança.mp4'],
+    'cafeteira': ['mp4/cafeteira.mp4'],
+    'carretel' : ['mp4/carretel.mp4'],
+    'calota' : ['mp4/calota.mp4'],
+    'hidrante': ['mp4/hidrante.mp4'],
+    'anilha': ['mp4/anilha.mp4'],
+    'máscara de mergulho': ['mp4/máscara de mergulho.mp4'],
+    'jaleco' : ['mp4/jaleco.mp4'],
+    'leiteira' : ['mp4/leiteira.mp4'],
+    'beliche' : ['mp4/beliche.mp4'],
+    'maiô' : ['mp4/maiô.mp4', 'mp4/maiô2.mp4'],
+    'tela' : ['mp4/tela.mp4'],
+    'conta-gotas' : ['mp4/conta-gotas.mp4'],
+    'bambolê' : ['mp4/bambolê.mp4'],
+    'pipa': ['mp4/pipa.mp4' , 'mp4/pipa2.mp4'],
+    'holofote' : ['mp4/holofote.mp4'],
+    'cadeira de balanço': ['mp4/cadeira de balanço.mp4'],
+    'caixa de isopor' : ['mp4/caixa de isopor.mp4'],
+    'aquecedor' : ['mp4/aquecedor.mp4'],
+    'corda' : ['mp4/corda.mp4', 'mp4/corda2.mp4'],
+    'casaco' : ['mp4/casaco.mp4', 'mp4/casaco2.mp4'],
+    'cachecol' : ['mp4/cachecol.mp4'],
+    'pingente': ['mp4/pingente.mp4' , 'mp4/pingente2.mp4'],
+    'garrafa térmica' : ['mp4/garrafa térmica.mp4'],
+    'echarpe' : ['mp4/echarpe.mp4'],
+    'xícara': ['mp4/xícara.mp4'],
+    'baqueta': ['mp4/baqueta.mp4'],
+    'compasso': ['mp4/compasso.mp4'],
+    'coroa': ['mp4/coroa.mp4' , 'mp4/coroa2.mp4'],
+    'unha postiça' : ['mp4/unha postiça.mp4' , 'mp4/unha postiça2.mp4'],
+    'coleira': ['mp4/coleira.mp4'],
+    'brinco': ['mp4/brinco.mp4'],
+    'chave de boca': ['mp4/chave de boca.mp4'],
+    'mordaça': ['mp4/mordaça.mp4'],
+    'periscópio' : ['mp4/periscópio.mp4' , 'mp4/periscópio2.mp4'],
+    'pérola' : ['mp4/pérola.mp4' , 'mp4/pérola2.mp4'],
+    'almofada' : ['mp4/almofada.mp4'],
+    'crucifixo' : ['mp4/crucifixo.mp4'],
+    'escavadeira' : ['mp4/escavadeira.mp4'],
+    'lixa de unha' : ['mp4/lixa de unha.mp4'],
+    'micro-ondas' : ['mp4/micro-ondas.mp4'],
+    'bandeira' : ['mp4/bandeira.mp4'],
+    'pilão' : ['mp4/pilão.mp4'],
+    'jangada' : ['mp4/jangada.mp4'],
+    'panela' : ['mp4/panela.mp4'],
+    'fita' : ['mp4/fita.mp4'],
+    'mangueira' : ['mp4/mangueira.mp4'],
+    'aspirador de pó' : ['mp4/aspirador de pó.mp4' , 'mp4/aspirador de pó2.mp4'],
+    'boia' : ['mp4/boia.mp4', 'mp4/boia2.mp4'],
+    'arco' : ['mp4/arco.mp4'],
+    'lustre' : ['mp4/lustre.mp4'],
+    'pódio' : ['mp4/pódio.mp4'],
+    'carta' : ['mp4/carta.mp4', 'mp4/carta2.mp4'],
+    'short' : ['mp4/short.mp4'],
+    'presente' : ['mp4/presente.mp4'],
+    'camiseta' : ['mp4/camiseta.mp4'],
+    'terno' : ['mp4/terno.mp4' , 'mp4/terno2.mp4'],
+    'tênis' : ['mp4/tênis.mp4'],
+    'violão' : ['mp4/violão.mp4'],
+    'marreta' : ['mp4/marreta.mp4'],
+    'carimbo' : ['mp4/carimbo.mp4', 'mp4/carimbo2.mp4'],
+    'iate' : ['mp4/iate.mp4'],
+    'sabre' : ['mp4/sabre.mp4'],
+    'ralo' : ['mp4/ralo.mp4'],
+    'reco-reco' : ['mp4/reco-reco.mp4'],
+    'triturador' : ['mp4/triturador.mp4'],
+    'cone' : ['mp4/cone.mp4'],
+    'gravata' : ['mp4/gravata.mp4'],
+    'máquina de lavar roupa' : ['mp4/máquina de lavar roupa.mp4'],
+    'granada' : ['mp4/granada.mp4'],
+    'filtro de papel' : ['mp4/filtro de papel.mp4' , 'mp4/filtro de papel2.mp4'],
+    'papel higiênico' : ['mp4/papel higiênico.mp4'],
+    'bafômetro' : ['mp4/bafômetro.mp4'],
+    'para-raios' : ['mp4/para-raios.mp4'],
+    'abridor de latas' : ['mp4/abridor de latas.mp4' ,'mp4/abridor de latas2.mp4'],
+    'dinamite' : ['mp4/dinamite.mp4'],
+    'toldo' : ['mp4/toldo.mp4'],
+    'rímel' : ['mp4/rímel.mp4'],
+    'lata' : ['mp4/lata.mp4'],
+    'cadeira' : ['mp4/cadeira.mp4'],
+    'pia' : ['mp4/pia.mp4'],
+    'espelho' : ['mp4/espelho.mp4'],
+    'sutiã' : ['mp4/sutiã.mp4' , 'mp4/sutiã2.mp4'],
+    'bola de golfe' : ['mp4/bola de golfe.mp4'],
+    'abridor de garrafa' : ['mp4/abridor de garrafa.mp4'],
+    'relógio' : ['mp4/relógio.mp4'],
+    'escapamento' : ['mp4/escapamento.mp4'],
+    'violoncelo' : ['mp4/violoncelo.mp4'],
+    'revista' : ['mp4/revista.mp4'],
+    'lona' : ['mp4/lona.mp4'],
+    'bule' : ['mp4/bule.mp4'],
+    'véu' : ['mp4/véu.mp4'],
+    'manequim' : ['mp4/manequim.mp4'],
+    'paraquedas' : ['mp4/paraquedas.mp4'],
+    'banco' : ['mp4/banco.mp4'],
+    'liquidificador' : ['mp4/liquidificador.mp4' , 'mp4/liquidificador2.mp4'],
+    'quadro' : ['mp4/quadro.mp4'],
+    'caixa de som' : ['mp4/caixa de som.mp4'],
+    'tapete' : ['mp4/tapete.mp4'], 
+    'tanga' : ['mp4/tanga.mp4', 'mp4/tanga2.mp4'],
+    'fones de ouvido' : ['mp4/fones de ouvido.mp4'],
+    'canoa' : ['mp4/canoa.mp4'],
+    'frigobar' : ['mp4/frigobar.mp4'],
+    'foguete' : ['mp4/foguete.mp4'],
+    'porta' : ['mp4/porta.mp4'],
+    'guilhotina' : ['mp4/guilhotina.mp4'],
+    'serra' : ['mp4/serra.mp4' , 'mp4/serra2.mp4'],
+    'carrinho' : ['mp4/carrinho.mp4'],
+    'lanterna' : ['mp4/lanterna.mp4'],
+    'buquê' : ['mp4/buquê.mp4'],
+    'faca' : ['mp4/faca.mp4'],
+    'ampulheta' : ['mp4/ampulheta.mp4'],
+    'raquete elétrica' : ['mp4/raquete elétrica.mp4' , 'mp4/raquete elétrica2.mp4'],
+    'borrifador' : ['mp4/borrifador.mp4'],
+    'tablet' : ['mp4/tablet.mp4' , 'mp4/tablet2.mp4'],
+    'puff' : ['mp4/puff.mp4'],
+    'torradeira' : ['mp4/torradeira.mp4'],
+    'rolo de massa' : ['mp4/rolo de massa.mp4'],
+    'extintor de incêndio' : ['mp4/extintor de incêndio.mp4'],
+    'luminária' : ['mp4/luminária.mp4'],
+    'esparadrapo' : ['mp4/esparadrapo.mp4'],
+    'estilingue' : ['mp4/estilingue.mp4'],
+    'agulha de crochê' : ['mp4/agulha de crochê.mp4'],
+    'gesso' : ['mp4/gesso.mp4'],
+    'fantoche' : ['mp4/fantoche.mp4' , 'mp4/fantoche2.mp4'],
+    'lenço' : ['mp4/lenço.mp4'],
+    'penteadeira' : ['mp4/penteadeira.mp4'],
+    'porta-retrato' : ['mp4/porta-retrato.mp4'],
+    'vídeo cassete' : ['mp4/vídeo cassete.mp4'],
+    'berimbau' : ['mp4/berimbau.mp4'],
+    'chaveiro' : ['mp4/chaveiro.mp4'],
+    'cisterna' : ['mp4/cisterna.mp4' , 'mp4/cisterna2.mp4'],
+    'pá' : ['mp4/pá.mp4'],
+    'mala' : ['mp4/mala.mp4' , 'mp4/mala2.mp4'],
+    'cinta-liga' : ['mp4/cinta-liga.mp4'],
+    'óculos de sol' : ['mp4/óculos de sol.mp4'],
+    'balaio' : ['mp4/balaio.mp4'],
+    'fax' : ['mp4/fax.mp4'],
+    'suéter' : ['mp4/suéter.mp4'],
+    'ralador' : ['mp4/ralador.mp4'],
+    'prancha' : ['mp4/prancha.mp4' , 'mp4/prancha2.mp4'],
+    'churrasqueira' : ['mp4/churrasqueira.mp4'],
+    'chaleira' : ['mp4/chaleira.mp4'],
+    'giz de cera' : ['mp4/giz de cera.mp4'],
+    'vaso sanitário' : ['mp4/vaso sanitário.mp4' , 'mp4/vaso sanitário2.mp4'],
+    'gramofone' : ['mp4/gramofone.mp4'],
+    'leque' : ['mp4/leque.mp4'],
+    'tijolo' : ['mp4/tijolo.mp4' , 'mp4/tijolo2.mp4' , 'mp4/tijolo3.mp4'],
+    'calçadeira' : ['mp4/calçadeira.mp4'],
+    'cabo' : ['mp4/cabo.mp4'],
+    'prego' : ['mp4/prego.mp4'],
+    'corrente' : ['mp4/corrente.mp4'],
+    'espátula' : ['mp4/espátula.mp4' , 'mp4/espátula2.mp4'],
+    'arpão' : ['mp4/arpão.mp4'],
+    'cueca' : ['mp4/cueca.mp4'],
+    'cinto' : ['mp4/cinto.mp4'],
+    'parabrisa' : ['mp4/parabrisa.mp4'],
+    'tiara' : ['mp4/tiara.mp4'],
+    'quebra-cabeça' : ['mp4/quebra-cabeça.mp4' , 'mp4/quebra-cabeça2.mp4'],
+    'gancho' : ['mp4/gancho.mp4'],
+    'alargador' : ['mp4/alargador.mp4'],
+    'esponja' : ['mp4/esponja.mp4'],
+    'cavaquinho' : ['mp4/cavaquinho.mp4'],
+    'anzol' : ['mp4/anzol.mp4' , 'mp4/anzol2.mp4'],
+    'alicate' : ['mp4/alicate.mp4'],
+    'diamante' : ['mp4/diamante.mp4'],
+    'quebra-nozes' : ['mp4/quebra-nozes.mp4'],
+    'microfone' : ['mp4/microfone.mp4'],
+    'mouse' : ['mp4/mouse.mp4'],
+    'bolsa' : ['mp4/bolsa.mp4'],
+    'sandália' : ['mp4/sandália.mp4', 'mp4/sandália.mp4'],
+    'farda' : ['mp4/farda.mp4' , 'mp4/farda2.mp4' , 'mp4/farda3.mp4'],
+    'viola' : ['mp4/viola.mp4'],
+    'pantufa' : ['mp4/pantufa.mp4'],
+    'joelheira' : ['mp4/joelheira.mp4'],
+    'bicho de pelúcia' : ['mp4/bicho de pelúcia.mp4'],
+    'delineador' : ['mp4/delineador.mp4'],
+    'ventilador' : ['mp4/ventilador.mp4'],
+    'sapateira' : ['mp4/sapateira.mp4'],
+    'charuto' : ['mp4/charuto.mp4'],
+    'batom' : ['mp4/batom.mp4'],
+    'novelo de lã' : ['mp4/novelo de lã.mp4'],
+    'colcha' : ['mp4/colcha.mp4'],
+    'batente' : ['mp4/batente.mp4'],
+    'apito' : ['mp4/apito.mp4'],
+    'chave de fenda' : ['mp4/chave de fenda.mp4'],
+    'telescópio' : ['mp4/telescópio.mp4'],
+    'hélice' : ['mp4/hélice.mp4'],
+    'webcam': ['mp4/webcam.mp4'],
+    'elástico': ['mp4/elástico.mp4'],
+    'marionete': ['mp4/marionete.mp4'],
+    'pistola': ['mp4/pistola.mp4'],
+    'monitor': ['mp4/monitor.mp4'],
+    'cadeira elétrica': ['mp4/cadeira elétrica.mp4'],
+    'trono': ['mp4/trono.mp4'],
+    'pijama': ['mp4/pijama.mp4'],
+    'chave de grifo': ['mp4/chave de grifo.mp4'],
+    'chave canhão': ['mp4/chave canhão2.mp4'],
+    'cadeira de rodas': ['mp4/cadeira de rodas.mp4'],
+    'camisola': ['mp4/camisola.mp4'],
+    'cadeira de praia': ['mp4/cadeira de praia.mp4'],
+    'revólver': ['mp4/revólver.mp4'],
+    'televisão': ['mp4/televisão.mp4'],
+    'pente': ['mp4/pente.mp4'],
+    'escova': ['mp4/escova.mp4'],
+    'colcha': ['mp4/colcha.mp4'],
+    'megafone': ['mp4/megafone.mp4'],
+    'armadura': ['mp4/armadura.mp4'],
+    'esfigmomanômetro': ['mp4/esfigmomanômetro.mp4'],
+    'agulha': ['mp4/agulha.mp4'],
+    'coturno': ['mp4/coturno.mp4'],
+    'fronha': ['mp4/fronha.mp4'],
+    'gibi': ['mp4/gibi.mp4'],
+    'chinelo': ['mp4/chinelo.mp4'],
+    'guirlanda': ['mp4/guirlanda.mp4'],
+    'tamanco': ['mp4/tamanco.mp4' , 'mp4/tamanco2.mp4'],
+    'persiana': ['mp4/persiana.mp4'],
+    'barbante': ['mp4/barbante.mp4'],
+    'álbum': ['mp4/álbum.mp4'],
+    'lâmpada': ['mp4/lâmpada.mp4'],
+    'ferrolho': ['mp4/ferrolho.mp4'],
+    'pacote': ['mp4/pacote.mp4'],
+    'estilete': ['mp4/estilete.mp4'],
+    'mesa de sinuca': ['mp4/mesa de sinuca.mp4'],
+    'isqueiro': ['mp4/isqueiro.mp4'],
+    'terno': ['mp4/terno.mp4'],
+    'poster': ['mp4/poster.mp4'],
+    'pano de prato': ['mp4/pano de prato.mp4'],
+    'botina': ['mp4/botina.mp4'],
+    'picareta': ['mp4/picareta.mp4'],
+    'canivete': ['mp4/canivete.mp4'],
+    'espiral': ['mp4/espiral.mp4'],
+    'basculante': ['mp4/basculante.mp4'],
+    'travesseiro': ['mp4/travesseiro.mp4'],
+    'flauta': ['mp4/flauta.mp4'],
+    'janela': ['mp4/janela.mp4'],
+    'órgão': ['mp4/órgão.mp4'],
+    'mesa de ping-pong': ['mp4/mesa de ping-pong.mp4'],
+    'mouse pad': ['mp4/mouse pad.mp4'],
+    'colar': ['mp4/colar.mp4'],
+    'lanterna chinesa': ['mp4/lanterna chinesa.mp4'],
+    'régua': ['mp4/régua.mp4'],
+    'camisa': ['mp4/camisa.mp4'],
+    'camisa de força': ['mp4/camisa de força.mp4'],
+    'cobertor': ['mp4/cobertor.mp4'],
+    'rasteirinha': ['mp4/rasteirinha.mp4'],
+    'pilha': ['mp4/pilha.mp4'],
+    'minissaia': ['mp4/minissaia.mp4'],
+    'manta': ['mp4/manta.mp4'],
+    'boné': ['mp4/boné.mp4' , 'mp4/boné2.mp4'],
+    'pá de lixo': ['mp4/pá de lixo.mp4' , 'mp4/pá de lixo2.mp4'],
+    'blusa': ['mp4/blusa.mp4'],
+    'aquecedor': ['mp4/aquecedor.mp4'],
+    'saia': ['mp4/saia.mp4'],
+    'dobradiça': ['mp4/dobradiça.mp4'],
+    'míssil': ['mp4/míssil.mp4'],
+    'alto falante': ['mp4/alto falante.mp4'],
+    'colchonete': ['mp4/colchonete.mp4'],
+    'navalha': ['mp4/navalha.mp4'],
+    'vídeo game': ['mp4/vídeo game.mp4'],
+    'salto alto': ['mp4/salto alto.mp4'],
+    'manete': ['mp4/manete.mp4'],
+    'pasta': ['mp4/pasta.mp4', 'mp4/pasta2.mp4'],
+    'armário': ['mp4/armário.mp4'],
+    'maca': ['mp4/maca.mp4'],
+    'exaustor': ['mp4/exaustor.mp4'],
+    'boneca': ['mp4/boneca.mp4'],
+    'bisturi': ['mp4/bisturi.mp4'],
+    'trave': ['mp4/trave.mp4'],
+    'guarda-roupa': ['mp4/guarda-roupa.mp4'],
+    'tumba': ['mp4/tumba.mp4' , 'mp4/tumba2.mp4'],
+    'biombo': ['mp4/biombo.mp4'],
+    'lixeira': ['mp4/lixeira.mp4'],
+    'guardanapo': ['mp4/guardanapo.mp4' , 'mp4/guardanapo2.mp4'],
+    'palmilha': ['mp4/palmilha.mp4'],
+    'bota': ['mp4/bota.mp4'],
+    'jaqueta': ['mp4/jaqueta.mp4'],
+    'galocha': ['mp4/galocha.mp4'],
+    'brinco': ['mp4/brinco.mp4'],
+    'rádio': ['mp4/rádio.mp4'],
+    'giz de cera': ['mp4/giz de cera.mp4'],
+    'guitarra': ['mp4/guitarra.mp4'],
+    'lençol': ['mp4/lençol.mp4' , 'mp4/lençol2.mp4'],
+    'giz': ['mp4/giz.mp4'],
+    'rodo': ['mp4/rodo.mp4'],
+    'sapato': ['mp4/sapato.mp4' , 'mp4/sapato2.mp4'],
+    'frigideira': ['mp4/frigideira.mp4'],
+    'toalha': ['mp4/toalha.mp4'],
+    'sanduicheira': ['mp4/sanduicheira.mp4' , 'mp4/sanduicheira2.mp4'],
+    'vaso' : ['mp4/vaso.mp4' , 'mp4/vaso2.mp4'],
+    'foice' : ['mp4/foice.mp4'],
+    'bola' : ['mp4/bola.mp4'],
+    'mesa' : ['mp4/mesa.mp4'],
+    'skate' : ['mp4/skate.mp4'],
+    'cavalo de pau' : ['mp4/cavalo de pau.mp4'],
+    'leiteira' : ['mp4/leiteira.mp4'],
+    'caneca': ['mp4/caneca.mp4'],
+    'colher': ['mp4/colher.mp4'],
+    'rede de pesca': ['mp4/rede de pesca.mp4'],
+    'suspensório': ['mp4/suspensório.mp4'],
+    'escada': ['mp4/escada.mp4'],
+    'cachimbo': ['mp4/cachimbo.mp4'],
+    'algema': ['mp4/algema.mp4'],
+    'cesta': ['mp4/cesta.mp4'],
+    'saca-rolhas': ['mp4/saca-rolhas.mp4'],
+    'concha': ['mp4/concha.mp4'],
+    'cerca elétrica': ['mp4/cerca elétrica.mp4'],
+    'notebook': ['mp4/notebook.mp4'],
+    'gaiola': ['mp4/gaiola.mp4'],
+    'asa delta': ['mp4/asa delta.mp4'],
+    'caneta': ['mp4/caneta.mp4'],
+    'balão': ['mp4/balão.mp4'],
+    'tamborim': ['mp4/tamborim.mp4' , 'mp4/tamborim2.mp4'],
+    'alfinete': ['mp4/alfinete.mp4' , 'mp4/alfinete2.mp4'],
+    'serra elétrica': ['mp4/serra elétrica.mp4'],
+    'arame farpado': ['mp4/arame farpado.mp4'],
+    'agulheiro': ['mp4/agulheiro.mp4'],
+    'caixa de correio': ['mp4/caixa de correio.mp4' , 'mp4/caixa de correio2.mp4'],
+    'faixa': ['mp4/faixa.mp4'],
+    'volante': ['mp4/volante.mp4'],
+    'tridente': ['mp4/tridente.mp4'],
+    'borracha': ['mp4/borracha.mp4'],
+    'ratoeira': ['mp4/ratoeira.mp4'],
+    'balança': ['mp4/balança.mp4'],
+    'envelope': ['mp4/envelope.mp4'],
+    'patinete': ['mp4/patinete.mp4'],
+    'sapatilha': ['mp4/sapatilha.mp4' , 'mp4/sapatilha2.mp4'],
+    'estátua': ['mp4/estátua.mp4' , 'mp4/estátua2.mp4'],
+    'caixa de ferramentas': ['mp4/caixa de ferramentas.mp4'],
+    'radar': ['mp4/radar.mp4'],
+    'gangorra': ['mp4/gangorra.mp4'],
+    'sombrinha': ['mp4/sombrinha.mp4'],
+    'anel': ['mp4/anel.mp4'],
+    'caixote': ['mp4/caixote.mp4'],
+    'algodão': ['mp4/algodão.mp4'],
+    'aliança': ['mp4/aliança.mp4'],
+    'rede': ['mp4/rede.mp4' , 'mp4/rede2.mp4'],
+    'serrote': ['mp4/serrote.mp4' , 'mp4/serrote2.mp4'],
+    'spray': ['mp4/spray.mp4'],
+    'jardineira': ['mp4/jardineira.mp4'],
+    'abafador': ['mp4/abafador.mp4'],
+    'abajur': ['mp4/abajur.mp4'],
+    'guarda-chuva': ['mp4/guarda-chuva.mp4'],
+    'fio': ['mp4/fio.mp4' , 'mp4/fio2.mp4'],
+    'lápis': ['mp4/lápis.mp4'],
+    'alicate de unha': ['mp4/alicate de unha.mp4'],
+    'cajado': ['mp4/cajado.mp4'],
+    'guarda-sol': ['mp4/guarda-sol.mp4'],
+    'garfo': ['mp4/garfo.mp4'],
+    'lupa': ['mp4/lupa.mp4'],
+    'rede de descanso': ['mp4/rede de descanso.mp4'],
+    'rolha': ['mp4/rolha.mp4'],
+    'maracá': ['mp4/maracá.mp4'],
+    'cano': ['mp4/cano.mp4'],
+    'jeans': ['mp4/jeans.mp4'],
+    'caixão': ['mp4/caixão.mp4'],
+    'balaústre': ['mp4/balaústre.mp4'],
+    'chocalho': ['mp4/chocalho.mp4'],
+    'bengala': ['mp4/bengala.mp4'],
+    'calcinha': ['mp4/calcinha.mp4' , 'mp4/calcinha2.mp4'],
+    'nariz de palhaço': ['mp4/nariz de palhaço.mp4'],
+    'calça': ['mp4/calça.mp4'],
+    'garrafa': ['mp4/garrafa.mp4'],
+    'disco': ['mp4/disco.mp4'],
+    'tambor': ['mp4/tambor.mp4'],
+    'enxada': ['mp4/enxada.mp4', 'mp4/enxada3.mp4'],
+    'cocar': ['mp4/cocar.mp4'],
+    'aspersório': ['mp4/aspersório.mp4'],
+    'buzina': ['mp4/buzina.mp4'],
+    'caneta hidrocor': ['mp4/caneta hidrocor.mp4'],
+    'pneu': ['mp4/pneu.mp4'],
+    'desodorante': ['mp4/desodorante.mp4'],
+    'apagador' : ['mp4/apagador.mp4'],
+    'baioneta' : ['mp4/baioneta.mp4'],
+    'cd' : ['mp4/cd.mp4'],
+    'moeda' : ['mp4/moeda.mp4'],
+    'andaime' : ['mp4/andaime.mp4'],
+    'boina' : ['mp4/boina.mp4'],
+    'antena' : ['mp4/antena.mp4'],
+    'monóculo' : ['mp4/monóculo.mp4' , 'mp4/monóculo2.mp4'],
+    'dardo' : ['mp4/dardo.mp4'],
+    'mochila' : ['mp4/mochila.mp4'],
+    'aquário' : ['mp4/aquário.mp4'],
+    'copo' : ['mp4/copo.mp4'],
+    'aro' : ['mp4/aro.mp4' ,'mp4/aro2.mp4'],
+    'banqueta' : ['mp4/banqueta.mp4'],
+    'andador' : ['mp4/andador.mp4'],
+    'assadeira' : ['mp4/assadeira.mp4'],
+    'baú' : ['mp4/baú.mp4'],
+    'forma' : ['mp4/forma.mp4'],
+    'berço' : ['mp4/berço.mp4'],
+    'garfo' : ['mp4/garfo.mp4'],
+    'gaita' : ['mp4/gaita.mp4' , 'mp4/gaita2.mp4'],
+    'oboé' : ['mp4/oboé.mp4'],
+    'computador' : ['mp4/computador.mp4'],
+    'relógio de sol' : ['mp4/relógio de sol.mp4'],
+    'desentupidor' : ['mp4/desentupidor.mp4', 'mp4/desentupidor2.mp4'],
+    'caixa de fósforo' : ['mp4/caixa de fósforo.mp4'],
+    'chapéu de aniversário' : ['mp4/chapéu de aniversário.mp4'],
+    'cetro' : ['mp4/cetro.mp4' , 'mp4/cetro2.mp4'],
+    'fantasia' : ['mp4/fantasia.mp4'],
+    'bomba de ar' : ['mp4/bomba de ar.mp4', 'mp4/bomba de ar.mp4' , 'mp4/bomba de ar3.mp4'],
+    'canudo' : ['mp4/canudo.mp4'],
+    'chave inglesa' : ['mp4/chave inglesa.mp4'],
+    'bracelete' : ['mp4/bracelete.mp4'],
+    'caneleira' : ['mp4/caneleira.mp4'],
+    'chupeta' : ['mp4/chupeta.mp4'],
+    'cata-vento' : ['mp4/cata-vento.mp4'],
+    'chicote' : ['mp4/chicote.mp4'],
+    'chave' : ['mp4/chave.mp4'],
+    'carrinho de feira' : ['mp4/carrinho de feira.mp4'],
+    'cartão postal' : ['mp4/cartão postal.mp4' , 'mp4/cartão postal2.mp4'],
+    'cinto de segurança' : ['mp4/cinto de segurança.mp4'],
+    'claquete' : ['mp4/claquete.mp4'],
+    'cantil' : ['mp4/cantil.mp4'],
+    'casula' : ['mp4/casula.mp4'],
+    'catraca' : ['mp4/catraca.mp4'],
+    'cantoneira' : ['mp4/cantoneira.mp4'],
+    'candeeiro' : ['mp4/candeeiro.mp4'],
+    'capacho' : ['mp4/capacho.mp4'],
+    'chuteira' : ['mp4/chuteira.mp4'],
+    'chave estrela' : ['mp4/chave estrela.mp4'],
+    'cartão' : ['mp4/cartão.mp4'],
+    'caixa de papelão' : ['mp4/caixa de papelão.mp4'],
+    'carrinho de rolimã' : ['mp4/carrinho de rolimã.mp4'],
+    'brinquedo' : ['mp4/brinquedo.mp4'],
+    'bronzeador' : ['mp4/bronzeador.mp4'],
+    'canga' : ['mp4/canga.mp4'],
+    'clipe' : ['mp4/clipe.mp4'],
+    'clava' : ['mp4/clava.mp4'],
+    'cartola' : ['mp4/cartola.mp4'],
+    'camisa regata' : ['mp4/camisa regata.mp4' , 'mp4/camisa regata2.mp4'],
+    'caixa registradora' : ['mp4/caixa registradora.mp4'],
+    'celular' : ['mp4/celular.mp4'],
+    'carteira' : ['mp4/carteira.mp4'],
+    'candelabro' : ['mp4/candelabro.mp4'],
+    'cadarço' : ['mp4/cadarço.mp4'],
+    'coador' : ['mp4/coador.mp4'],
+    'bolsa térmica' : ['mp4/bolsa térmica.mp4'],
+    'bola de boliche' : ['mp4/bola de boliche.mp4'],
+    'bola de gude' : ['mp4/bola de gude.mp4'],
+    'despertador' : ['mp4/despertador.mp4'],
+    'controle remoto' : ['mp4/controle remoto.mp4' , 'mp4/controle remoto2.mp4'],
+    'cruzeta' : ['mp4/cruzeta.mp4' , 'mp4/cruzeta2.mp4'],
+    'colchão inflável' : ['mp4/colchão inflável.mp4'],
+    'corneta' : ['mp4/corneta.mp4'],
+    'colírio' : ['mp4/colírio.mp4'],
+    'cuia' : ['mp4/cuia.mp4'],
+    'ponteiro' : ['mp4/ponteiro.mp4'],
+    'dedal' : ['mp4/dedal.mp4'],
+    'coifa' : ['mp4/coifa.mp4'],
+    'comedouro' : ['mp4/comedouro.mp4'],
+    'sunga' : ['mp4/sunga.mp4'],
+    'diário' : ['mp4/diário.mp4' , 'mp4/diário2.mp4'],
+    'martelo' : ['mp4/martelo.mp4'],
+    'crachá' : ['mp4/crachá.mp4'],
+    'curvador de cílios' : ['mp4/curvador de cílios.mp4'],
+    'cutelo' : ['mp4/cutelo.mp4' , 'mp4/cutelo2.mp4', 'mp4/cutelo3.mp4'],
+    'dado' : ['mp4/dado.mp4'],
+    'ímã' : ['mp4/ímã.mp4'],
+    'fruteira' : ['mp4/fruteira.mp4'],
+    'escudo' : ['mp4/escudo.mp4'],
+    'estaca' : ['mp4/estaca.mp4'],
+    'fita isolante' : ['mp4/fita isolante.mp4'],
+    'esfregão' : ['mp4/esfregão.mp4'],
+    'escopeta' : ['mp4/escopeta.mp4'],
+    'filtro de linha' : ['mp4/filtro de linha.mp4'],
+    'fita cassete' : ['mp4/fita cassete.mp4'],
+    'fio dental' : ['mp4/fio dental.mp4'],
+    'escorredor de pratos' : ['mp4/escorredor de pratos.mp4'],
+    'rastelo' : ['mp4/rastelo.mp4'],
+    'farol de milha' : ['mp4/farol de milha.mp4'],
+    'escorredor de macarrão' : ['mp4/escorredor de macarrão.mp4'],
+    'flecha' : ['mp4/flecha.mp4'],
+    'fivela' : ['mp4/fivela.mp4'],
+    'vela': ['mp4/vela.mp4'],
+    'dominó' : ['mp4/dominó.mp4'],
+    'biruta' : ['mp4/biruta.mp4'],
+    'escorregador' : ['mp4/escorregador.mp4'],
+    'fita adesiva' : ['mp4/fita adesiva.mp4'],
+    'farolete' : ['mp4/farolete.mp4'],
+    'estojo' : ['mp4/estojo.mp4'],
+    'faqueiro' : ['mp4/faqueiro.mp4'],
+    'estabilizador' : ['mp4/estabilizador.mp4'],
+    'facão' : ['mp4/facão.mp4'],
+    'espremedor de alho' : ['mp4/espremedor de alho.mp4'],
+    'freezer' : ['mp4/freezer.mp4'],
+    'ferradura' : ['mp4/ferradura.mp4'],
+    'farinheiro' : ['mp4/farinheiro.mp4'],
+    'funil' : ['mp4/funil.mp4'],
+    'tobogã' : ['mp4/tobogã.mp4'],
+    'filtro de água' : ['mp4/filtro de água.mp4'],
+    'carimbo' : ['mp4/carimbo.mp4'],
+    'fita crepe' : ['mp4/fita crepe.mp4'],
+    'fogão' : ['mp4/fogão.mp4', 'mp4/fogão2.mp4'],
+    'rifle' : ['mp4/rifle.mp4'],
+    'flanela' : ['mp4/flanela.mp4'],
+    'espanador' : ['mp4/espanador.mp4'],
+    'frasco' : ['mp4/frasco.mp4'],
+    'escumadeira' : ['mp4/escumadeira.mp4'],
+    'estojo de maquiagem' : ['mp4/estojo de maquiagem.mp4'],
+    'estatueta do oscar' : ['mp4/estatueta do oscar.mp4', 'mp4/estatueta do oscar2.mp4'],
+    //palavras abaixo que foram adicionadas domingo, 18 de agosto/2024
+    'cuíca': ['mp4/cuíca.mp4'],
+    'livro': ['mp4/livro.mp4'],
+    'chuveiro': ['mp4/chuveiro.mp4' , 'mp4/chuveiro2.mp4', 'mp4/chuveiro3.mp4'],
+    'capa': ['mp4/capa.mp4', 'mp4/capa2.mp4'],
+    'pipoqueira' : ['mp4/pipoqueira.mp4', 'mp4/pipoqueira2.mp4'],
+    'contrabaixo': ['mp4/contrabaixo.mp4'],
+    'grampo de cabelo': ['mp4/grampo de cabelo.mp4'],
+    'ombreira': ['mp4/ombreira.mp4'],
+    'bomba': ['mp4/bomba.mp4' , 'mp4/bomba2.mp4'],
+    'avental': ['mp4/avental2.mp4'],
+    'tinta de cabelo': ['mp4/tinta de cabelo.mp4'],
+    'caldeirão': ['mp4/caldeirão.mp4'],
+    'bicama': ['mp4/bicama.mp4'],
+    'mastro': ['mp4/mastro.mp4'],
+    'vassoura': ['mp4/vassoura.mp4', 'mp4/vassoura2.mp4'],
+    'depilador elétrico': ['mp4/depilador elétrico.mp4' , 'mp4/depilador elétrico2.mp4' , 'mp4/depilador elétrico3.mp4'],
+    'scanner': ['mp4/scanner.mp4'],
+    'azulejo': ['mp4/azulejo.mp4'],
+    'jornal': ['mp4/jornal.mp4'],
+    'bidê': ['mp4/bidê.mp4', 'mp4/bidê2.mp4'],
+    'bumerangue': ['mp4/bumerangue.mp4'],
+    'rede de descanso': ['mp4/rede de descanso.mp4'],
+    'panela de pressão': ['mp4/panela de pressão.mp4'],
+    'cassetete': ['mp4/cassetete.mp4'],
+    'prato': ['mp4/prato.mp4'],
+    'corpete': ['mp4/corpete.mp4'],
+    'broca': ['mp4/broca.mp4'],
+    'bagageiro': ['mp4/bagageiro.mp4'],
+    'cortador de grama': ['mp4/cortador de grama.mp4'],
+    'apontador de lápis': ['mp4/apontador de lápis.mp4'],
+    'bateria': ['mp4/bateria.mp4'],
+    'mosquiteiro': ['mp4/mosquiteiro.mp4'],
+    'convite': ['mp4/convite.mp4'],
+    'batina': ['mp4/batina.mp4'],
+    'semáforo': ['mp4/semáforo.mp4', 'mp4/semáforo2.mp4'],
+    'tornozeleira': ['mp4/tornozeleira.mp4'],
+    'tatame': ['mp4/tatame.mp4' ,'mp4/tatame2.mp4'],
+    'barbeador': ['mp4/barbeador.mp4' , 'mp4/barbeador2.mp4'],
+    'berrante': ['mp4/berrante.mp4'],
+    'chimbal': ['mp4/chimbal.mp4'],
+    'colher de pau': ['mp4/colher de pau.mp4'],
+    'tridente': ['mp4/tridente.mp4'],
+    'corsário': ['mp4/corsário.mp4'],
+    'cueca': ['mp4/cueca.mp4'],
+    'espremedor de frutas': ['mp4/espremedor de frutas.mp4'],
+    'bíblia' : ['mp4/bíblia.mp4'],
+    'esteira ergométrica': ['mp4/esteira ergométrica.mp4'],
+    'corretivo': ['mp4/corretivo.mp4'],
+    'colchão': ['mp4/colchão.mp4' , 'mp4/colchão2.mp4'],
+    'espingarda': ['mp4/espingarda.mp4'],
+    'cotoveleira': ['mp4/cotoveleira.mp4'],
+    'trampolim': ['mp4/trampolim.mp4'],
+    'coldre': ['mp4/coldre.mp4'],
+    'cofre': ['mp4/cofre.mp4'],
+    'furadeira': ['mp4/furadeira.mp4'],
+    'panfleto': ['mp4/panfleto.mp4'],
+    'saboneteira': ['mp4/saboneteira.mp4'],
+    'lantejoula': ['mp4/lantejoula.mp4'],
+    'pinça': ['mp4/pinça.mp4', 'mp4/pinça2.mp4'],
+    'confete': ['mp4/confete.mp4'],
+    'boá': ['mp4/boá.mp4'],
+    'piercing': ['mp4/piercing.mp4'],
+    'máquina de lavar louça': ['mp4/máquina de lavar louça.mp4'],
+    'binóculo': ['mp4/binóculo.mp4'],
+    'pote': ['mp4/pote.mp4'],
+    'filmadora': ['mp4/filmadora.mp4'],
+    //palavras abaixo que foram adicionadas segunda, 20 de agosto/2024
+    'alaúde': ['mp4/alaúde.mp4'],
+    'aerofólio': ['mp4/aerofólio.mp4'],
+    'açucareiro': ['mp4/açucareiro.mp4'],
+    'bazuca': ['mp4/bazuca.mp4', 'mp4/bazuca2.mp4'],
+    'bandolim': ['mp4/bandolim.mp4'],
+    'bandana': ['mp4/bandana.mp4'],
+    'estribo': ['mp4/estribo.mp4'],
+    'biqueira': ['mp4/biqueira.mp4'],
+    'betoneira': ['mp4/betoneira.mp4'],
+    'antena parabólica': ['mp4/antena parabólica.mp4'],
+    'camafeu': ['mp4/camafeu.mp4'],
+    'estetoscópio': ['mp4/estetoscópio.mp4' , 'mp4/estetoscópio2.mp4', 'mp4/estetoscópio3.mp4'],
+    'aldrava': ['mp4/aldrava.mp4'],
+    'bilboquê': ['mp4/bilboquê.mp4'],
+    'banheira': ['mp4/banheira.mp4'],
+    'espada': ['mp4/espada.mp4'],
+    'prendedor de cabelo': ['mp4/prendedor de cabelo.mp4' , 'mp4/prendedor de cabelo2.mp4'],
+    'afiador de facas': ['mp4/afiador de facas.mp4'],
+    'barraca': ['mp4/barraca.mp4'],
+    'astrolábio': ['mp4/astrolábio.mp4'],
+    'bacia': ['mp4/bacia.mp4' ,'mp4/bacia2.mp4'],
+    'violino': ['mp4/violino.mp4',  'mp4/violino2.mp4'],
+    'beca': ['mp4/beca.mp4'],
+    'abotoadura': ['mp4/abotoadura.mp4'],
+    'adaga': ['mp4/adaga.mp4'],
+    'armadilha': ['mp4/armadilha.mp4'],
+    'amortecedor': ['mp4/amortecedor.mp4'],
+    'aparador': ['mp4/aparador.mp4'],
+    'bata': ['mp4/bata.mp4'],
+    'aljava': ['mp4/aljava.mp4'],
+    'relicário': ['mp4/relicário.mp4'],
+    'aneleira': ['mp4/aneleira.mp4'],
+    'batedeira': ['mp4/batedeira.mp4'],
+    'antolho': ['mp4/antolho.mp4'],
+    'balaclava': ['mp4/balaclava.mp4'],
+    'batuta': ['mp4/batuta.mp4'],
+    'arca': ['mp4/arca.mp4'],
+    'poltrona': ['mp4/poltrona.mp4' , 'mp4/poltrona2.mp4'],
+    'biquíni': ['mp4/biquíni.mp4'],
+    'ábaco': ['mp4/ábaco.mp4'],
+    'autorama': ['mp4/autorama.mp4'],
+    'aparelho ortodôntico': ['mp4/aparelho ortodôntico.mp4'],
+    'balsa': ['mp4/balsa.mp4'],
+    'bicicleta ergométrica': ['mp4/bicicleta ergométrica.mp4'],
+    'adaptador': ['mp4/adaptador.mp4'],
+    'árvore de natal': ['mp4/árvore de natal.mp4'],
+    'baleiro': ['mp4/baleiro.mp4'],
+    'amuleto': ['mp4/amuleto.mp4'],
+    'modem' : ['mp4/modem.mp4'],
+    'divã' : ['mp4/divã.mp4'],
+    'retrato' : ['mp4/retrato.mp4'],
+    'mamadeira' : ['mp4/mamadeira.mp4'],
+    'retrovisor' : ['mp4/retrovisor.mp4' , 'mp4/retrovisor2.mp4'],
+    'forno elétrico' : ['mp4/forno elétrico.mp4'],
+    'pilão' : ['mp4/pilão.mp4'],
+    'colete' : ['mp4/colete.mp4'],
+    'cabide' : ['mp4/cabide.mp4'],
+    'dvd' : ['mp4/dvd.mp4'],
+    'varal' : ['mp4/varal.mp4'],
+    'chapinha de cabelo' : ['mp4/chapinha de cabelo.mp4'],
+    'carrinho de bebê' : ['mp4/carrinho de bebê.mp4'],
+    'uniforme' : ['mp4/uniforme.mp4'],
+    'ceroula' : ['mp4/ceroula.mp4'],
+    'urna' : ['mp4/urna.mp4'],
+    'tubo de ensaio' : ['mp4/tubo de ensaio.mp4'],
+    'vestido' : ['mp4/vestido.mp4'],
+    'celada' : ['mp4/celada.mp4'],
+    'tuba' : ['mp4/tuba.mp4'],
+    'turbante' : ['mp4/turbante.mp4'],
+    'vidro' : ['mp4/vidro.mp4'],
+    'pregador' : ['mp4/pregador.mp4'],
+    'toga' : ['mp4/toga.mp4'],
+    'bombacha' : ['mp4/bombacha.mp4'],
+    'cartão de crédito' : ['mp4/cartão de crédito.mp4'],
+    'troféu' : ['mp4/troféu.mp4'],
+    'caxixi' : ['mp4/caxixi.mp4'],
+    'cálice' : ['mp4/cálice.mp4'],
+    //palavras adicionadas no dia 30/08/2024
+    'xilofone' : ['mp4/xilofone.mp4'],
+    'toalha de mesa' : ['mp4/toalha de mesa.mp4'],
+    'rabeca' : ['mp4/rabeca.mp4'],
+    'teclado' : ['mp4/teclado.mp4'],
+    'tábua' : ['mp4/tábua.mp4'],
+    'queijeira' : ['mp4/queijeira.mp4'],
+    'trompete' : ['mp4/trompete.mp4'],
+    'termômetro' : ['mp4/termômetro.mp4'],
+    'radar' : ['mp4/radar.mp4'],
+    'placa' : ['mp4/placa.mp4'],
+    'rodapé' : ['mp4/rodapé.mp4'],
+    'revisteiro' : ['mp4/revisteiro.mp4'],
+    'pipeta' : ['mp4/pipeta.mp4'],
+    'zabumba' : ['mp4/zabumba.mp4'],
+    'polaina' : ['mp4/polaina.mp4'],
+    'quepe' : ['mp4/quepe.mp4'],
+    'bastão' : ['mp4/bastão.mp4'],
+    'rack' : ['mp4/rack.mp4'],
+    'rádio gravador' : ['mp4/rádio gravador.mp4'],
+    'quimono' : ['mp4/quimono.mp4'],
+    'sanfona' : ['mp4/sanfona.mp4'],
+    'tesoura' : ['mp4/tesoura.mp4'],
+    'regador' : ['mp4/regador.mp4'],
+    'porta-lápis' : ['mp4/porta-lápis.mp4'],
+    'gabinete' : ['mp4/gabinete.mp4'],
+    'protetor auricular' : ['mp4/protetor auricular.mp4'],
+    'trampolim' : ['mp4/trampolim.mp4'],
+    'pulverizador' : ['mp4/pulverizador.mp4'],
+    'rédea' : ['mp4/rédea.mp4'],
+    'samba canção' : ['mp4/samba canção.mp4'],
+    'retroprojetor' : ['mp4/retroprojetor.mp4'],
+    'pochete' : ['mp4/pochete.mp4'],
+    'taça' : ['mp4/taça.mp4'],
+    'porta cd' : ['mp4/porta cd.mp4'],
+    'remo' : ['mp4/remo.mp4'],
+    'pisca-pisca' : ['mp4/pisca-pisca.mp4'],
+    'protetor bucal' : ['mp4/protetor bucal.mp4'],
+    'trompa' : ['mp4/trompa.mp4'],
+    'saco de plástico' : ['mp4/saco de plástico.mp4'],
+    'triângulo' : ['mp4/triângulo.mp4'],
+    'tambor' : ['mp4/tambor.mp4'],
+    'raquete' : ['mp4/raquete.mp4'],
+    'taco' : ['mp4/taco.mp4'],
+    'laço' : ['mp4/laço.mp4'],
+    'puxador' : ['mp4/puxador.mp4'],
+    'pluma' : ['mp4/pluma.mp4'],
+    'rádio' : ['mp4/rádio.mp4'],
+    'rádio amador' : ['mp4/rádio amador.mp4'],
+    'pincel' : ['mp4/pincel.mp4'],
+    'zarabatana' : ['mp4/zarabatana.mp4'],
+    'pino' : ['mp4/pino.mp4'],
+    'ralo de pia' : ['mp4/ralo de pia.mp4'],
+    'talher' : ['mp4/talher.mp4'],
+    'refratário' : ['mp4/refratário.mp4'],
+    'telha' : ['mp4/telha.mp4'],
+    'tecido' : ['mp4/tecido.mp4'],
+    'touca' : ['mp4/touca.mp4'],
+    'sandália' : ['mp4/sandália.mp4'],
+    'parafuso' : ['mp4/parafuso.mp4'],
+    // palavras adicionadas no dia 30/08/2024
+    'peteca' : ['mp4/peteca.mp4'],
+    'patinete' : ['mp4/patinete.mp4'],
+    'penteadeira' : ['mp4/penteadeira.mp4'],
+    'papel carbono' : ['mp4/papel carbono.mp4'],
+    'papel laminado' : ['mp4/papel laminado.mp4'],
+    'pen drive' : ['mp4/pen drive.mp4'],
+    'pato de borracha' : ['mp4/pato de borracha.mp4'],
+    'perna de pau' : ['mp4/perna de pau.mp4'],
+    'pêndulo' : ['mp4/pêndulo.mp4'],
+    'pedra-pomes' : ['mp4/pedra-pomes.mp4'],
+    'para-raios' : ['mp4/para-raios.mp4'],
+    'perfurador de papel' : ['mp4/perfurador de papel.mp4'],
+    'pedal' : ['mp4/pedal.mp4'],
+    'pé de cabra' : ['mp4/pé de cabra.mp4'],
+    'parca' : ['mp4/parca.mp4'],
+    'peruca' : ['mp4/peruca.mp4'],
+    'pantufa' : ['mp4/pantufa.mp4'],
+    'papel toalha' : ['mp4/papel toalha.mp4'],
+    'pilão' : ['mp4/pilão.mp4'],
+    'periscópio' : ['mp4/periscópio.mp4'],
+    'patins' : ['mp4/patins.mp4'],
+    'papel higiênico' : ['mp4/papel higiênico.mp4'],
+    'pente' : ['mp4/pente.mp4'],
+    'pé de pato' : ['mp4/pé de pato.mp4'],
+    'penhoar' : ['mp4/penhoar.mp4'],
+    'pergaminho' : ['mp4/pergaminho.mp4'], 
+    // palavras abaixo add no dia 3 de setembro de 2024
+    'smoking' : ['mp4/smoking.mp4'],
+    // palavras abaixo add no dia 5 de setembro de 2024
+    'fuzil' : ['mp4/fuzil.mp4'],
+    // palavras adicionadas no dia 7 de setembro de 2024
+    'lista telefônica' : ['mp4/lista telefônica.mp4'],
+    'calibrador' : ['mp4/calibrador.mp4'],
+    'incensário' : ['mp4/incensário.mp4'],
+    'peneira' : ['mp4/peneira.mp4'],
+    'multiprocessador' : ['mp4/multiprocessador.mp4'],
+    'palheta' : ['mp4/palheta.mp4'],
+    'garrafa pet' : ['mp4/garrafa pet.mp4'],
+    'cartão de memória' : ['mp4/cartão de memória.mp4'],
+
+
+
+
+
+
+     
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+    
+
+
+    
+    
+
+};
+
+let words = Object.keys(mp4);
+
+function shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+}
+
+shuffle(words);
+let currentIndex = 0;
+let score = 0;
+let soundEnabled = true;
+
+const mp4Container = document.getElementById('mp4-container');
+const mp4Element = document.getElementById('mp4');
+const placeholder = document.getElementById('placeholder');
+const userInput = document.getElementById('user-input');
+const correctSound = document.getElementById('correct-sound');
+const scoreElement = document.getElementById('score');
+const searchButton = document.getElementById('search-button');
+const searchModal = document.getElementById('search-modal');
+const searchInput = document.getElementById('search-input');
+const searchSubmit = document.getElementById('search-submit');
+const searchResult = document.getElementById('search-result');
+const closeSearchModal = document.getElementById('close-search-modal');
+const soundToggle = document.getElementById('sound-toggle');
+const infoButton = document.getElementById('info-button');
+const infoModal = document.getElementById('info-modal');
+const closeInfoModal = document.getElementById('close-info-modal');
+
+let inactivityTimeout;
+
+function loadNextMp4() {
+if (currentIndex < words.length) {
+    const currentWord = words[currentIndex];
+    const videos = mp4[currentWord];
+    const randomVideo = videos[Math.floor(Math.random() * videos.length)];
+    mp4Element.src = randomVideo;
+    mp4Element.style.display = 'block';
+    placeholder.style.display = 'none';
+    userInput.value = '';
+    userInput.focus();
+
+    // Revela a palavra correta no console para depuração
+    console.log(`Palavra correta para o vídeo atual: ${currentWord}`);
+
+    // Reseta a exibição da resposta
+    clearTimeout(inactivityTimeout);
+    document.getElementById('answerReveal').style.display = 'none';
+
+    // Inicia o timer para revelar a resposta correta após 10 segundos
+    inactivityTimeout = setTimeout(() => {
+        document.getElementById('answerReveal').textContent = currentWord;
+        document.getElementById('answerReveal').style.display = 'inline-block';
+    }, 10000); // alterne o valor de espera para a respota aqui.
+
+    mp4Element.play().catch(error => {
+        console.log('Reprodução automática falhou:', error);
+    });
+} else {
+    shuffle(words);
+    currentIndex = 0;
+    loadNextMp4();
+}
+}
+
+userInput.addEventListener('keypress', (event) => {
+if (event.key === 'Enter') {
+const userText = userInput.value.trim().toLowerCase();
+if (userText === words[currentIndex]) {
+    currentIndex++;
+    score++;
+    scoreElement.textContent = score;
+    if (soundEnabled) {
+        correctSound.play();
+    }
+    loadNextMp4();
+    
+    // Aumenta a luminosidade do contêiner
+    mp4Container.style.boxShadow = '0 0 60px 20px rgba(255, 255, 255, 1)';
+    setTimeout(() => {
+        mp4Container.style.boxShadow = '0 0 60px 20px rgba(255, 255, 255, 0.8)';
+    }, 1000);
+} else {
+    userInput.value = '';
+}
+}
+});
+
+function attemptAutoPlay() {
+    const playPromise = mp4Element.play();
+    if (playPromise !== undefined) {
+        playPromise.then(() => {
+            console.log('Reprodução automática bem-sucedida');
+        }).catch(error => {
+            console.log('Reprodução automática falhou:', error);
+        });
+    }
+}
+
+mp4Element.addEventListener('canplaythrough', attemptAutoPlay);
+
+loadNextMp4();
+
+searchButton.addEventListener('click', () => {
+    searchModal.style.display = 'flex';
+    searchInput.value = '';
+    searchResult.textContent = '';
+    searchInput.focus();
+});
+
+closeSearchModal.addEventListener('click', () => {
+    searchModal.style.display = 'none';
+});
+
+searchSubmit.addEventListener('click', () => {
+    const searchText = searchInput.value.trim().toLowerCase();
+    if (mp4[searchText]) {
+        const videos = mp4[searchText];
+        const randomVideo = videos[Math.floor(Math.random() * videos.length)];
+        searchResult.innerHTML = `<video src="${randomVideo}" controls width="100%"></video>`;
+        
+        // Aumenta a luminosidade do contêiner
+        mp4Container.style.boxShadow = '0 0 60px 20px rgba(255, 255, 255, 1)';
+        setTimeout(() => {
+            mp4Container.style.boxShadow = '0 0 60px 20px rgba(255, 255, 255, 0.8)';
+        }, 1000);
+    } else {
+        searchResult.textContent = 'Objeto ainda não disponível';
+    }
+});
+
+searchInput.addEventListener('keypress', (event) => {
+if (event.key === 'Enter') {
+searchSubmit.click();
+}
+});
+
+soundToggle.addEventListener('click', () => {
+    soundEnabled = !soundEnabled;
+    soundToggle.textContent = soundEnabled ? '🔊' : '🔇';
+});
+
+infoButton.addEventListener('click', () => {
+    infoModal.style.display = 'flex';
+});
+
+closeInfoModal.addEventListener('click', () => {
+    infoModal.style.display = 'none';
+});
+
+
+//código responsavel por exibir frases aleatorias 
+// Lista de frases. Você pode adicionar quantas quiser aqui.
+const backgroundWords = [
+
+    "continue tentando!",
+    "cada erro é uma lição.",
+    "a prática leva à perfeição.",
+    "o primeiro traço é importante",
+    "observe o primeiro traço!",
+    "ouça músicas enquanto joga!",
+    "até mesmo a cor dos desenhos é importante!",
+    "se atente aos detalhes únicos de cada desenho",
+    "isso é apenas um jogo",
+    "a vida é mais que um joguinho",
+    "ouça AntXres no spotify",
+    "digitar devagar é essencial às vezes",
+    "seu feedback é importante",
+    "ler isso atrapalha você?",
+    "as pessoas realmente leem isso?",
+    // Adicione mais frases aqui
+    "você pode fazer melhor",
+    "a verdadeira vitória vem com o desafio!",
+    "você está ficando para trás, que tal digitar mais rápido?",
+    "Você está evoluindo",
+    "que tal errar menos?",
+    "syuz fã de daniewz",
+    "seu desempenho é fraco",
+    "você continua falhando",
+    "quanto mais prática, melhor!",
+    "Você está tentando, mas parece inútil",
+    "Você está longe de dominar.",
+    "pausas são necessárias!",
+    "entre no servidor do discord",
+    "percepção é necessário",
+    "não é sobre velocidade, às vezes",
+    "até mesmo o hardware importa",
+    "jogar com conexões cabeadas será sempre vantajoso",
+    "o mal tem uma falsa vitória sobre o bem",
+    "tenha paciência com as pessoas",
+    "você também já foi noob",
+    "que tal ser menos arrogante?",
+    "não perca seu tempo com assuntos frivolos",
+    "já ouviu falar em efeito placebo?",
+    "apenas você se conhece realmente",
+    "compartilhe nosso servidor",
+    "convide pessoas para aprender",
+    "convide pessoas para praticar",
+    "certas coisas são inevitáveis",
+    "se coloque no lugar dos outros",
+    "tenha empatia",
+    "reconheça o esforço dos outros",
+    "a humildade precede a honra",
+    "seja esperto",
+    "evite assuntos demasiadamente superficiais",
+    "nem todos merecem sua atençâo",
+    "se valorize como pessoa",
+    "algumas frases são para a vida",
+    "aprenda sobre memória muscular",
+    "aprenda usar o seu cérebro",
+    "já ouviu falar sobre neurociência?",
+    "você já errou na vida? Acha que merece 2º chance?",
+    "algumas pessoas merecem a 2º chance",
+    "feito por daniewz e denni_0014",
+    "você pode jogar no mobile também",
+    "é normal bugar em alguns desenhos",
+    "valorize o trabalho das pessoas",
+    "evite comparações",
+    "consuma bons conteúdos na internet",
+    "quanto mais variações de desenho melhor!",
+    "ajude enviando vídeos com variações para objetos!",
+    "mantenha este aplicativo sempre atualizado!",
+    "atualizações deste app no servidor do discord",
+    "digite o mais rapido possível!",
+    "pessoas de sucesso definem metas realistas",
+    "uma longa viagem começa por um passo",
+    "o melhor modo de prever o futuro é criá-lo - Peter Drucker",
+    "pratique sua digitação",
+    "seja mais rápido, ou desista",
+    "erros demais, foco!",
+    "não consegue fazer melhor?",
+    "tente não errar",
+    "você é realmente lento",
+    "cadê sua habilidade?",
+    "esse é seu máximo?",
+    "mais foco, menos erro!",
+    "esse app não coleta nenhum dado seu",
+    "esse app funciona 100% off-line",
+    "sites para praticar digitação: 10fastfingers, monkeytype",
+    "a vida é simples, nós é que complicamos. - Confúcio",
+    "a coragem é a primeira qualidade humana, pois garante as outras. - Aristóteles",
+    "sem música, a vida seria um erro",
+    "atualizações serão fornecidas através do servidor do discord",
+    "estar ciente das suas limitações já é estar além delas - hegel",
+    "garota, você é interestelar! Nem a estrela mais linda tem a luz que cê tem!",
+    "as estrelas apareceram na minha frente quando eu recebi seu abraço!",
+    "este jogo esta disponivel como app para windows, android e como site!",
+
+
+    
+
+
+
+
+
+];
+
+// Função para criar um elemento de palavra
+function createWordElement(text) {
+    const wordElement = document.createElement('div');
+    wordElement.textContent = text;
+    wordElement.className = 'background-word';
+
+    // Adiciona ao corpo para medir seu tamanho
+    document.body.appendChild(wordElement);
+
+    const wordWidth = wordElement.offsetWidth;
+    const wordHeight = wordElement.offsetHeight;
+
+    // Remove o elemento após medir
+    wordElement.remove();
+
+    // Gera uma posição aleatória dentro da tela
+    const windowWidth = window.innerWidth;
+    const windowHeight = window.innerHeight;
+
+    let x, y;
+
+    // Gera posição aleatória com base nas bordas da tela
+    const positionChoice = Math.floor(Math.random() * 8);
+
+    switch (positionChoice) {
+        case 0: // Canto superior esquerdo
+            x = Math.min(10, windowWidth - wordWidth);
+            y = Math.min(10, windowHeight - wordHeight);
+            break;
+        case 1: // Lateral esquerdo centralizado
+            x = Math.min(10, windowWidth - wordWidth);
+            y = (windowHeight - wordHeight) / 2;
+            break;
+        case 2: // Canto superior central
+            x = (windowWidth - wordWidth) / 2;
+            y = Math.min(10, windowHeight - wordHeight);
+            break;
+        case 3: // Centralizado
+            x = (windowWidth - wordWidth) / 2;
+            y = (windowHeight - wordHeight) / 2;
+            break;
+        case 4: // Lateral direito centralizado
+            x = Math.max(windowWidth - wordWidth - 10, 0);
+            y = (windowHeight - wordHeight) / 2;
+            break;
+        case 5: // Canto superior direito
+            x = Math.max(windowWidth - wordWidth - 10, 0);
+            y = Math.min(10, windowHeight - wordHeight);
+            break;
+        case 6: // Canto inferior direito
+            x = Math.max(windowWidth - wordWidth - 10, 0);
+            y = Math.max(windowHeight - wordHeight - 10, 0);
+            break;
+        case 7: // Canto inferior esquerdo
+            x = Math.min(10, windowWidth - wordWidth);
+            y = Math.max(windowHeight - wordHeight - 10, 0);
+            break;
+        default:
+            x = 0;
+            y = 0;
+            break;
+    }
+
+    wordElement.style.position = 'absolute';
+    wordElement.style.left = `${x}px`;
+    wordElement.style.top = `${y}px`;
+
+    // Adiciona a classe para a animação de aparecimento
+    document.body.appendChild(wordElement);
+    setTimeout(() => {
+        wordElement.classList.add('fade-in');
+    }, 0);
+
+    // Remove o elemento após a animação de desaparecimento
+    setTimeout(() => {
+        wordElement.style.opacity = 0;
+        setTimeout(() => {
+            wordElement.remove();
+        }, 2000); // Tempo para garantir que a animação de desaparecimento termine
+    }, 10000); // Tempo para mostrar a palavra antes de desaparecer
+}
+
+// Inicia a criação de palavras de fundo
+function startBackgroundWords() {
+    setInterval(() => {
+        const randomIndex = Math.floor(Math.random() * backgroundWords.length);
+        const randomText = backgroundWords[randomIndex];
+        createWordElement(randomText);
+    }, 19000); // Tempo entre a criação de novas palavras, estava 15000
+}
+
+startBackgroundWords(); //versão 0.0.5
+
+
