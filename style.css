@@ -39,9 +39,11 @@ p {
     gap: 10px;
 }
 
+/* Estilo do botão */
 button {
     padding: 10px 20px;
     font-size: 1em;
+    font-family: 'SuaFonte', sans-serif; /* Aplicando a fonte personalizada */
     background-color: #008CBA; /* Cor de fundo original */
     border: none;
     border-radius: 50px;
@@ -56,6 +58,81 @@ button:hover {
     transform: scale(1.1); /* Aumenta o botão ao passar o mouse */
 }
 
+/* Estilo específico para o botão "Downloads" */
+#downloadsBtn {
+    padding: 10px 20px;
+    font-size: 1em;
+    font-family: 'SuaFonte', sans-serif;
+    background-color: #ff5733; /* Cor diferente para o botão "Downloads" */
+    border: none;
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#downloadsBtn:hover {
+    background-color: #e84c2e; /* Cor ao passar o mouse no botão "Downloads" */
+    box-shadow: 0 0 15px 5px rgba(255, 87, 51, 0.8); /* Efeito neon no botão "Downloads" */
+    transform: scale(1.1);
+}
+
+/* Estilos do pop-up */
+.popup {
+    display: none; /* Inicialmente escondido */
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.8);
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-content {
+    background-color: rgba(255, 255, 255, 0.336);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 400px;
+    margin: auto;
+}
+
+.popup-btn {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 1em;
+    font-family: 'SuaFonte', sans-serif;
+    background-color: #008CBA;
+    border: none;
+    border-radius: 50px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.popup-btn:hover {
+    background-color: #005f7f;
+    box-shadow: 0 0 15px 5px rgba(0, 140, 186, 0.8);
+    transform: scale(1.1);
+}
+
+/* Estilo do botão de fechar */
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 30px;
+    cursor: pointer;
+    color: white;
+}
+
+/* Novo estilo para o título "Escolha a versão do app:" */
+.popup h2 {
+    color: rgb(255, 255, 255); /* Definindo a cor branca */
+}
 
 .image-or-video {
     margin-right: 50px;
