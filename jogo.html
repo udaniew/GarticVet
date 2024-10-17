@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="imagens/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="imagens/favicon.webp" type="image/png">
     <title>GarticVet</title>
     <link rel="stylesheet" href="CSS/styles.css">
     <style>
@@ -104,7 +104,7 @@ color: rgb(0, 0, 0);
     position: relative;
     flex-grow: 1;
     justify-content: center;
-    background-image: url('imagens/luzeffect.png'); /* efeito de imagem png atrás do contêiner*/
+    background-image: url('../GarticVet/imagens/luzeffect.webp'); /* efeito de imagem png atrás do contêiner*/
     background-size: cover;
     background-position: center 400px; /* Ajuste os pixels para baixar a imagem */
     background-repeat: no-repeat;
@@ -193,6 +193,24 @@ input {
         color: #00C6FF;
     }
 }
+
+#timer {
+    position: relative;
+    top: 515px;
+    left: -350px; /* Altera para posicionar à esquerda */
+    font-size: 24px;
+    z-index: 3;
+    color: #fff;
+    text-shadow: 
+        0 0 5px #fff, 
+        0 0 10px #fff, 
+        0 0 15px #fff, 
+        0 0 20px #fff, 
+        0 0 25px #fff, 
+        0 0 30px #fff, 
+        0 0 35px #fff;
+}
+
 
 #header {
     position: relative;
@@ -390,13 +408,14 @@ background-color: #8d2d2d; /* Cor do scroll bar quando o mouse passa por cima
 </head>
 <body>
     <video autoplay muted loop id="background-video">
-        <source src="videos/livewallpaper720.MOV" type="video/mp4">
+        <source src="videos/livewallpaper720.webm" type="video/mp4">
         Seu navegador não suporta vídeos HTML5.
     </video>
 
     <!-- <button class="btn-pilula" onclick="window.location.href='pages/level1/level1.html'">Ir para Nível 1</button> -->
     <div id="canvas-container">
         <div id="header">Desenvolvido por daniewz, w/apoio de denni_0014</div>
+        <span id="timer">00:00</span> <!-- Timer adicionado -->
         <span id="score">0</span>
         <canvas width="1820" height="608"></canvas>
         <div id="mp4-container">
