@@ -194,24 +194,6 @@ input {
     }
 }
 
-#timer {
-    position: relative;
-    top: 515px;
-    left: -350px; /* Altera para posicionar à esquerda */
-    font-size: 24px;
-    z-index: 3;
-    color: #fff;
-    text-shadow: 
-        0 0 5px #fff, 
-        0 0 10px #fff, 
-        0 0 15px #fff, 
-        0 0 20px #fff, 
-        0 0 25px #fff, 
-        0 0 30px #fff, 
-        0 0 35px #fff;
-}
-
-
 #header {
     position: relative;
     top: 520px;
@@ -279,6 +261,28 @@ transition: box-shadow 0.3s ease-in-out; /* Transição suave para o efeito neon
 #info-button:hover {
     box-shadow: 0 0 20px 10px #389681; /* Efeito neon mais forte */
 } /* botão de informação */
+
+#home-button {
+    width: 40px;
+    height: 40px;
+    background-color: #389681; /* Cor igual ao botão de informação */
+    border: none;
+    border-radius: 50%; /* Tornando o botão redondo */
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'MinhaFonte', Arial, sans-serif;
+    font-size: 24px; /* Aumenta o tamanho do emoji */
+    margin-right: 10px;
+    transition: box-shadow 0.3s ease-in-out; /* Transição suave para o efeito neon */
+}
+
+#home-button:hover {
+    box-shadow: 0 0 20px 10px #389681; /* Efeito neon na cor do botão */
+}
+
 
 #search-modal, #info-modal {
     display: none;
@@ -415,7 +419,6 @@ background-color: #8d2d2d; /* Cor do scroll bar quando o mouse passa por cima
     <!-- <button class="btn-pilula" onclick="window.location.href='pages/level1/level1.html'">Ir para Nível 1</button> -->
     <div id="canvas-container">
         <div id="header">Desenvolvido por daniewz, w/apoio de denni_0014</div>
-        <span id="timer">00:00</span> <!-- Timer adicionado -->
         <span id="score">0</span>
         <canvas width="1820" height="608"></canvas>
         <div id="mp4-container">
@@ -423,7 +426,10 @@ background-color: #8d2d2d; /* Cor do scroll bar quando o mouse passa por cima
             <p id="placeholder">interrupção no buffer: falha na obtenção do endpoint do contêiner MPEG-4</p>
         </div>
         <div id="input-container">
-            <button id="info-button">i</button>
+            <a href="../GarticVet/index.html">
+                <button id="home-button">🏠</button>
+            </a>            
+            <!-- <button id="info-button">i</button> -->
             <input type="text" id="user-input" placeholder="Digite aqui sua resposta"> <!-- campo de entrada, onde o usuario digita a resposta-->
             <button id="sound-toggle">🔊</button>
             <div id="answerReveal"></div> <!-- Esta seção é para o pílula de exibir a resposta -->

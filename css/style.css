@@ -58,6 +58,16 @@ button:hover {
     transform: scale(1.1); /* Aumenta o botão ao passar o mouse */
 }
 
+/* Estilo exclusivo para o botão "Log de Atualizações" */
+#logBtn {
+    background-color: #ff69b4; /* Cor rosa exclusiva */
+}
+
+#logBtn:hover {
+    background-color: #ff69b4; /* Mantém a cor rosa ao passar o mouse */
+    box-shadow: 0 0 15px 5px rgba(255, 105, 180, 0.8); /* Efeito neon rosa */
+}
+
 /* Estilo específico para o botão "Downloads" */
 #downloadsBtn {
     padding: 10px 20px;
@@ -249,5 +259,13 @@ video {
 .profile p {
     margin: 0;
     font-size: 14px;
+}
+
+.version {
+    position: fixed;      
+    bottom: 20px;         
+    right: 20px;          
+    color: rgba(255, 255, 255, 0.61);  /* Branco com 80% de opacidade */
+    font-size: 14px;      
 }
 
