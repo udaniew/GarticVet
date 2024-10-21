@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vidro Fosco com JavaScript</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'DefaultBold', sans-serif;
+            background: linear-gradient(135deg, #346d63 0%, #393f5a 100%);
+            color: #f3f3f3;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            text-align: center;
+            flex-direction: column;
+        }
+
+        .content {
+            width: 80%;
+            max-width: 1000px;
+            background: rgba(0, 0, 0, 0.7); /* Fundo semitransparente */
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+            animation: fadeIn 1.2s ease-in-out;
+            text-align: left;
+            z-index: 1;
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+            color: #fff;
+            text-transform: uppercase;
+            animation: fadeInDown 1s ease-in-out;
+        }
+
+        p {
+            font-size: 1.2em;
+            margin-bottom: 40px;
+            color: #f3f3f3;
+            animation: fadeInUp 1.2s ease-in-out;
+            line-height: 1.6;
+        }
+
+        /* Animações */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        #backgroundCanvas {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+        }
+    </style>
+</head>
+<body>
+
+    <canvas id="backgroundCanvas"></canvas>
+
+    <div class="content">
+        <h1>Como posso ajudar?</h1>
+        <p>
+            Mais informações em breve!
+        </p>
+    </div>
+
+    <script>
+        const canvas = document.getElementById('backgroundCanvas');
+        const ctx = canvas.getContext('2d');
+
+        // Definindo o tamanho do canvas para cobrir a tela
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+
+        // Carregar imagem de fundo (aqui você pode colocar qualquer imagem ou cor)
+        const img = new Image();
+        img.src = 'background.jpg';  // Aqui você pode colocar sua própria imagem de fundo
+        img.onload = function() {
+            // Quando a imagem carregar, aplica o efeito de blur
+            ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+
+            // Aplicando filtro de desfoque (blur)
+            ctx.globalAlpha = 0.5;
+            ctx.filter = 'blur(10px)';
+            ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+        };
+
+        // Reajustar o canvas no redimensionamento da janela
+        window.addEventListener('resize', function() {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+            ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+            ctx.filter = 'blur(10px)';
+            ctx.globalAlpha = 0.5;
+            ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+        });
+    </script>
+
+</body>
+</html>

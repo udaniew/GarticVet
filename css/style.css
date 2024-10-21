@@ -269,3 +269,52 @@ video {
     font-size: 14px;      
 }
 
+#btn-importante {
+    padding: 10px 20px; /* Mantendo o padding do botão original */
+    font-size: 1em; /* Mantendo o tamanho de fonte original */
+    font-family: 'SuaFonte', sans-serif; /* Aplicando a mesma fonte personalizada */
+    background-color: #fff;
+    color: #ffffff; /* cor do texto 'informações' */
+    border: 3px solid transparent;
+    border-radius: 50px; /* Mantendo bordas arredondadas */
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+#btn-importante:hover {
+    background-color: #008CBA; /* Cor de fundo ao passar o mouse, como no estilo original */
+    color: #fff; /* Mudança de cor ao passar o mouse */
+}
+
+/* Animação de borda com gradiente rotativo */
+#btn-importante:before {
+    content: "";
+    position: absolute;
+    top: -3px;
+    left: -3px;
+    right: -3px;
+    bottom: -3px;
+    background: linear-gradient(45deg, #ff6ec4, #7873f5, #6cfaff, #f9c0c0);
+    z-index: -1;
+    border-radius: 50px;
+    background-size: 400% 400%;
+    animation: borderRotate 5s linear infinite;
+}
+
+/* Controla a rotação do gradiente */
+@keyframes borderRotate {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+
