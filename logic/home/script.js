@@ -19,3 +19,5 @@ window.addEventListener('click', (event) => {
         popup.style.display = 'none';
     }
 });
+
+window.alert('Aviso: este site está em desenvolvimento. Para uma experiência otimizada, recomendamos acessá-lo em um computador. Se estiver em um dispositivo móvel, baixe o aplicativo Android na seção "Downloads" ou use o modo desktop. Note que a usabilidade pode ser reduzida em telas menores. - By Daniewz');
