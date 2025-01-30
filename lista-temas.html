@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escolha o Seu Tema</title>
+    <style>
+        /* Carregando a fonte personalizada */
+        @font-face {
+            font-family: 'SuaFonte';
+            src: url('./font/default-bold.ttf') format('woff2'),
+                 url('caminho/para/sua-fonte.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        /* Estilo para o vídeo de fundo */
+        .background-video {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Garante que o vídeo preencha a tela sem distorção */
+            z-index: -1; /* Coloca o vídeo atrás do conteúdo */
+        }
+
+        /* Estilo do corpo */
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            color: white; /* Cor do texto para contraste */
+            background: #000; /* Cor de fallback para navegadores que não suportam vídeo */
+        }
+
+        /* Título */
+        h1 {
+            font-family: 'SuaFonte', sans-serif; /* Fonte personalizada */
+            text-align: center;
+            margin-bottom: 50px;
+            z-index: 1; /* Garante que o texto fique acima do vídeo */
+        }
+
+        /* Contêiner dos botões */
+        .button-container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            z-index: 1; /* Garante que os botões fiquem acima do vídeo */
+        }
+
+        /* Estilo do botão */
+        button {
+            padding: 10px 20px;
+            font-size: 1em;
+            font-family: 'SuaFonte', sans-serif; /* Aplicando a fonte personalizada */
+            background-color: #008CBA; /* Cor de fundo original */
+            border: none;
+            border-radius: 50px;
+            color: white;
+            cursor: pointer;
+            transition: all 0.3s ease; /* Suaviza a transição */
+        }
+
+        button:hover {
+            background-color: #008CBA; /* Mantém a cor de fundo ao passar o mouse */
+            box-shadow: 0 0 15px 5px rgba(0, 140, 186, 0.8); /* Efeito neon */
+            transform: scale(1.1); /* Aumenta o botão ao passar o mouse */
+        }
+    </style>
+</head>
+<body>
+    <!-- Vídeo de fundo -->
+    <video class="background-video" autoplay muted loop>
+        <source src="./videos/livewallpaper720.webm" type="video/mp4">
+        Seu navegador não suporta o vídeo de fundo.
+    </video>
+
+    <h1>Escolha o Tema</h1>
+    <div class="button-container">
+        <button onclick="location.href='jogo.html'">Objetos</button>
+        <button onclick="location.href='animais.html'">Animais</button>
+        <button onclick="location.href='alimentos.html'">Alimentos</button>
+    </div>
+</body>
+</html>

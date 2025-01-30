@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="imagens/favicon.webp" type="image/png">
+    <title>GarticVet</title>
+    <link rel="stylesheet" href="CSS/styles.css">
+    <style>
+        @font-face {
+    font-family: 'MinhaFonte';
+    src: url('font/default-bold.ttf') format('truetype');
+}
+
+html, body {
+overflow: auto; /* Torna a página rolável */
+margin: 0;
+padding: 0;
+height: 100%;
+width: 100%;
+font-family: 'MinhaFonte', Arial, sans-serif;
+}
+
+#background-video {
+position: fixed;
+top: 0;
+left: 0;
+min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
+z-index: -1; /* Garante que o vídeo fique atrás de todo o conteúdo */
+background-size: cover;
+background-attachment: fixed;
+background-position: center;
+filter: brightness(0.7); /* Opcional: ajusta o brilho do vídeo */
+}
+
+body {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100vh;
+background-image: none; /* Remove a imagem de fundo */
+color: rgb(0, 0, 0);
+}
+
+
+#answerReveal {
+    display: none;
+    padding: 5px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 50px;
+    font-size: 14px;
+    white-space: nowrap;
+    box-shadow: 0 0 10px rgba(0, 123, 255, 0.5), 0 0 20px rgba(0, 123, 255, 0.5), 0 0 30px rgba(0, 123, 255, 0.5);
+    position: absolute; /* Permite posicionamento livre */
+    left: 50%; /* Exemplo de posição horizontal, ajuste conforme necessário */
+    top: -75%; /* Ajusta a posição vertical, movendo a pílula para cima */
+    transform: translateX(-50%) translateY(100%); /* Inicialmente fora da tela, abaixo */
+    z-index: 1000; /* Garante que a pílula fique acima de outros elementos */
+    animation: neonGlow 1.5s infinite alternate, revealPill 0.5s forwards ease-in-out;
+}
+
+@keyframes revealPill {
+    from {
+        opacity: 0;
+        transform: translateX(-50%) translateY(100%);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0);
+    }
+}
+
+@keyframes neonGlow {
+    from {
+        box-shadow: 0 0 10px rgba(0, 123, 255, 0.5), 0 0 20px rgba(0, 123, 255, 0.5), 0 0 30px rgba(0, 123, 255, 0.5);
+    }
+    to {
+        box-shadow: 0 0 20px rgba(0, 123, 255, 1), 0 0 30px rgba(0, 123, 255, 1), 0 0 40px rgba(0, 123, 255, 1);
+    }
+}
+
+#answerReveal.show {
+    display: inline-block;
+} /*elemento para exibir a resposta após 5 segundos de espera pelo usuario */
+
+#header {
+    width: 100%;
+    background-color: #444;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 16px;
+}
+
+#canvas-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    flex-grow: 1;
+    justify-content: center;
+    background-image: url('../GarticVet/imagens/luzeffect.webp'); /* efeito de imagem png atrás do contêiner*/
+    background-size: cover;
+    background-position: center 400px; /* Ajuste os pixels para baixar a imagem */
+    background-repeat: no-repeat;
+}
+
+canvas {
+    width: 821px;
+    height: 489px;
+    z-index: 1;
+}
+
+#mp4-container {
+    width: 821px;
+    height: 489px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    z-index: 2;
+    position: relative;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 0 30px 10px rgb(255, 255, 255); /* Efeito neon inicial */
+    transition: box-shadow 0.3s ease-in-out; /*efeito de neon atrás do container de vídeo */
+}
+
+
+
+#mp4-container video {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    pointer-events: none;
+}
+#input-container {
+    width: 400px;
+    height: 40px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 2;
+    position: relative;
+    border-radius: 50px;
+    margin-top: 10px;
+    padding: 0 10px;
+}
+input {
+    width: 70%;
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 50px;
+    font-family: 'MinhaFonte', Arial, sans-serif;
+}
+
+#score {
+    position: relative;
+    top: 483px;
+    right: -350px;
+    font-size: 24px;
+    z-index: 3;
+    color: #fff;
+    text-shadow: 
+        0 0 5px #fff, 
+        0 0 10px #fff, 
+        0 0 15px #fff, 
+        0 0 20px #fff, 
+        0 0 25px #fff, 
+        0 0 30px #fff, 
+        0 0 35px #fff;
+}
+
+@keyframes rgbText {
+    0% {
+        color: #00c6ff;
+    }
+    33% {
+        color: #0fced4;
+    }
+    66% {
+        color: #e0d292;
+    }
+    100% {
+        color: #00C6FF;
+    }
+}
+
+#header {
+    position: relative;
+    top: 520px;
+    left: 0;
+    font-size: 18px;
+    z-index: 3;
+    background-color: transparent;
+    animation: rgbText 3s infinite;
+}
+
+#search-button, #search-submit {
+margin: 10px;
+padding: 10px 20px;
+font-size: 16px;
+cursor: pointer;
+border-radius: 20px;
+border: none;
+background-color: #389681; /* cor do botão de pesquisar objetos */
+color: #ffffff;
+font-family: 'MinhaFonte', Arial, sans-serif;
+transition: box-shadow 0.3s ease-in-out; /* Transição suave para o efeito neon */
+}
+
+#search-button:hover, #search-submit:hover {
+    box-shadow: 0 0 20px 10px #389681; /* Efeito neon mais forte */
+} /* cor do botão de pesquisar */
+
+#sound-toggle {
+    width: 40px;
+    height: 40px;
+    background-color: #389681; /* cor do botão 'on/off para som' */
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-family: 'MinhaFonte', Arial, sans-serif;
+    font-size: 16px;
+    transition: box-shadow 0.3s ease-in-out; /* Transição suave para o efeito neon */
+}
+
+#sound-toggle:hover {
+    box-shadow: 0 0 20px 10px rgb(126, 144, 145); /* Efeito neon mais forte */
+}
+
+#info-button {
+    width: 40px;
+    height: 40px;
+    background-color: #389681; /* cor do botão de informação */
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-family: 'MinhaFonte', Arial, sans-serif;
+    font-size: 16px;
+    margin-right: 10px;
+    transition: box-shadow 0.3s ease-in-out; /* Transição suave para o efeito neon */
+}
+
+#info-button:hover {
+    box-shadow: 0 0 20px 10px #389681; /* Efeito neon mais forte */
+} /* botão de informação */
+
+#home-button {
+    width: 40px;
+    height: 40px;
+    background-color: #389681; /* Cor igual ao botão de informação */
+    border: none;
+    border-radius: 50%; /* Tornando o botão redondo */
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'MinhaFonte', Arial, sans-serif;
+    font-size: 24px; /* Aumenta o tamanho do emoji */
+    margin-right: 10px;
+    transition: box-shadow 0.3s ease-in-out; /* Transição suave para o efeito neon */
+}
+
+#home-button:hover {
+    box-shadow: 0 0 20px 10px #389681; /* Efeito neon na cor do botão */
+}
+
+
+#search-modal, #info-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+    z-index: 4;
+}
+
+#search-modal-content, #info-modal-content {
+    background-color: #ffffff; /* cor do background do pop-up de informação */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 80%;
+    max-width: 500px;
+}
+
+#search-modal input, #info-modal-content p {
+    width: 80%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #000000; /* cor do texto dentro do botão informação */
+    padding-left: 53px; /* Ajuste o valor conforme necessário */
+}
+
+#search-modal input {
+    padding-left: 10px; /* Ajuste o valor conforme necessário */
+}
+#search-result {
+    color: #000000; /* Cor preta para texto do resultado da pesquisa */
+}
+
+#close-info-modal {
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 16px;
+    margin-top: 10px;
+    display: block;
+    background-color: #389681; /* cor do botão fechar */
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    transition: box-shadow 0.3s ease-in-out; /* Transição suave para o efeito neon */
+}
+
+#close-info-modal:hover {
+    box-shadow: 0 0 20px 10px #389681; /* Efeito neon mais forte */
+    color: #fff; /* Cor do texto ao passar o mouse */
+}
+
+@media (max-width: 768px) {
+    body {
+        justify-content: flex-start;
+    }
+    #mp4-container {
+        width: 90%;
+        height: auto;
+        margin-top: 10px;
+    }
+    #input-container {
+        width: 90%;
+        margin-top: 10px;
+    }
+    canvas {
+        width: 100%;
+        height: auto;
+    }
+}
+
+.btn-pilula {
+    /* ... mesmo estilo CSS do exemplo anterior ... */
+    text-decoration: none; /* Remove o sublinhado padrão de links */
+    position: relative;
+    top: 1200px;
+    left: 50;
+}
+
+.background-word { /*código responsavel pelo estilo das frases que surgem aleatoriamente no fundo */
+position: absolute;
+color: rgba(255, 255, 255, 0.8);
+font-size: 24px;
+font-weight: bold;
+pointer-events: none;
+white-space: nowrap;
+opacity: 1;
+transition: opacity 2s ease-out;
+/* Adicione um fundo semi-transparente para melhorar a visibilidade se necessário */
+background-color: transparent;
+    text-shadow: 
+        0 0 5px #ffffff69, 
+        0 0 10px #ffffff48, 
+        0 0 15px #ffffff5e, 
+        0 0 20px #ffffff3c, 
+        0 0 25px #ffffff65, 
+        0 0 30px #ffffff4e, 
+        0 0 35px #ffffff72;
+}
+
+::-webkit-scrollbar {
+width: 12px; /* Espessura do scroll bar vertical */
+height: 12px; /* Espessura do scroll bar horizontal */
+}
+
+::-webkit-scrollbar-track {
+background-color: #ffffff; /* Cor do fundo da barra de rolagem */
+}
+
+::-webkit-scrollbar-thumb {
+background-color: #0edba8; /* Cor do scroll bar */
+border-radius: 20px; /* Deixa o scroll bar arredondado */
+}
+
+/* ::-webkit-scrollbar-thumb:hover {
+background-color: #8d2d2d; /* Cor do scroll bar quando o mouse passa por cima 
+} */
+
+
+
+
+    </style>
+</head>
+<body>
+    <video autoplay muted loop id="background-video">
+        <source src="videos/livewallpaper720.webm" type="video/mp4">
+        Seu navegador não suporta vídeos HTML5.
+    </video>
+
+    <!-- <button class="btn-pilula" onclick="window.location.href='pages/level1/level1.html'">Ir para Nível 1</button> -->
+    <div id="canvas-container">
+        <div id="header">desenvolvido por daniewz</div>
+        <span id="score">0</span>
+        <canvas width="1820" height="608"></canvas>
+        <div id="mp4-container">
+            <video id="mp4" autoplay muted playsinline style="display: none;"></video>
+            <p id="placeholder">interrupção no buffer: falha na obtenção do endpoint do contêiner MPEG-4</p>
+        </div>
+        <div id="input-container">        
+            <button id="info-button">i</button>
+            <input type="text" id="user-input" placeholder="Digite aqui sua resposta"> <!-- campo de entrada, onde o usuario digita a resposta-->
+            <button id="sound-toggle">🔊</button>
+            <a href="../GarticVet/index.html">
+                <button id="home-button">🏠</button>
+            </a>    
+            <div id="answerReveal"></div> <!-- Esta seção é para o pílula de exibir a resposta -->
+        </div>
+        <button id="search-button">Pesquisar objeto</button>
+    </div>
+
+    <div id="search-modal">
+        <div id="search-modal-content">
+            <input type="text" id="search-input" placeholder="Digite o nome do objeto">
+            <button id="search-submit">Buscar</button>
+            <p id="search-result"></p>
+            <span id="close-search-modal">Fechar</span>
+        </div>
+    </div>
+
+    <div id="info-modal">
+        <div id="info-modal-content">
+            <p>
+                Estamos cientes de que muitos dos desenhos padrões estão desatualizados. 
+                No entanto, isso será corrigido gradualmente. É necessário, mesmo que os materiais sejam antigos, 
+                possuir uma boa base de dados inicial para o progresso do projeto final. 
+                Agradecemos a compreensão. 
+                Você pode nos ajudar com o projeto sugerindo a correção para algumas palavras, seguido de um anexo de vídeo, 
+                diretamente em nosso servidor do <a href="https://discord.gg/pu7Z4n76" target="blank">Discord</a>, onde também estarão disponíveis mais informações 
+                relacionadas ao aplicativo em questão.
+            </p>            
+            <span id="close-info-modal">Fechar</span>
+        </div>
+    </div>
+
+    <audio id="correct-sound" src="sound/correct.mpeg"></audio>
+
+    <script src="logic/logicobjnormal/handler_obj_normal.j"></script>
+</body>
+</html>
