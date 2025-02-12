@@ -1178,7 +1178,3 @@ function startBackgroundWords() {
 
 startBackgroundWords(); //versão 0.0.6
 
-
-
-
-
