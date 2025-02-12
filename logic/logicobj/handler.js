@@ -1,1 +1,1184 @@
-const _0x104930=_0x319f;(function(_0x10b2da,_0x56a3d0){const _0x3f1d19=_0x319f,_0x42ef66=_0x10b2da();while(!![]){try{const _0x2645f7=-parseInt(_0x3f1d19(0x398))/0x1+-parseInt(_0x3f1d19(0x226))/0x2+-parseInt(_0x3f1d19(0x3b5))/0x3+-parseInt(_0x3f1d19(0x359))/0x4+-parseInt(_0x3f1d19(0x127))/0x5*(-parseInt(_0x3f1d19(0x19c))/0x6)+parseInt(_0x3f1d19(0x245))/0x7+parseInt(_0x3f1d19(0x1b0))/0x8;if(_0x2645f7===_0x56a3d0)break;else _0x42ef66['push'](_0x42ef66['shift']());}catch(_0x294098){_0x42ef66['push'](_0x42ef66['shift']());}}}(_0x57a2,0x5238e));const mp4={'papel':[_0x104930(0x188)],'esquadro':[_0x104930(0x220)],'piano':[_0x104930(0x142)],'jarra':['mp4/jarra.mp4'],'boneca':[_0x104930(0x205)],'escrivaninha':[_0x104930(0x2f5),_0x104930(0x396)],'lápis\x20de\x20cor':[_0x104930(0x3bf)],'luva':[_0x104930(0x3af)],'luva\x20de\x20boxe':[_0x104930(0x181)],'saxofone':['mp4/saxofone.mp4'],'cômoda':[_0x104930(0xfe)],'fogão\x20a\x20lenha':['mp4/fogão\x20a\x20lenha.mp4'],'brilho\x20labial':[_0x104930(0x2c9)],'seringa':[_0x104930(0x3e7)],'guidão':[_0x104930(0xe8)],'roteador':[_0x104930(0x3bc)],'tigela':[_0x104930(0x158),_0x104930(0x1fc)],'ofurô':[_0x104930(0x1ea)],'cama\x20elástica':['mp4/cama\x20elástica.mp4'],'estante':[_0x104930(0x27b),'mp4/estante2.mp4',_0x104930(0x1d9)],'botão':[_0x104930(0x10e),'mp4/botão2.mp4'],'broche':[_0x104930(0x17e)],'figurinha':[_0x104930(0x12c),_0x104930(0x12a)],'pano\x20de\x20chão':[_0x104930(0x22c)],'bongô':[_0x104930(0x321)],'cola':[_0x104930(0x289)],'alarme':[_0x104930(0x1a9)],'míssil':[_0x104930(0x336)],'cortina':['mp4/cortina.mp4','mp4/cortina2.mp4'],'barril':[_0x104930(0xde)],'bigorna':[_0x104930(0x21f)],'gaveta':[_0x104930(0x35a)],'vasilha':['mp4/vasilha.mp4'],'mola':['mp4/mola.mp4'],'zíper':[_0x104930(0x1e9)],'caderno':[_0x104930(0x3b3)],'caderneta':[_0x104930(0x293)],'máquina\x20de\x20datilografar':['mp4/máquina\x20de\x20datilografar.mp4'],'fichário':[_0x104930(0x3c4)],'âncora':[_0x104930(0x383)],'impressora':['mp4/impressora.mp4'],'filmadora':[_0x104930(0x38d),_0x104930(0x1fa)],'ferro\x20de\x20passar\x20roupa':[_0x104930(0xe7)],'macacão':[_0x104930(0x214)],'chave\x20canhão':[_0x104930(0x151)],'capacete':[_0x104930(0x1ee),'mp4/capacete2.mp4'],'prancheta':['mp4/prancheta.mp4'],'cartucho\x20de\x20tinta':[_0x104930(0x2a7)],'balde':[_0x104930(0xeb),_0x104930(0x169)],'telefone':['mp4/telefone.mp4'],'edredom':[_0x104930(0x2d6)],'prateleira':[_0x104930(0x295)],'geladeira':[_0x104930(0x39b)],'pires':[_0x104930(0x2d4)],'bilhete':[_0x104930(0x373)],'cristal':[_0x104930(0x1ac)],'transferidor':[_0x104930(0x2c0)],'cama':['mp4/cama.mp4'],'chave\x20de\x20roda':[_0x104930(0x206)],'cruz':[_0x104930(0xfc),_0x104930(0x32b)],'medalha':['mp4/medalha.mp4'],'lamparina':['mp4/lamparina.mp4'],'tanque':[_0x104930(0x30e)],'camisa\x20de\x20força':[_0x104930(0x36a)],'esmalte':[_0x104930(0x3c3)],'caixa':[_0x104930(0x32c)],'talco':[_0x104930(0x10f)],'cílios\x20postiços':[_0x104930(0x299)],'chapéu':['mp4/chapéu.mp4','mp4/chapéu2.mp4'],'carrinho\x20de\x20mão':[_0x104930(0x2ff)],'ioiô':['mp4/ioiô.mp4','mp4/ioiô2.mp4'],'lança':[_0x104930(0x35f)],'cafeteira':[_0x104930(0x10d)],'carretel':[_0x104930(0xf4)],'calota':['mp4/calota.mp4'],'hidrante':[_0x104930(0x3ba)],'anilha':['mp4/anilha.mp4'],'máscara\x20de\x20mergulho':[_0x104930(0x217)],'jaleco':[_0x104930(0x390)],'leiteira':[_0x104930(0x2e0)],'beliche':[_0x104930(0x10c)],'maiô':['mp4/maiô.mp4',_0x104930(0x3dc)],'tela':[_0x104930(0x153)],'conta-gotas':[_0x104930(0x1f4)],'bambolê':[_0x104930(0x1c7)],'pipa':['mp4/pipa.mp4',_0x104930(0x285)],'holofote':['mp4/holofote.mp4'],'cadeira\x20de\x20balanço':[_0x104930(0x36f)],'caixa\x20de\x20isopor':[_0x104930(0x3eb)],'aquecedor':[_0x104930(0x28c)],'corda':[_0x104930(0x2bf),_0x104930(0x1fe)],'casaco':[_0x104930(0x117),'mp4/casaco2.mp4'],'cachecol':[_0x104930(0x3d9)],'pingente':[_0x104930(0x255),_0x104930(0x39e)],'garrafa\x20térmica':[_0x104930(0x14e)],'echarpe':['mp4/echarpe.mp4'],'xícara':[_0x104930(0x3ef)],'baqueta':['mp4/baqueta.mp4'],'compasso':['mp4/compasso.mp4'],'coroa':[_0x104930(0x3e0),'mp4/coroa2.mp4'],'unha\x20postiça':[_0x104930(0x1d8),_0x104930(0x2a6)],'coleira':[_0x104930(0x1bb)],'brinco':[_0x104930(0x187)],'chave\x20de\x20boca':[_0x104930(0x2cb)],'mordaça':[_0x104930(0x3cf)],'periscópio':[_0x104930(0x2fa),_0x104930(0x161)],'pérola':[_0x104930(0x2db),_0x104930(0x3de)],'almofada':[_0x104930(0x1de)],'crucifixo':[_0x104930(0x227)],'escavadeira':[_0x104930(0x32f)],'lixa\x20de\x20unha':[_0x104930(0x37b)],'micro-ondas':['mp4/micro-ondas.mp4'],'bandeira':['mp4/bandeira.mp4'],'pilão':['mp4/pilão.mp4'],'jangada':[_0x104930(0x1c2)],'panela':['mp4/panela.mp4'],'fita':[_0x104930(0x16e)],'mangueira':[_0x104930(0x1ab)],'aspirador\x20de\x20pó':[_0x104930(0x30b),_0x104930(0x2f9)],'boia':[_0x104930(0x2aa),_0x104930(0x2be)],'arco':['mp4/arco.mp4'],'lustre':[_0x104930(0x1e4)],'pódio':[_0x104930(0xdc)],'carta':[_0x104930(0x3f6),_0x104930(0x230)],'short':[_0x104930(0x18c)],'presente':[_0x104930(0x377)],'camiseta':[_0x104930(0x11a)],'terno':[_0x104930(0x167),'mp4/terno2.mp4'],'tênis':[_0x104930(0x2b0)],'violão':[_0x104930(0x329)],'marreta':[_0x104930(0x287)],'carimbo':[_0x104930(0x344),'mp4/carimbo2.mp4'],'iate':[_0x104930(0x279)],'sabre':[_0x104930(0x19e)],'ralo':['mp4/ralo.mp4'],'reco-reco':[_0x104930(0x28a)],'triturador':['mp4/triturador.mp4'],'cone':[_0x104930(0x31e)],'gravata':[_0x104930(0x38c)],'máquina\x20de\x20lavar\x20roupa':['mp4/máquina\x20de\x20lavar\x20roupa.mp4'],'granada':['mp4/granada.mp4'],'filtro\x20de\x20papel':[_0x104930(0x24f),_0x104930(0x36c)],'papel\x20higiênico':[_0x104930(0x231)],'bafômetro':[_0x104930(0x2d5)],'para-raios':[_0x104930(0x309)],'abridor\x20de\x20latas':[_0x104930(0x18d),_0x104930(0x2ba)],'dinamite':[_0x104930(0x136)],'toldo':[_0x104930(0x2e3)],'rímel':[_0x104930(0x14b)],'lata':[_0x104930(0x29f)],'cadeira':[_0x104930(0x330)],'pia':['mp4/pia.mp4'],'espelho':[_0x104930(0x3cb)],'sutiã':[_0x104930(0x103),'mp4/sutiã2.mp4'],'bola\x20de\x20golfe':['mp4/bola\x20de\x20golfe.mp4'],'abridor\x20de\x20garrafa':[_0x104930(0x3b6)],'relógio':[_0x104930(0xff)],'escapamento':[_0x104930(0x115)],'violoncelo':['mp4/violoncelo.mp4'],'revista':[_0x104930(0x34c)],'lona':[_0x104930(0x23f)],'bule':['mp4/bule.mp4'],'véu':[_0x104930(0x355)],'manequim':[_0x104930(0x3bd)],'paraquedas':[_0x104930(0x2bc)],'banco':[_0x104930(0x3e4)],'liquidificador':[_0x104930(0x1cb),_0x104930(0x348)],'quadro':[_0x104930(0x274)],'caixa\x20de\x20som':[_0x104930(0x168)],'tapete':['mp4/tapete.mp4'],'tanga':[_0x104930(0x3c0),_0x104930(0x1fb)],'fones\x20de\x20ouvido':['mp4/fones\x20de\x20ouvido.mp4'],'canoa':['mp4/canoa.mp4'],'frigobar':[_0x104930(0x1fd)],'foguete':['mp4/foguete.mp4'],'porta':['mp4/porta.mp4'],'guilhotina':['mp4/guilhotina.mp4'],'serra':['mp4/serra.mp4',_0x104930(0x2fb)],'carrinho':[_0x104930(0x1d2)],'lanterna':[_0x104930(0x2de)],'buquê':['mp4/buquê.mp4'],'faca':['mp4/faca.mp4'],'ampulheta':[_0x104930(0xea)],'raquete\x20elétrica':[_0x104930(0x3a6),_0x104930(0x37e)],'borrifador':['mp4/borrifador.mp4'],'tablet':[_0x104930(0x250),'mp4/tablet2.mp4'],'puff':['mp4/puff.mp4'],'torradeira':[_0x104930(0x19f)],'rolo\x20de\x20massa':[_0x104930(0x128)],'extintor\x20de\x20incêndio':['mp4/extintor\x20de\x20incêndio.mp4'],'luminária':['mp4/luminária.mp4'],'esparadrapo':['mp4/esparadrapo.mp4'],'estilingue':['mp4/estilingue.mp4'],'agulha\x20de\x20crochê':[_0x104930(0x219)],'gesso':[_0x104930(0x2d8)],'fantoche':['mp4/fantoche.mp4',_0x104930(0x1d5)],'lenço':['mp4/lenço.mp4'],'penteadeira':[_0x104930(0x118)],'porta-retrato':[_0x104930(0x213)],'vídeo\x20cassete':[_0x104930(0xe0)],'berimbau':[_0x104930(0x271)],'chaveiro':[_0x104930(0x3a5)],'cisterna':[_0x104930(0x351),_0x104930(0x36b)],'pá':['mp4/pá.mp4'],'mala':[_0x104930(0x36e),_0x104930(0x1df)],'cinta-liga':['mp4/cinta-liga.mp4'],'óculos\x20de\x20sol':[_0x104930(0x35c)],'balaio':[_0x104930(0x3b8)],'fax':[_0x104930(0x2d9)],'suéter':[_0x104930(0x3ad)],'ralador':['mp4/ralador.mp4'],'prancha':[_0x104930(0x1d0),_0x104930(0x1b3)],'churrasqueira':[_0x104930(0x1a8)],'chaleira':[_0x104930(0x257)],'giz\x20de\x20cera':[_0x104930(0x290)],'vaso\x20sanitário':[_0x104930(0x165),_0x104930(0x3d2)],'gramofone':[_0x104930(0x1b2)],'leque':['mp4/leque.mp4'],'tijolo':[_0x104930(0x1be),_0x104930(0xf2),'mp4/tijolo3.mp4'],'calçadeira':[_0x104930(0x1bf)],'cabo':[_0x104930(0x1c1)],'prego':[_0x104930(0x385)],'corrente':[_0x104930(0x173)],'espátula':[_0x104930(0x323),_0x104930(0xe5)],'arpão':[_0x104930(0x114)],'cueca':['mp4/cueca.mp4'],'cinto':[_0x104930(0x237)],'parabrisa':[_0x104930(0x276)],'tiara':[_0x104930(0x106)],'quebra-cabeça':[_0x104930(0x14d),_0x104930(0x109)],'gancho':['mp4/gancho.mp4'],'alargador':[_0x104930(0x27f)],'esponja':[_0x104930(0x1f2)],'cavaquinho':[_0x104930(0x200)],'anzol':[_0x104930(0x397),_0x104930(0x332)],'alicate':['mp4/alicate.mp4'],'diamante':[_0x104930(0x159)],'quebra-nozes':[_0x104930(0x184)],'microfone':[_0x104930(0x13e)],'mouse':[_0x104930(0x3b7)],'bolsa':['mp4/bolsa.mp4'],'sandália':[_0x104930(0x1e6),_0x104930(0x1e6)],'farda':[_0x104930(0x28f),_0x104930(0x2ed),'mp4/farda3.mp4'],'viola':[_0x104930(0x1c9)],'pantufa':[_0x104930(0x3d6)],'joelheira':['mp4/joelheira.mp4'],'bicho\x20de\x20pelúcia':[_0x104930(0x296)],'delineador':[_0x104930(0x141)],'ventilador':[_0x104930(0x393)],'sapateira':[_0x104930(0x1f8)],'charuto':[_0x104930(0x3ed)],'batom':[_0x104930(0x21e)],'novelo\x20de\x20lã':[_0x104930(0x3ca)],'colcha':[_0x104930(0x2f7)],'batente':[_0x104930(0x2d0)],'apito':[_0x104930(0x229)],'chave\x20de\x20fenda':[_0x104930(0x19a)],'telescópio':[_0x104930(0x352)],'hélice':[_0x104930(0x24c)],'webcam':['mp4/webcam.mp4'],'elástico':[_0x104930(0x180)],'marionete':[_0x104930(0x2fe)],'pistola':[_0x104930(0x2ca)],'monitor':[_0x104930(0x384)],'cadeira\x20elétrica':[_0x104930(0x369)],'trono':[_0x104930(0x17f)],'pijama':[_0x104930(0x3f2)],'chave\x20de\x20grifo':[_0x104930(0x1dd)],'chave\x20canhão':['mp4/chave\x20canhão2.mp4'],'cadeira\x20de\x20rodas':[_0x104930(0x34a)],'camisola':[_0x104930(0x11f)],'cadeira\x20de\x20praia':[_0x104930(0x327)],'revólver':[_0x104930(0x152)],'televisão':[_0x104930(0x3ae)],'pente':[_0x104930(0x3a3)],'escova':[_0x104930(0x14a)],'colcha':[_0x104930(0x2f7)],'megafone':[_0x104930(0x2e8)],'armadura':[_0x104930(0x224)],'esfigmomanômetro':['mp4/esfigmomanômetro.mp4'],'agulha':[_0x104930(0x353)],'coturno':['mp4/coturno.mp4'],'fronha':[_0x104930(0x2a5)],'gibi':[_0x104930(0x24b)],'chinelo':[_0x104930(0x14f)],'guirlanda':['mp4/guirlanda.mp4'],'tamanco':['mp4/tamanco.mp4',_0x104930(0x325)],'persiana':['mp4/persiana.mp4'],'barbante':[_0x104930(0x3df)],'álbum':[_0x104930(0x17c)],'lâmpada':['mp4/lâmpada.mp4'],'ferrolho':[_0x104930(0x248)],'pacote':[_0x104930(0x26e)],'estilete':[_0x104930(0x113)],'mesa\x20de\x20sinuca':[_0x104930(0x139)],'isqueiro':[_0x104930(0x1cc)],'terno':[_0x104930(0x167)],'poster':[_0x104930(0x138)],'pano\x20de\x20prato':['mp4/pano\x20de\x20prato.mp4'],'botina':[_0x104930(0x339)],'picareta':['mp4/picareta.mp4'],'canivete':['mp4/canivete.mp4'],'espiral':[_0x104930(0x177)],'basculante':[_0x104930(0x402)],'travesseiro':[_0x104930(0x10b)],'flauta':[_0x104930(0x110)],'janela':['mp4/janela.mp4'],'órgão':['mp4/órgão.mp4'],'mesa\x20de\x20ping-pong':[_0x104930(0x22a)],'mouse\x20pad':[_0x104930(0x305)],'colar':[_0x104930(0x273)],'lanterna\x20chinesa':['mp4/lanterna\x20chinesa.mp4'],'régua':[_0x104930(0x240)],'camisa':[_0x104930(0x172)],'camisa\x20de\x20força':[_0x104930(0x36a)],'cobertor':[_0x104930(0x160)],'rasteirinha':[_0x104930(0x3dd)],'pilha':[_0x104930(0x3b4)],'minissaia':[_0x104930(0x259)],'manta':[_0x104930(0x2f8)],'boné':[_0x104930(0x366),'mp4/boné2.mp4'],'pá\x20de\x20lixo':[_0x104930(0x286),_0x104930(0xf8)],'blusa':['mp4/blusa.mp4'],'aquecedor':['mp4/aquecedor.mp4'],'saia':[_0x104930(0x2e4)],'dobradiça':['mp4/dobradiça.mp4'],'míssil':['mp4/míssil.mp4'],'alto\x20falante':[_0x104930(0x306)],'colchonete':[_0x104930(0x24a)],'navalha':[_0x104930(0x1bc)],'vídeo\x20game':[_0x104930(0x1d3)],'salto\x20alto':[_0x104930(0x2a2)],'manete':[_0x104930(0x11b)],'pasta':['mp4/pasta.mp4','mp4/pasta2.mp4'],'armário':[_0x104930(0x297)],'maca':[_0x104930(0x121)],'exaustor':[_0x104930(0x34f)],'boneca':[_0x104930(0x205)],'bisturi':['mp4/bisturi.mp4'],'trave':[_0x104930(0x162)],'guarda-roupa':[_0x104930(0x3cd)],'tumba':['mp4/tumba.mp4','mp4/tumba2.mp4'],'biombo':[_0x104930(0x335)],'lixeira':[_0x104930(0x147)],'guardanapo':[_0x104930(0x31f),_0x104930(0x337)],'palmilha':['mp4/palmilha.mp4'],'bota':[_0x104930(0x2cd)],'jaqueta':[_0x104930(0x28e)],'galocha':[_0x104930(0x376)],'brinco':['mp4/brinco.mp4'],'rádio':[_0x104930(0x39f)],'giz\x20de\x20cera':[_0x104930(0x290)],'guitarra':[_0x104930(0x22b)],'lençol':[_0x104930(0x16c),_0x104930(0x3a9)],'giz':[_0x104930(0x26f)],'rodo':['mp4/rodo.mp4'],'sapato':[_0x104930(0x1b6),_0x104930(0x223)],'frigideira':['mp4/frigideira.mp4'],'toalha':[_0x104930(0x37d)],'sanduicheira':['mp4/sanduicheira.mp4',_0x104930(0x2dc)],'vaso':[_0x104930(0x261),'mp4/vaso2.mp4'],'foice':[_0x104930(0x304)],'bola':[_0x104930(0x365)],'mesa':[_0x104930(0x380)],'skate':['mp4/skate.mp4'],'cavalo\x20de\x20pau':[_0x104930(0x22f)],'leiteira':[_0x104930(0x2e0)],'caneca':[_0x104930(0x368)],'colher':[_0x104930(0x131)],'rede\x20de\x20pesca':[_0x104930(0xd9)],'suspensório':[_0x104930(0x1cd)],'escada':[_0x104930(0x2c2)],'cachimbo':[_0x104930(0x354)],'algema':['mp4/algema.mp4'],'cesta':[_0x104930(0x1d4)],'saca-rolhas':[_0x104930(0x27a)],'concha':[_0x104930(0x232)],'cerca\x20elétrica':[_0x104930(0x1c8)],'notebook':['mp4/notebook.mp4'],'gaiola':[_0x104930(0x3f1)],'asa\x20delta':[_0x104930(0x2e9)],'caneta':[_0x104930(0x1b9)],'balão':['mp4/balão.mp4'],'tamborim':['mp4/tamborim.mp4',_0x104930(0x1ff)],'alfinete':[_0x104930(0x33d),_0x104930(0x389)],'serra\x20elétrica':[_0x104930(0x228)],'arame\x20farpado':[_0x104930(0x33e)],'agulheiro':[_0x104930(0x1ca)],'caixa\x20de\x20correio':[_0x104930(0x3c2),_0x104930(0x12b)],'faixa':[_0x104930(0x16a)],'volante':[_0x104930(0x1c0)],'tridente':[_0x104930(0x23e)],'borracha':['mp4/borracha.mp4'],'ratoeira':[_0x104930(0x266)],'balança':[_0x104930(0x388)],'envelope':[_0x104930(0x379)],'patinete':[_0x104930(0x197)],'sapatilha':['mp4/sapatilha.mp4','mp4/sapatilha2.mp4'],'estátua':[_0x104930(0x35e),_0x104930(0x2ae)],'caixa\x20de\x20ferramentas':[_0x104930(0xda)],'radar':[_0x104930(0x132)],'gangorra':[_0x104930(0x326)],'sombrinha':[_0x104930(0x2f0)],'anel':['mp4/anel.mp4'],'caixote':[_0x104930(0x30c)],'algodão':['mp4/algodão.mp4'],'aliança':['mp4/aliança.mp4'],'rede':['mp4/rede.mp4',_0x104930(0xe2)],'serrote':['mp4/serrote.mp4',_0x104930(0x2dd)],'spray':[_0x104930(0x314)],'jardineira':[_0x104930(0x20c)],'abafador':['mp4/abafador.mp4'],'abajur':['mp4/abajur.mp4'],'guarda-chuva':[_0x104930(0x239)],'fio':['mp4/fio.mp4',_0x104930(0xe3)],'lápis':['mp4/lápis.mp4'],'alicate\x20de\x20unha':[_0x104930(0x270)],'cajado':[_0x104930(0x149)],'guarda-sol':[_0x104930(0x111)],'garfo':[_0x104930(0x238)],'lupa':[_0x104930(0x37a)],'rede\x20de\x20descanso':[_0x104930(0xf0)],'rolha':[_0x104930(0x235)],'maracá':[_0x104930(0x14c)],'cano':[_0x104930(0x2eb)],'jeans':[_0x104930(0x360)],'caixão':['mp4/caixão.mp4'],'balaústre':['mp4/balaústre.mp4'],'chocalho':['mp4/chocalho.mp4'],'bengala':[_0x104930(0x322)],'calcinha':[_0x104930(0x183),_0x104930(0x156)],'nariz\x20de\x20palhaço':[_0x104930(0x334)],'calça':['mp4/calça.mp4'],'garrafa':['mp4/garrafa.mp4'],'disco':['mp4/disco.mp4'],'tambor':['mp4/tambor.mp4'],'enxada':[_0x104930(0x33f),_0x104930(0x11e)],'cocar':[_0x104930(0x358)],'aspersório':[_0x104930(0x1a0)],'buzina':[_0x104930(0x1ad)],'caneta\x20hidrocor':[_0x104930(0x12d)],'pneu':[_0x104930(0x2a4)],'desodorante':[_0x104930(0x2b4)],'apagador':[_0x104930(0xf7)],'baioneta':['mp4/baioneta.mp4'],'cd':[_0x104930(0x1f9)],'moeda':[_0x104930(0x137)],'andaime':[_0x104930(0x284)],'boina':['mp4/boina.mp4'],'antena':['mp4/antena.mp4'],'monóculo':[_0x104930(0xef),'mp4/monóculo2.mp4'],'dardo':['mp4/dardo.mp4'],'mochila':[_0x104930(0x260)],'aquário':[_0x104930(0x1f3)],'copo':['mp4/copo.mp4'],'aro':[_0x104930(0x26d),_0x104930(0x148)],'banqueta':[_0x104930(0x1c4)],'andador':[_0x104930(0x3ea)],'assadeira':[_0x104930(0x28b)],'baú':[_0x104930(0x24d)],'forma':[_0x104930(0x23b)],'berço':[_0x104930(0x343)],'garfo':['mp4/garfo.mp4'],'gaita':[_0x104930(0x246),'mp4/gaita2.mp4'],'oboé':['mp4/oboé.mp4'],'computador':[_0x104930(0x269)],'relógio\x20de\x20sol':[_0x104930(0x15f)],'desentupidor':[_0x104930(0x2a8),_0x104930(0x29a)],'caixa\x20de\x20fósforo':['mp4/caixa\x20de\x20fósforo.mp4'],'chapéu\x20de\x20aniversário':[_0x104930(0x13c)],'cetro':['mp4/cetro.mp4',_0x104930(0x1dc)],'fantasia':[_0x104930(0x22e)],'bomba\x20de\x20ar':[_0x104930(0x211),'mp4/bomba\x20de\x20ar.mp4',_0x104930(0x33c)],'canudo':[_0x104930(0x21b)],'chave\x20inglesa':[_0x104930(0x34e)],'bracelete':[_0x104930(0x196)],'caneleira':[_0x104930(0x3ce)],'chupeta':[_0x104930(0x2c4)],'cata-vento':['mp4/cata-vento.mp4'],'chicote':[_0x104930(0x316)],'chave':['mp4/chave.mp4'],'carrinho\x20de\x20feira':[_0x104930(0x252)],'cartão\x20postal':[_0x104930(0x28d),_0x104930(0xee)],'cinto\x20de\x20segurança':[_0x104930(0x3db)],'claquete':[_0x104930(0x350)],'cantil':[_0x104930(0x288)],'casula':[_0x104930(0x32d)],'catraca':['mp4/catraca.mp4'],'cantoneira':['mp4/cantoneira.mp4'],'candeeiro':[_0x104930(0xd8)],'capacho':[_0x104930(0xfb)],'chuteira':[_0x104930(0x249)],'chave\x20estrela':['mp4/chave\x20estrela.mp4'],'cartão':['mp4/cartão.mp4'],'caixa\x20de\x20papelão':['mp4/caixa\x20de\x20papelão.mp4'],'carrinho\x20de\x20rolimã':[_0x104930(0x1a3)],'brinquedo':[_0x104930(0x209)],'bronzeador':[_0x104930(0x33a)],'canga':[_0x104930(0x1ed)],'clipe':[_0x104930(0x1a2)],'clava':['mp4/clava.mp4'],'cartola':[_0x104930(0x2a1)],'camisa\x20regata':[_0x104930(0x3c1),_0x104930(0x1ce)],'caixa\x20registradora':[_0x104930(0x275)],'celular':[_0x104930(0x20b)],'carteira':[_0x104930(0x37c)],'candelabro':[_0x104930(0x194)],'cadarço':[_0x104930(0x347)],'coador':[_0x104930(0x178)],'bolsa\x20térmica':[_0x104930(0x371)],'bola\x20de\x20boliche':['mp4/bola\x20de\x20boliche.mp4'],'bola\x20de\x20gude':[_0x104930(0x3f5)],'despertador':[_0x104930(0x27c)],'controle\x20remoto':[_0x104930(0x1a5),'mp4/controle\x20remoto2.mp4'],'cruzeta':[_0x104930(0x251),_0x104930(0x262)],'colchão\x20inflável':[_0x104930(0x1c5)],'corneta':['mp4/corneta.mp4'],'colírio':[_0x104930(0x30d)],'cuia':[_0x104930(0x378)],'ponteiro':[_0x104930(0x112)],'dedal':[_0x104930(0x1b4)],'coifa':[_0x104930(0x2fd)],'comedouro':[_0x104930(0x33b)],'sunga':['mp4/sunga.mp4'],'diário':[_0x104930(0x100),'mp4/diário2.mp4'],'martelo':[_0x104930(0x1a4)],'crachá':[_0x104930(0x179)],'curvador\x20de\x20cílios':[_0x104930(0x2f4)],'cutelo':['mp4/cutelo.mp4',_0x104930(0x104),_0x104930(0x1a6)],'dado':[_0x104930(0x20f)],'ímã':['mp4/ímã.mp4'],'fruteira':[_0x104930(0x1ba)],'escudo':[_0x104930(0x2f6)],'estaca':['mp4/estaca.mp4'],'fita\x20isolante':[_0x104930(0x303)],'esfregão':['mp4/esfregão.mp4'],'escopeta':[_0x104930(0x17b)],'filtro\x20de\x20linha':[_0x104930(0x395)],'fita\x20cassete':[_0x104930(0x1f1)],'fio\x20dental':[_0x104930(0x191)],'escorredor\x20de\x20pratos':[_0x104930(0x241)],'rastelo':[_0x104930(0x11c)],'farol\x20de\x20milha':['mp4/farol\x20de\x20milha.mp4'],'escorredor\x20de\x20macarrão':[_0x104930(0x357)],'flecha':[_0x104930(0x215)],'fivela':[_0x104930(0x32a)],'vela':[_0x104930(0x204)],'dominó':[_0x104930(0x34d)],'biruta':['mp4/biruta.mp4'],'escorregador':[_0x104930(0x3fd)],'fita\x20adesiva':['mp4/fita\x20adesiva.mp4'],'farolete':['mp4/farolete.mp4'],'estojo':[_0x104930(0x18b)],'faqueiro':[_0x104930(0x1e0)],'estabilizador':[_0x104930(0x202)],'facão':['mp4/facão.mp4'],'espremedor\x20de\x20alho':[_0x104930(0x218)],'freezer':['mp4/freezer.mp4'],'ferradura':[_0x104930(0x176)],'farinheiro':[_0x104930(0x38b)],'funil':[_0x104930(0x154)],'tobogã':[_0x104930(0x3fa)],'filtro\x20de\x20água':[_0x104930(0x1ef)],'carimbo':['mp4/carimbo.mp4'],'fita\x20crepe':[_0x104930(0x324)],'fogão':[_0x104930(0x3d0),_0x104930(0x280)],'rifle':['mp4/rifle.mp4'],'flanela':['mp4/flanela.mp4'],'espanador':[_0x104930(0x22d)],'frasco':[_0x104930(0xf9)],'escumadeira':[_0x104930(0x243)],'estojo\x20de\x20maquiagem':[_0x104930(0x298)],'estatueta\x20do\x20oscar':[_0x104930(0x2c6),_0x104930(0x247)],'cuíca':['mp4/cuíca.mp4'],'livro':[_0x104930(0x2ea)],'chuveiro':['mp4/chuveiro.mp4','mp4/chuveiro2.mp4',_0x104930(0x1e1)],'capa':[_0x104930(0x133),_0x104930(0x163)],'pipoqueira':[_0x104930(0x27d),_0x104930(0x244)],'contrabaixo':[_0x104930(0x38a)],'grampo\x20de\x20cabelo':[_0x104930(0x308)],'ombreira':[_0x104930(0x25b)],'bomba':['mp4/bomba.mp4',_0x104930(0x102)],'avental':[_0x104930(0x2e1)],'tinta\x20de\x20cabelo':[_0x104930(0x3e8)],'caldeirão':[_0x104930(0x2cf)],'bicama':[_0x104930(0x199)],'mastro':[_0x104930(0x263)],'vassoura':[_0x104930(0x1b8),_0x104930(0x175)],'depilador\x20elétrico':['mp4/depilador\x20elétrico.mp4',_0x104930(0x31b),_0x104930(0x3b9)],'scanner':[_0x104930(0x282)],'azulejo':[_0x104930(0x349)],'jornal':[_0x104930(0x2b2)],'bidê':['mp4/bidê.mp4',_0x104930(0x2ad)],'bumerangue':['mp4/bumerangue.mp4'],'rede\x20de\x20descanso':[_0x104930(0xf0)],'panela\x20de\x20pressão':['mp4/panela\x20de\x20pressão.mp4'],'cassetete':[_0x104930(0x399)],'prato':[_0x104930(0x19b)],'corpete':[_0x104930(0x283)],'broca':[_0x104930(0x38f)],'bagageiro':[_0x104930(0x25c)],'cortador\x20de\x20grama':[_0x104930(0x1b7)],'apontador\x20de\x20lápis':[_0x104930(0x171)],'bateria':[_0x104930(0x1f6)],'mosquiteiro':[_0x104930(0x124)],'convite':['mp4/convite.mp4'],'batina':[_0x104930(0x20e)],'semáforo':['mp4/semáforo.mp4','mp4/semáforo2.mp4'],'tornozeleira':['mp4/tornozeleira.mp4'],'tatame':[_0x104930(0x291),_0x104930(0x16b)],'barbeador':[_0x104930(0x125),_0x104930(0x1f5)],'berrante':[_0x104930(0x2da)],'chimbal':[_0x104930(0x2a0)],'colher\x20de\x20pau':[_0x104930(0x3ac)],'tridente':[_0x104930(0x23e)],'corsário':[_0x104930(0x185)],'cueca':[_0x104930(0x2e6)],'espremedor\x20de\x20frutas':['mp4/espremedor\x20de\x20frutas.mp4'],'bíblia':[_0x104930(0x15b)],'esteira\x20ergométrica':['mp4/esteira\x20ergométrica.mp4'],'corretivo':[_0x104930(0x144)],'colchão':[_0x104930(0x2e2),_0x104930(0x157)],'espingarda':[_0x104930(0x2fc)],'cotoveleira':[_0x104930(0x3d4)],'trampolim':[_0x104930(0x208)],'coldre':[_0x104930(0x2b5)],'cofre':[_0x104930(0x16f)],'furadeira':[_0x104930(0x1d1)],'panfleto':[_0x104930(0x1aa)],'saboneteira':[_0x104930(0x3f8)],'lantejoula':[_0x104930(0x3ec)],'pinça':[_0x104930(0x300),'mp4/pinça2.mp4'],'confete':['mp4/confete.mp4'],'boá':[_0x104930(0x198)],'piercing':[_0x104930(0x391)],'máquina\x20de\x20lavar\x20louça':[_0x104930(0x166)],'binóculo':['mp4/binóculo.mp4'],'pote':[_0x104930(0x2c1)],'filmadora':[_0x104930(0x38d)],'alaúde':['mp4/alaúde.mp4'],'aerofólio':[_0x104930(0x222)],'açucareiro':[_0x104930(0x3c5)],'bazuca':[_0x104930(0x2f3),_0x104930(0x25f)],'bandolim':[_0x104930(0x234)],'bandana':[_0x104930(0x20a)],'estribo':['mp4/estribo.mp4'],'biqueira':[_0x104930(0x3f7)],'betoneira':[_0x104930(0x108)],'antena\x20parabólica':['mp4/antena\x20parabólica.mp4'],'camafeu':[_0x104930(0x225)],'estetoscópio':[_0x104930(0x233),_0x104930(0x3c7),'mp4/estetoscópio3.mp4'],'aldrava':[_0x104930(0xec)],'bilboquê':[_0x104930(0x2c3)],'banheira':[_0x104930(0x3fb)],'espada':[_0x104930(0x342)],'prendedor\x20de\x20cabelo':[_0x104930(0x146),_0x104930(0x19d)],'afiador\x20de\x20facas':[_0x104930(0x1b1)],'barraca':['mp4/barraca.mp4'],'astrolábio':[_0x104930(0x2ec)],'bacia':[_0x104930(0x203),'mp4/bacia2.mp4'],'violino':[_0x104930(0x3c6),_0x104930(0x37f)],'beca':[_0x104930(0x3d1)],'abotoadura':[_0x104930(0x3e5)],'adaga':['mp4/adaga.mp4'],'armadilha':[_0x104930(0x2ee)],'amortecedor':[_0x104930(0x23a)],'aparador':['mp4/aparador.mp4'],'bata':[_0x104930(0x150)],'aljava':[_0x104930(0x2f1)],'relicário':[_0x104930(0x3e1)],'aneleira':[_0x104930(0xe4)],'batedeira':[_0x104930(0x277)],'antolho':[_0x104930(0x281)],'balaclava':[_0x104930(0x101)],'batuta':[_0x104930(0xf6)],'arca':[_0x104930(0x3c9)],'poltrona':['mp4/poltrona.mp4',_0x104930(0x116)],'biquíni':[_0x104930(0x362)],'ábaco':['mp4/ábaco.mp4'],'autorama':[_0x104930(0x29b)],'aparelho\x20ortodôntico':[_0x104930(0x31a)],'balsa':[_0x104930(0x381)],'bicicleta\x20ergométrica':[_0x104930(0x21c)],'adaptador':[_0x104930(0x31d)],'árvore\x20de\x20natal':[_0x104930(0x356)],'baleiro':['mp4/baleiro.mp4'],'amuleto':['mp4/amuleto.mp4'],'modem':['mp4/modem.mp4'],'divã':[_0x104930(0x307)],'retrato':[_0x104930(0x2bd)],'mamadeira':[_0x104930(0x170)],'retrovisor':[_0x104930(0x1db),_0x104930(0x1e2)],'forno\x20elétrico':[_0x104930(0x3cc)],'pilão':[_0x104930(0x2e5)],'colete':[_0x104930(0x24e)],'cabide':[_0x104930(0x2d2)],'dvd':[_0x104930(0x1d6)],'varal':['mp4/varal.mp4'],'chapinha\x20de\x20cabelo':[_0x104930(0x13f)],'carrinho\x20de\x20bebê':[_0x104930(0x120)],'uniforme':[_0x104930(0x3e6)],'ceroula':[_0x104930(0x26a)],'urna':[_0x104930(0x1a7)],'tubo\x20de\x20ensaio':['mp4/tubo\x20de\x20ensaio.mp4'],'vestido':[_0x104930(0x2df)],'celada':['mp4/celada.mp4'],'tuba':[_0x104930(0x374)],'turbante':[_0x104930(0x29e)],'vidro':[_0x104930(0x15d)],'pregador':[_0x104930(0x140)],'toga':[_0x104930(0x340)],'bombacha':['mp4/bombacha.mp4'],'cartão\x20de\x20crédito':[_0x104930(0x363)],'troféu':['mp4/troféu.mp4'],'caxixi':['mp4/caxixi.mp4'],'cálice':['mp4/cálice.mp4'],'xilofone':[_0x104930(0xdf)],'toalha\x20de\x20mesa':[_0x104930(0x129)],'rabeca':[_0x104930(0x1a1)],'teclado':['mp4/teclado.mp4'],'tábua':[_0x104930(0x25d)],'queijeira':[_0x104930(0x2b7)],'trompete':[_0x104930(0x3f9)],'termômetro':[_0x104930(0x1c3)],'radar':[_0x104930(0x132)],'placa':['mp4/placa.mp4'],'rodapé':[_0x104930(0x3a2)],'revisteiro':['mp4/revisteiro.mp4'],'pipeta':[_0x104930(0x242)],'zabumba':[_0x104930(0x3b2)],'polaina':[_0x104930(0x401)],'quepe':['mp4/quepe.mp4'],'bastão':['mp4/bastão.mp4'],'rack':[_0x104930(0x345)],'rádio\x20gravador':[_0x104930(0x216)],'quimono':['mp4/quimono.mp4'],'sanfona':[_0x104930(0x254)],'tesoura':['mp4/tesoura.mp4'],'regador':['mp4/regador.mp4'],'porta-lápis':[_0x104930(0x361)],'gabinete':[_0x104930(0x268)],'protetor\x20auricular':[_0x104930(0xe9)],'trampolim':[_0x104930(0x208)],'pulverizador':['mp4/pulverizador.mp4'],'rédea':['mp4/rédea.mp4'],'samba\x20canção':[_0x104930(0x192)],'retroprojetor':[_0x104930(0x1ae)],'pochete':['mp4/pochete.mp4'],'taça':[_0x104930(0x29d)],'porta\x20cd':[_0x104930(0x2ef)],'remo':[_0x104930(0x195)],'pisca-pisca':[_0x104930(0x311)],'protetor\x20bucal':[_0x104930(0x272)],'trompa':['mp4/trompa.mp4'],'saco\x20de\x20plástico':[_0x104930(0x320)],'triângulo':[_0x104930(0x267)],'tambor':[_0x104930(0x2c5)],'raquete':[_0x104930(0x3bb)],'taco':[_0x104930(0x29c)],'laço':[_0x104930(0x3d7)],'puxador':[_0x104930(0xf5)],'pluma':[_0x104930(0x3e9)],'rádio':[_0x104930(0x39f)],'rádio\x20amador':[_0x104930(0x21a)],'pincel':[_0x104930(0x2cc)],'zarabatana':[_0x104930(0x193)],'pino':[_0x104930(0x333)],'ralo\x20de\x20pia':[_0x104930(0x1f0)],'talher':[_0x104930(0x39a)],'refratário':['mp4/refratário.mp4'],'telha':[_0x104930(0x315)],'tecido':[_0x104930(0x25a)],'touca':[_0x104930(0x13b)],'sandália':[_0x104930(0x1e6)],'parafuso':['mp4/parafuso.mp4'],'peteca':[_0x104930(0x20d)],'patinete':[_0x104930(0x197)],'penteadeira':[_0x104930(0x118)],'papel\x20carbono':[_0x104930(0x30a)],'papel\x20laminado':[_0x104930(0x3f3)],'pen\x20drive':[_0x104930(0x312)],'pato\x20de\x20borracha':[_0x104930(0x341)],'perna\x20de\x20pau':[_0x104930(0x2b1)],'pêndulo':[_0x104930(0x3a1)],'pedra-pomes':['mp4/pedra-pomes.mp4'],'para-raios':['mp4/para-raios.mp4'],'perfurador\x20de\x20papel':['mp4/perfurador\x20de\x20papel.mp4'],'pedal':[_0x104930(0x387)],'pé\x20de\x20cabra':[_0x104930(0x367)],'parca':['mp4/parca.mp4'],'peruca':['mp4/peruca.mp4'],'pantufa':[_0x104930(0x3d6)],'papel\x20toalha':[_0x104930(0x2ac)],'pilão':['mp4/pilão.mp4'],'periscópio':[_0x104930(0x2fa)],'patins':[_0x104930(0x21d)],'papel\x20higiênico':[_0x104930(0x231)],'pente':[_0x104930(0x3a3)],'pé\x20de\x20pato':[_0x104930(0x2b6)],'penhoar':[_0x104930(0x15e)],'pergaminho':[_0x104930(0x12e)],'smoking':['mp4/smoking.mp4'],'fuzil':[_0x104930(0x2f2)],'lista\x20telefônica':[_0x104930(0x38e)],'calibrador':[_0x104930(0xfd)],'incensário':[_0x104930(0x23d)],'peneira':[_0x104930(0x2e7)],'multiprocessador':[_0x104930(0x2b3)],'palheta':[_0x104930(0x319)],'garrafa\x20pet':[_0x104930(0x386)],'cartão\x20de\x20memória':[_0x104930(0xe6)]};let words=Object[_0x104930(0x3e3)](mp4);function shuffle(_0x3c6f67){const _0x144b88=_0x104930;for(let _0x325740=_0x3c6f67[_0x144b88(0x32e)]-0x1;_0x325740>0x0;_0x325740--){const _0x740e70=Math[_0x144b88(0x18a)](Math['random']()*(_0x325740+0x1));[_0x3c6f67[_0x325740],_0x3c6f67[_0x740e70]]=[_0x3c6f67[_0x740e70],_0x3c6f67[_0x325740]];}}shuffle(words);let currentIndex=0x0,score=0x0,soundEnabled=!![];const mp4Container=document[_0x104930(0x3ee)]('mp4-container'),mp4Element=document[_0x104930(0x3ee)]('mp4'),placeholder=document['getElementById'](_0x104930(0x207)),userInput=document['getElementById'](_0x104930(0x3b1)),correctSound=document[_0x104930(0x3ee)](_0x104930(0x13d)),scoreElement=document[_0x104930(0x3ee)](_0x104930(0x174)),searchButton=document[_0x104930(0x3ee)](_0x104930(0x278)),searchModal=document['getElementById'](_0x104930(0x119)),searchInput=document[_0x104930(0x3ee)](_0x104930(0x210)),searchSubmit=document[_0x104930(0x3ee)](_0x104930(0x10a)),searchResult=document['getElementById'](_0x104930(0xdb)),closeSearchModal=document[_0x104930(0x3ee)](_0x104930(0x23c)),soundToggle=document['getElementById'](_0x104930(0x328)),infoButton=document[_0x104930(0x3ee)](_0x104930(0x135)),infoModal=document[_0x104930(0x3ee)](_0x104930(0x1e5)),closeInfoModal=document[_0x104930(0x3ee)]('close-info-modal');let inactivityTimeout;function loadNextMp4(){const _0x214525=_0x104930;if(currentIndex<words[_0x214525(0x32e)]){const _0x3cfa37=words[currentIndex],_0x5c2289=mp4[_0x3cfa37],_0x3ced51=_0x5c2289[Math[_0x214525(0x18a)](Math[_0x214525(0x3da)]()*_0x5c2289[_0x214525(0x32e)])];mp4Element[_0x214525(0x105)]=_0x3ced51,mp4Element[_0x214525(0x182)]['display']=_0x214525(0x186),placeholder['style'][_0x214525(0x39d)]='none',userInput[_0x214525(0x122)]='',userInput['focus'](),console[_0x214525(0x294)](_0x214525(0x2d7)+_0x3cfa37),clearTimeout(inactivityTimeout),document[_0x214525(0x3ee)](_0x214525(0x31c))['style'][_0x214525(0x39d)]=_0x214525(0x13a),inactivityTimeout=setTimeout(()=>{const _0x1652d2=_0x214525;document['getElementById'](_0x1652d2(0x31c))[_0x1652d2(0x3f4)]=_0x3cfa37,document[_0x1652d2(0x3ee)](_0x1652d2(0x31c))[_0x1652d2(0x182)][_0x1652d2(0x39d)]='inline-block';},0x2710),mp4Element[_0x214525(0x30f)]()['catch'](_0x27c494=>{const _0x20e7ed=_0x214525;console['log'](_0x20e7ed(0xdd),_0x27c494);});}else shuffle(words),currentIndex=0x0,loadNextMp4();}userInput['addEventListener'](_0x104930(0x2c8),_0x568718=>{const _0x5902d1=_0x104930;if(_0x568718[_0x5902d1(0x130)]==='Enter'){const _0x824153=userInput['value']['trim']()['toLowerCase']();_0x824153===words[currentIndex]?(currentIndex++,score++,scoreElement[_0x5902d1(0x3f4)]=score,soundEnabled&&correctSound[_0x5902d1(0x30f)](),loadNextMp4(),mp4Container[_0x5902d1(0x182)][_0x5902d1(0x27e)]=_0x5902d1(0x382),setTimeout(()=>{const _0x5910be=_0x5902d1;mp4Container['style'][_0x5910be(0x27e)]='0\x200\x2060px\x2020px\x20rgba(255,\x20255,\x20255,\x200.8)';},0x3e8)):userInput[_0x5902d1(0x122)]='';}});function _0x319f(_0xadc0f5,_0x118311){const _0x57a25a=_0x57a2();return _0x319f=function(_0x319f64,_0x1f7dfb){_0x319f64=_0x319f64-0xd8;let _0x4d8eaa=_0x57a25a[_0x319f64];return _0x4d8eaa;},_0x319f(_0xadc0f5,_0x118311);}function attemptAutoPlay(){const _0x10492a=_0x104930,_0x262e82=mp4Element['play']();_0x262e82!==undefined&&_0x262e82[_0x10492a(0x155)](()=>{const _0x5ccd20=_0x10492a;console[_0x5ccd20(0x294)](_0x5ccd20(0x338));})[_0x10492a(0x12f)](_0x34003b=>{const _0x23e843=_0x10492a;console[_0x23e843(0x294)]('Reprodução\x20automática\x20falhou:',_0x34003b);});}function _0x57a2(){const _0x29569f=['mp4/cocar.mp4','1970756Nczcul','mp4/gaveta.mp4','que\x20tal\x20ser\x20menos\x20arrogante?','mp4/óculos\x20de\x20sol.mp4','já\x20ouviu\x20falar\x20em\x20efeito\x20placebo?','mp4/estátua.mp4','mp4/lança.mp4','mp4/jeans.mp4','mp4/porta-lápis.mp4','mp4/biquíni.mp4','mp4/cartão\x20de\x20crédito.mp4','o\x20mal\x20tem\x20uma\x20falsa\x20vitória\x20sobre\x20o\x20bem','mp4/bola.mp4','mp4/boné.mp4','mp4/pé\x20de\x20cabra.mp4','mp4/caneca.mp4','mp4/cadeira\x20elétrica.mp4','mp4/camisa\x20de\x20força.mp4','mp4/cisterna2.mp4','mp4/filtro\x20de\x20papel2.mp4','nem\x20todos\x20merecem\x20sua\x20atençâo','mp4/mala.mp4','mp4/cadeira\x20de\x20balanço.mp4','evite\x20assuntos\x20demasiadamente\x20superficiais','mp4/bolsa\x20térmica.mp4','flex','mp4/bilhete.mp4','mp4/tuba.mp4','você\x20está\x20ficando\x20para\x20trás,\x20que\x20tal\x20digitar\x20mais\x20rápido?','mp4/galocha.mp4','mp4/presente.mp4','mp4/cuia.mp4','mp4/envelope.mp4','mp4/lupa.mp4','mp4/lixa\x20de\x20unha.mp4','mp4/carteira.mp4','mp4/toalha.mp4','mp4/raquete\x20elétrica2.mp4','mp4/violino2.mp4','mp4/mesa.mp4','mp4/balsa.mp4','0\x200\x2060px\x2020px\x20rgba(255,\x20255,\x20255,\x201)','mp4/âncora.mp4','mp4/monitor.mp4','mp4/prego.mp4','mp4/garrafa\x20pet.mp4','mp4/pedal.mp4','mp4/balança.mp4','mp4/alfinete2.mp4','mp4/contrabaixo.mp4','mp4/farinheiro.mp4','mp4/gravata.mp4','mp4/filmadora.mp4','mp4/lista\x20telefônica.mp4','mp4/broca.mp4','mp4/jaleco.mp4','mp4/piercing.mp4','digitar\x20devagar\x20é\x20essencial\x20às\x20vezes','mp4/ventilador.mp4','uma\x20longa\x20viagem\x20começa\x20por\x20um\x20passo','mp4/filtro\x20de\x20linha.mp4','mp4/escrivaninha2.mp4','mp4/anzol.mp4','404020IZASPp','mp4/cassetete.mp4','mp4/talher.mp4','mp4/geladeira.mp4','body','display','mp4/pingente2.mp4','mp4/rádio.mp4','seja\x20mais\x20rápido\x20ou\x20desista','mp4/pêndulo.mp4','mp4/rodapé.mp4','mp4/pente.mp4','a\x20vida\x20é\x20simples,\x20nós\x20é\x20que\x20complicamos.\x20-\x20Confúcio','mp4/chaveiro.mp4','mp4/raquete\x20elétrica.mp4','innerWidth','reconheça\x20o\x20esforço\x20dos\x20outros','mp4/lençol2.mp4','left','seu\x20feedback\x20é\x20importante','mp4/colher\x20de\x20pau.mp4','mp4/suéter.mp4','mp4/televisão.mp4','mp4/luva.mp4','focus','user-input','mp4/zabumba.mp4','mp4/caderno.mp4','mp4/pilha.mp4','1111452PbxjyS','mp4/abridor\x20de\x20garrafa.mp4','mp4/mouse.mp4','mp4/balaio.mp4','mp4/depilador\x20elétrico3.mp4','mp4/hidrante.mp4','mp4/raquete.mp4','mp4/roteador.mp4','mp4/manequim.mp4','createElement','mp4/lápis\x20de\x20cor.mp4','mp4/tanga.mp4','mp4/camisa\x20regata.mp4','mp4/caixa\x20de\x20correio.mp4','mp4/esmalte.mp4','mp4/fichário.mp4','mp4/açucareiro.mp4','mp4/violino.mp4','mp4/estetoscópio2.mp4','0\x200\x2060px\x2020px\x20rgba(255,\x20255,\x20255,\x200.8)','mp4/arca.mp4','mp4/novelo\x20de\x20lã.mp4','mp4/espelho.mp4','mp4/forno\x20elétrico.mp4','mp4/guarda-roupa.mp4','mp4/caneleira.mp4','mp4/mordaça.mp4','mp4/fogão.mp4','mp4/beca.mp4','mp4/vaso\x20sanitário2.mp4','ajude\x20enviando\x20vídeos\x20com\x20variações\x20para\x20objetos!','mp4/cotoveleira.mp4','convide\x20pessoas\x20para\x20aprender','mp4/pantufa.mp4','mp4/laço.mp4','innerHeight','mp4/cachecol.mp4','random','mp4/cinto\x20de\x20segurança.mp4','mp4/maiô2.mp4','mp4/rasteirinha.mp4','mp4/pérola2.mp4','mp4/barbante.mp4','mp4/coroa.mp4','mp4/relicário.mp4','tenha\x20paciência\x20com\x20as\x20pessoas','keys','mp4/banco.mp4','mp4/abotoadura.mp4','mp4/uniforme.mp4','mp4/seringa.mp4','mp4/tinta\x20de\x20cabelo.mp4','mp4/pluma.mp4','mp4/andador.mp4','mp4/caixa\x20de\x20isopor.mp4','mp4/lantejoula.mp4','mp4/charuto.mp4','getElementById','mp4/xícara.mp4','opacity','mp4/gaiola.mp4','mp4/pijama.mp4','mp4/papel\x20laminado.mp4','textContent','mp4/bola\x20de\x20gude.mp4','mp4/carta.mp4','mp4/biqueira.mp4','mp4/saboneteira.mp4','mp4/trompete.mp4','mp4/tobogã.mp4','mp4/banheira.mp4','feito\x20por\x20daniewz\x20e\x20denni_0014','mp4/escorregador.mp4','Objeto\x20ainda\x20não\x20disponível','syuz\x20fã\x20de\x20daniewz','convide\x20pessoas\x20para\x20praticar','mp4/polaina.mp4','mp4/basculante.mp4','você\x20já\x20errou\x20na\x20vida?\x20Acha\x20que\x20merece\x202º\x20chance?','mp4/candeeiro.mp4','mp4/rede\x20de\x20pesca.mp4','mp4/caixa\x20de\x20ferramentas.mp4','search-result','mp4/pódio.mp4','Reprodução\x20automática\x20falhou:','mp4/barril2.mp4','mp4/xilofone.mp4','mp4/vídeo\x20cassete.mp4','min','mp4/rede2.mp4','mp4/fio2.mp4','mp4/aneleira.mp4','mp4/espátula2.mp4','mp4/cartão\x20de\x20memória.mp4','mp4/ferro\x20de\x20passar\x20roupa.mp4','mp4/guidão.mp4','mp4/protetor\x20auricular.mp4','mp4/ampulheta.mp4','mp4/balde.mp4','mp4/aldrava.mp4','absolute','mp4/cartão\x20postal2.mp4','mp4/monóculo.mp4','mp4/rede\x20de\x20descanso.mp4','seu\x20desempenho\x20é\x20fraco','mp4/tijolo2.mp4','sem\x20música,\x20a\x20vida\x20seria\x20um\x20erro','mp4/carretel.mp4','mp4/puxador.mp4','mp4/batuta.mp4','mp4/apagador.mp4','mp4/pá\x20de\x20lixo2.mp4','mp4/frasco.mp4','Você\x20está\x20tentando,\x20mas\x20parece\x20inútil','mp4/capacho.mp4','mp4/cruz.mp4','mp4/calibrador.mp4','mp4/cômoda.mp4','mp4/relógio.mp4','mp4/diário.mp4','mp4/balaclava.mp4','mp4/bomba2.mp4','mp4/sutiã.mp4','mp4/cutelo2.mp4','src','mp4/tiara.mp4','até\x20mesmo\x20o\x20hardware\x20importa','mp4/betoneira.mp4','mp4/quebra-cabeça2.mp4','search-submit','mp4/travesseiro.mp4','mp4/beliche.mp4','mp4/cafeteira.mp4','mp4/botão.mp4','mp4/talco.mp4','mp4/flauta.mp4','mp4/guarda-sol.mp4','mp4/ponteiro.mp4','mp4/estilete.mp4','mp4/arpão.mp4','mp4/escapamento.mp4','mp4/poltrona2.mp4','mp4/casaco.mp4','mp4/penteadeira.mp4','search-modal','mp4/camiseta.mp4','mp4/manete.mp4','mp4/rastelo.mp4','até\x20mesmo\x20a\x20cor\x20dos\x20desenhos\x20é\x20importante!','mp4/enxada3.mp4','mp4/camisola.mp4','mp4/carrinho\x20de\x20bebê.mp4','mp4/maca.mp4','value','percepção\x20é\x20necessário','mp4/mosquiteiro.mp4','mp4/barbeador.mp4','canplaythrough','5sRpzkn','mp4/rolo\x20de\x20massa.mp4','mp4/toalha\x20de\x20mesa.mp4','mp4/figurinha2.mp4','mp4/caixa\x20de\x20correio2.mp4','mp4/figurinha.mp4','mp4/caneta\x20hidrocor.mp4','mp4/pergaminho.mp4','catch','key','mp4/colher.mp4','mp4/radar.mp4','mp4/capa.mp4','tente\x20não\x20errar','info-button','mp4/dinamite.mp4','mp4/moeda.mp4','mp4/poster.mp4','mp4/mesa\x20de\x20sinuca.mp4','none','mp4/touca.mp4','mp4/chapéu\x20de\x20aniversário.mp4','correct-sound','mp4/microfone.mp4','mp4/chapinha\x20de\x20cabelo.mp4','mp4/pregador.mp4','mp4/delineador.mp4','mp4/piano.mp4','click','mp4/corretivo.mp4','é\x20normal\x20bugar\x20em\x20alguns\x20desenhos','mp4/prendedor\x20de\x20cabelo.mp4','mp4/lixeira.mp4','mp4/aro2.mp4','mp4/cajado.mp4','mp4/escova.mp4','mp4/rímel.mp4','mp4/maracá.mp4','mp4/quebra-cabeça.mp4','mp4/garrafa\x20térmica.mp4','mp4/chinelo.mp4','mp4/bata.mp4','mp4/chave\x20canhão.mp4','mp4/revólver.mp4','mp4/tela.mp4','mp4/funil.mp4','then','mp4/calcinha2.mp4','mp4/colchão2.mp4','mp4/tigela.mp4','mp4/diamante.mp4','estar\x20ciente\x20das\x20suas\x20limitações\x20já\x20é\x20estar\x20além\x20delas\x20-\x20hegel','mp4/bíblia.mp4','não\x20é\x20sobre\x20velocidade,\x20às\x20vezes','mp4/vidro.mp4','mp4/penhoar.mp4','mp4/relógio\x20de\x20sol.mp4','mp4/cobertor.mp4','mp4/periscópio2.mp4','mp4/trave.mp4','mp4/capa2.mp4','O\x20jogo\x20está\x20disponível\x20como\x20app\x20para\x20Windows,\x20Android\x20e\x20versão\x20web!','mp4/vaso\x20sanitário.mp4','mp4/máquina\x20de\x20lavar\x20louça.mp4','mp4/terno.mp4','mp4/caixa\x20de\x20som.mp4','mp4/balde2.mp4','mp4/faixa.mp4','mp4/tatame2.mp4','mp4/lençol.mp4','cada\x20erro\x20é\x20uma\x20lição.','mp4/fita.mp4','mp4/cofre.mp4','mp4/mamadeira.mp4','mp4/apontador\x20de\x20lápis.mp4','mp4/camisa.mp4','mp4/corrente.mp4','score','mp4/vassoura2.mp4','mp4/ferradura.mp4','mp4/espiral.mp4','mp4/coador.mp4','mp4/crachá.mp4','max','mp4/escopeta.mp4','mp4/álbum.mp4','atualizações\x20serão\x20fornecidas\x20através\x20deste\x20site','mp4/broche.mp4','mp4/trono.mp4','mp4/elástico.mp4','mp4/luva\x20de\x20boxe.mp4','style','mp4/calcinha.mp4','mp4/quebra-nozes.mp4','mp4/corsário.mp4','block','mp4/brinco.mp4','mp4/papel.mp4','remove','floor','mp4/estojo.mp4','mp4/short.mp4','mp4/abridor\x20de\x20latas.mp4','aprenda\x20sobre\x20memória\x20muscular','a\x20humildade\x20precede\x20a\x20honra','as\x20estrelas\x20apareceram\x20na\x20minha\x20frente\x20quando\x20eu\x20recebi\x20seu\x20abraço!','mp4/fio\x20dental.mp4','mp4/samba\x20canção.mp4','mp4/zarabatana.mp4','mp4/candelabro.mp4','mp4/remo.mp4','mp4/bracelete.mp4','mp4/patinete.mp4','mp4/boá.mp4','mp4/bicama.mp4','mp4/chave\x20de\x20fenda.mp4','mp4/prato.mp4','2309838nWikmC','mp4/prendedor\x20de\x20cabelo2.mp4','mp4/sabre.mp4','mp4/torradeira.mp4','mp4/aspersório.mp4','mp4/rabeca.mp4','mp4/clipe.mp4','mp4/carrinho\x20de\x20rolimã.mp4','mp4/martelo.mp4','mp4/controle\x20remoto.mp4','mp4/cutelo3.mp4','mp4/urna.mp4','mp4/churrasqueira.mp4','mp4/alarme.mp4','mp4/panfleto.mp4','mp4/mangueira.mp4','mp4/cristal.mp4','mp4/buzina.mp4','mp4/retroprojetor.mp4','digite\x20o\x20mais\x20rapido\x20possível!','9891896NkZxLA','mp4/afiador\x20de\x20facas.mp4','mp4/gramofone.mp4','mp4/prancha2.mp4','mp4/dedal.mp4','algumas\x20frases\x20são\x20para\x20a\x20vida','mp4/sapato.mp4','mp4/cortador\x20de\x20grama.mp4','mp4/vassoura.mp4','mp4/caneta.mp4','mp4/fruteira.mp4','mp4/coleira.mp4','mp4/navalha.mp4','tenha\x20empatia','mp4/tijolo.mp4','mp4/calçadeira.mp4','mp4/volante.mp4','mp4/cabo.mp4','mp4/jangada.mp4','mp4/termômetro.mp4','mp4/banqueta.mp4','mp4/colchão\x20inflável.mp4','se\x20atente\x20aos\x20detalhes\x20únicos\x20de\x20cada\x20desenho','mp4/bambolê.mp4','mp4/cerca\x20elétrica.mp4','mp4/viola.mp4','mp4/agulheiro.mp4','mp4/liquidificador.mp4','mp4/isqueiro.mp4','mp4/suspensório.mp4','mp4/camisa\x20regata2.mp4','as\x20pessoas\x20realmente\x20leem\x20isso?','mp4/prancha.mp4','mp4/furadeira.mp4','mp4/carrinho.mp4','mp4/vídeo\x20game.mp4','mp4/cesta.mp4','mp4/fantoche2.mp4','mp4/dvd.mp4','o\x20melhor\x20modo\x20de\x20prever\x20o\x20futuro\x20é\x20criá-lo\x20-\x20Peter\x20Drucker','mp4/unha\x20postiça.mp4','mp4/estante3.mp4','certas\x20coisas\x20são\x20inevitáveis','mp4/retrovisor.mp4','mp4/cetro2.mp4','mp4/chave\x20de\x20grifo.mp4','mp4/almofada.mp4','mp4/mala2.mp4','mp4/faqueiro.mp4','mp4/chuveiro3.mp4','mp4/retrovisor2.mp4','que\x20tal\x20errar\x20menos?','mp4/lustre.mp4','info-modal','mp4/sandália.mp4','não\x20perca\x20seu\x20tempo\x20com\x20assuntos\x20frivolos','erros\x20demais,\x20foco!','mp4/zíper.mp4','mp4/ofurô.mp4','div','trim','mp4/canga.mp4','mp4/capacete.mp4','mp4/filtro\x20de\x20água.mp4','mp4/ralo\x20de\x20pia.mp4','mp4/fita\x20cassete.mp4','mp4/esponja.mp4','mp4/aquário.mp4','mp4/conta-gotas.mp4','mp4/barbeador2.mp4','mp4/bateria.mp4','compartilhe\x20nosso\x20servidor','mp4/sapateira.mp4','mp4/cd.mp4','mp4/filmadora2.mp4','mp4/tanga2.mp4','mp4/tigela2.mp4','mp4/frigobar.mp4','mp4/corda2.mp4','mp4/tamborim2.mp4','mp4/cavaquinho.mp4','ouça\x20músicas\x20enquanto\x20joga!','mp4/estabilizador.mp4','mp4/bacia.mp4','mp4/vela.mp4','mp4/boneca.mp4','mp4/chave\x20de\x20roda.mp4','placeholder','mp4/trampolim.mp4','mp4/brinquedo.mp4','mp4/bandana.mp4','mp4/celular.mp4','mp4/jardineira.mp4','mp4/peteca.mp4','mp4/batina.mp4','mp4/dado.mp4','search-input','mp4/bomba\x20de\x20ar.mp4','a\x20verdadeira\x20vitória\x20vem\x20com\x20o\x20desafio!','mp4/porta-retrato.mp4','mp4/macacão.mp4','mp4/flecha.mp4','mp4/rádio\x20gravador.mp4','mp4/máscara\x20de\x20mergulho.mp4','mp4/espremedor\x20de\x20alho.mp4','mp4/agulha\x20de\x20crochê.mp4','mp4/rádio\x20amador.mp4','mp4/canudo.mp4','mp4/bicicleta\x20ergométrica.mp4','mp4/patins.mp4','mp4/batom.mp4','mp4/bigorna.mp4','mp4/esquadro.mp4','você\x20também\x20já\x20foi\x20noob','mp4/aerofólio.mp4','mp4/sapato2.mp4','mp4/armadura.mp4','mp4/camafeu.mp4','508736GFdabO','mp4/crucifixo.mp4','mp4/serra\x20elétrica.mp4','mp4/apito.mp4','mp4/mesa\x20de\x20ping-pong.mp4','mp4/guitarra.mp4','mp4/pano\x20de\x20chão.mp4','mp4/espanador.mp4','mp4/fantasia.mp4','mp4/cavalo\x20de\x20pau.mp4','mp4/carta2.mp4','mp4/papel\x20higiênico.mp4','mp4/concha.mp4','mp4/estetoscópio.mp4','mp4/bandolim.mp4','mp4/rolha.mp4','esse\x20é\x20seu\x20máximo?','mp4/cinto.mp4','mp4/garfo.mp4','mp4/guarda-chuva.mp4','mp4/amortecedor.mp4','mp4/forma.mp4','close-search-modal','mp4/incensário.mp4','mp4/tridente.mp4','mp4/lona.mp4','mp4/régua.mp4','mp4/escorredor\x20de\x20pratos.mp4','mp4/pipeta.mp4','mp4/escumadeira.mp4','mp4/pipoqueira2.mp4','1658181Kvoohd','mp4/gaita.mp4','mp4/estatueta\x20do\x20oscar2.mp4','mp4/ferrolho.mp4','mp4/chuteira.mp4','mp4/colchonete.mp4','mp4/gibi.mp4','mp4/hélice.mp4','mp4/baú.mp4','mp4/colete.mp4','mp4/filtro\x20de\x20papel.mp4','mp4/tablet.mp4','mp4/cruzeta.mp4','mp4/carrinho\x20de\x20feira.mp4','Você\x20está\x20evoluindo','mp4/sanfona.mp4','mp4/pingente.mp4','não\x20consegue\x20fazer\x20melhor?','mp4/chaleira.mp4','offsetHeight','mp4/minissaia.mp4','mp4/tecido.mp4','mp4/ombreira.mp4','mp4/bagageiro.mp4','mp4/tábua.mp4','background-word','mp4/bazuca2.mp4','mp4/mochila.mp4','mp4/vaso.mp4','mp4/cruzeta2.mp4','mp4/mastro.mp4','valorize\x20o\x20trabalho\x20das\x20pessoas','toLowerCase','mp4/ratoeira.mp4','mp4/triângulo.mp4','mp4/gabinete.mp4','mp4/computador.mp4','mp4/ceroula.mp4','Enter','Você\x20está\x20longe\x20de\x20dominar.','mp4/aro.mp4','mp4/pacote.mp4','mp4/giz.mp4','mp4/alicate\x20de\x20unha.mp4','mp4/berimbau.mp4','mp4/protetor\x20bucal.mp4','mp4/colar.mp4','mp4/quadro.mp4','mp4/caixa\x20registradora.mp4','mp4/parabrisa.mp4','mp4/batedeira.mp4','search-button','mp4/iate.mp4','mp4/saca-rolhas.mp4','mp4/estante.mp4','mp4/despertador.mp4','mp4/pipoqueira.mp4','boxShadow','mp4/alargador.mp4','mp4/fogão2.mp4','mp4/antolho.mp4','mp4/scanner.mp4','mp4/corpete.mp4','mp4/andaime.mp4','mp4/pipa2.mp4','mp4/pá\x20de\x20lixo.mp4','mp4/marreta.mp4','mp4/cantil.mp4','mp4/cola.mp4','mp4/reco-reco.mp4','mp4/assadeira.mp4','mp4/aquecedor.mp4','mp4/cartão\x20postal.mp4','mp4/jaqueta.mp4','mp4/farda.mp4','mp4/giz\x20de\x20cera.mp4','mp4/tatame.mp4','seja\x20esperto','mp4/caderneta.mp4','log','mp4/prateleira.mp4','mp4/bicho\x20de\x20pelúcia.mp4','mp4/armário.mp4','mp4/estojo\x20de\x20maquiagem.mp4','mp4/cílios\x20postiços.mp4','mp4/desentupidor2.mp4','mp4/autorama.mp4','mp4/taco.mp4','mp4/taça.mp4','mp4/turbante.mp4','mp4/lata.mp4','mp4/chimbal.mp4','mp4/cartola.mp4','mp4/salto\x20alto.mp4','esse\x20app\x20não\x20coleta\x20nenhum\x20dado\x20seu','mp4/pneu.mp4','mp4/fronha.mp4','mp4/unha\x20postiça2.mp4','mp4/cartucho\x20de\x20tinta.mp4','mp4/desentupidor.mp4','mais\x20foco,\x20menos\x20erro!','mp4/boia.mp4','pratique\x20sua\x20digitação!','mp4/papel\x20toalha.mp4','mp4/bidê2.mp4','mp4/estátua2.mp4','quanto\x20mais\x20variações\x20de\x20desenho\x20melhor!','mp4/tênis.mp4','mp4/perna\x20de\x20pau.mp4','mp4/jornal.mp4','mp4/multiprocessador.mp4','mp4/desodorante.mp4','mp4/coldre.mp4','mp4/pé\x20de\x20pato.mp4','mp4/queijeira.mp4','addEventListener','garota,\x20você\x20é\x20interestelar!\x20Nem\x20a\x20estrela\x20mais\x20linda\x20tem\x20a\x20luz\x20que\x20cê\x20tem!','mp4/abridor\x20de\x20latas2.mp4','fade-in','mp4/paraquedas.mp4','mp4/retrato.mp4','mp4/boia2.mp4','mp4/corda.mp4','mp4/transferidor.mp4','mp4/pote.mp4','mp4/escada.mp4','mp4/bilboquê.mp4','mp4/chupeta.mp4','mp4/tambor.mp4','mp4/estatueta\x20do\x20oscar.mp4','já\x20ouviu\x20falar\x20sobre\x20neurociência?','keypress','mp4/brilho\x20labial.mp4','mp4/pistola.mp4','mp4/chave\x20de\x20boca.mp4','mp4/pincel.mp4','mp4/bota.mp4','você\x20pode\x20jogar\x20no\x20mobile\x20também','mp4/caldeirão.mp4','mp4/batente.mp4','innerHTML','mp4/cabide.mp4','aprenda\x20usar\x20o\x20seu\x20cérebro','mp4/pires.mp4','mp4/bafômetro.mp4','mp4/edredom.mp4','Palavra\x20correta\x20para\x20o\x20vídeo\x20atual:\x20','mp4/gesso.mp4','mp4/fax.mp4','mp4/berrante.mp4','mp4/pérola.mp4','mp4/sanduicheira2.mp4','mp4/serrote2.mp4','mp4/lanterna.mp4','mp4/vestido.mp4','mp4/leiteira.mp4','mp4/avental2.mp4','mp4/colchão.mp4','mp4/toldo.mp4','mp4/saia.mp4','mp4/pilão.mp4','mp4/cueca.mp4','mp4/peneira.mp4','mp4/megafone.mp4','mp4/asa\x20delta.mp4','mp4/livro.mp4','mp4/cano.mp4','mp4/astrolábio.mp4','mp4/farda2.mp4','mp4/armadilha.mp4','mp4/porta\x20cd.mp4','mp4/sombrinha.mp4','mp4/aljava.mp4','mp4/fuzil.mp4','mp4/bazuca.mp4','mp4/curvador\x20de\x20cílios.mp4','mp4/escrivaninha.mp4','mp4/escudo.mp4','mp4/colcha.mp4','mp4/manta.mp4','mp4/aspirador\x20de\x20pó2.mp4','mp4/periscópio.mp4','mp4/serra2.mp4','mp4/espingarda.mp4','mp4/coifa.mp4','mp4/marionete.mp4','mp4/carrinho\x20de\x20mão.mp4','mp4/pinça.mp4','seja\x20gentil\x20consigo\x20mesmo\x20(a)','appendChild','mp4/fita\x20isolante.mp4','mp4/foice.mp4','mp4/mouse\x20pad.mp4','mp4/alto\x20falante.mp4','mp4/divã.mp4','mp4/grampo\x20de\x20cabelo.mp4','mp4/para-raios.mp4','mp4/papel\x20carbono.mp4','mp4/aspirador\x20de\x20pó.mp4','mp4/caixote.mp4','mp4/colírio.mp4','mp4/tanque.mp4','play','se\x20coloque\x20no\x20lugar\x20dos\x20outros','mp4/pisca-pisca.mp4','mp4/pen\x20drive.mp4','pausas\x20são\x20necessárias!','mp4/spray.mp4','mp4/telha.mp4','mp4/chicote.mp4','entre\x20no\x20servidor\x20do\x20discord','se\x20valorize\x20como\x20pessoa','mp4/palheta.mp4','mp4/aparelho\x20ortodôntico.mp4','mp4/depilador\x20elétrico2.mp4','answerReveal','mp4/adaptador.mp4','mp4/cone.mp4','mp4/guardanapo.mp4','mp4/saco\x20de\x20plástico.mp4','mp4/bongô.mp4','mp4/bengala.mp4','mp4/espátula.mp4','mp4/fita\x20crepe.mp4','mp4/tamanco2.mp4','mp4/gangorra.mp4','mp4/cadeira\x20de\x20praia.mp4','sound-toggle','mp4/violão.mp4','mp4/fivela.mp4','mp4/cruz2.mp4','mp4/caixa.mp4','mp4/casula.mp4','length','mp4/escavadeira.mp4','mp4/cadeira.mp4','Gartic\x20é\x20apenas\x20um\x20jogo,\x20não\x20dê\x20sua\x20vida\x20nisso','mp4/anzol2.mp4','mp4/pino.mp4','mp4/nariz\x20de\x20palhaço.mp4','mp4/biombo.mp4','mp4/míssil.mp4','mp4/guardanapo2.mp4','Reprodução\x20automática\x20bem-sucedida','mp4/botina.mp4','mp4/bronzeador.mp4','mp4/comedouro.mp4','mp4/bomba\x20de\x20ar3.mp4','mp4/alfinete.mp4','mp4/arame\x20farpado.mp4','mp4/enxada.mp4','mp4/toga.mp4','mp4/pato\x20de\x20borracha.mp4','mp4/espada.mp4','mp4/berço.mp4','mp4/carimbo.mp4','mp4/rack.mp4','você\x20é\x20realmente\x20lento','mp4/cadarço.mp4','mp4/liquidificador2.mp4','mp4/azulejo.mp4','mp4/cadeira\x20de\x20rodas.mp4','consuma\x20bons\x20conteúdos\x20na\x20internet','mp4/revista.mp4','mp4/dominó.mp4','mp4/chave\x20inglesa.mp4','mp4/exaustor.mp4','mp4/claquete.mp4','mp4/cisterna.mp4','mp4/telescópio.mp4','mp4/agulha.mp4','mp4/cachimbo.mp4','mp4/véu.mp4','mp4/árvore\x20de\x20natal.mp4','mp4/escorredor\x20de\x20macarrão.mp4'];_0x57a2=function(){return _0x29569f;};return _0x57a2();}mp4Element['addEventListener'](_0x104930(0x126),attemptAutoPlay),loadNextMp4(),searchButton[_0x104930(0x2b8)](_0x104930(0x143),()=>{const _0x4db0db=_0x104930;searchModal[_0x4db0db(0x182)]['display']=_0x4db0db(0x372),searchInput[_0x4db0db(0x122)]='',searchResult[_0x4db0db(0x3f4)]='',searchInput[_0x4db0db(0x3b0)]();}),closeSearchModal[_0x104930(0x2b8)]('click',()=>{const _0x57262b=_0x104930;searchModal[_0x57262b(0x182)][_0x57262b(0x39d)]='none';}),searchSubmit[_0x104930(0x2b8)](_0x104930(0x143),()=>{const _0x5314ad=_0x104930,_0x529bfe=searchInput['value'][_0x5314ad(0x1ec)]()[_0x5314ad(0x265)]();if(mp4[_0x529bfe]){const _0x5b30f7=mp4[_0x529bfe],_0x3a7e24=_0x5b30f7[Math[_0x5314ad(0x18a)](Math[_0x5314ad(0x3da)]()*_0x5b30f7[_0x5314ad(0x32e)])];searchResult[_0x5314ad(0x2d1)]='<video\x20src=\x22'+_0x3a7e24+'\x22\x20controls\x20width=\x22100%\x22></video>',mp4Container['style']['boxShadow']='0\x200\x2060px\x2020px\x20rgba(255,\x20255,\x20255,\x201)',setTimeout(()=>{const _0x49b6ca=_0x5314ad;mp4Container[_0x49b6ca(0x182)][_0x49b6ca(0x27e)]=_0x49b6ca(0x3c8);},0x3e8);}else searchResult['textContent']=_0x5314ad(0x3fe);}),searchInput['addEventListener'](_0x104930(0x2c8),_0x3a8af6=>{const _0x270f2a=_0x104930;_0x3a8af6[_0x270f2a(0x130)]===_0x270f2a(0x26b)&&searchSubmit[_0x270f2a(0x143)]();}),soundToggle[_0x104930(0x2b8)]('click',()=>{const _0x19fd94=_0x104930;soundEnabled=!soundEnabled,soundToggle[_0x19fd94(0x3f4)]=soundEnabled?'🔊':'🔇';}),infoButton[_0x104930(0x2b8)](_0x104930(0x143),()=>{const _0x38c184=_0x104930;infoModal[_0x38c184(0x182)]['display']=_0x38c184(0x372);}),closeInfoModal[_0x104930(0x2b8)](_0x104930(0x143),()=>{const _0x26f5b4=_0x104930;infoModal[_0x26f5b4(0x182)][_0x26f5b4(0x39d)]=_0x26f5b4(0x13a);});const backgroundWords=['continue\x20tentando!',_0x104930(0x16d),'a\x20prática\x20leva\x20à\x20perfeição.','o\x20primeiro\x20traço\x20é\x20importante','observe\x20o\x20primeiro\x20traço!',_0x104930(0x201),_0x104930(0x11d),_0x104930(0x1c6),_0x104930(0x331),_0x104930(0x392),_0x104930(0x3ab),_0x104930(0x1cf),'você\x20pode\x20fazer\x20melhor',_0x104930(0x212),_0x104930(0x375),_0x104930(0x253),_0x104930(0x1e3),_0x104930(0x3ff),_0x104930(0xf1),'você\x20continua\x20falhando','quanto\x20mais\x20prática,\x20melhor!',_0x104930(0xfa),_0x104930(0x26c),_0x104930(0x313),_0x104930(0x317),_0x104930(0x123),_0x104930(0x15c),_0x104930(0x107),'jogar\x20com\x20conexões\x20cabeadas\x20será\x20sempre\x20vantajoso',_0x104930(0x364),_0x104930(0x3e2),_0x104930(0x221),_0x104930(0x35b),_0x104930(0x1e7),_0x104930(0x35d),_0x104930(0x1f7),_0x104930(0x3d5),_0x104930(0x400),_0x104930(0x1da),_0x104930(0x310),_0x104930(0x1bd),_0x104930(0x3a8),_0x104930(0x18f),_0x104930(0x292),_0x104930(0x301),_0x104930(0x370),_0x104930(0x36d),_0x104930(0x318),_0x104930(0x1b5),_0x104930(0x18e),_0x104930(0x2d3),_0x104930(0x2c7),_0x104930(0x403),'algumas\x20pessoas\x20merecem\x20a\x202º\x20chance',_0x104930(0x3fc),_0x104930(0x2ce),_0x104930(0x145),_0x104930(0x264),'evite\x20comparações',_0x104930(0x34b),_0x104930(0x2af),_0x104930(0x3d3),_0x104930(0x1af),'pessoas\x20de\x20sucesso\x20definem\x20metas\x20realistas',_0x104930(0x394),_0x104930(0x1d7),_0x104930(0x2ab),_0x104930(0x3a0),_0x104930(0x1e8),_0x104930(0x256),_0x104930(0x134),_0x104930(0x346),_0x104930(0x236),_0x104930(0x2a9),_0x104930(0x2a3),'sites\x20para\x20praticar\x20digitação:\x2010fastfingers,\x20monkeytype',_0x104930(0x3a4),'a\x20coragem\x20é\x20a\x20primeira\x20qualidade\x20humana,\x20pois\x20garante\x20as\x20outras.\x20-\x20Aristóteles',_0x104930(0xf3),_0x104930(0x17d),_0x104930(0x15a),_0x104930(0x2b9),_0x104930(0x190),_0x104930(0x164)];function createWordElement(_0x4f87ad){const _0x2deb03=_0x104930,_0x57ea13=document[_0x2deb03(0x3be)](_0x2deb03(0x1eb));_0x57ea13[_0x2deb03(0x3f4)]=_0x4f87ad,_0x57ea13['className']=_0x2deb03(0x25e),document[_0x2deb03(0x39c)][_0x2deb03(0x302)](_0x57ea13);const _0x369936=_0x57ea13['offsetWidth'],_0x504c01=_0x57ea13[_0x2deb03(0x258)];_0x57ea13[_0x2deb03(0x189)]();const _0x1f83a9=window[_0x2deb03(0x3a7)],_0x2a1cc6=window[_0x2deb03(0x3d8)];let _0x57d745,_0x19acac;const _0x26f0fe=Math[_0x2deb03(0x18a)](Math['random']()*0x8);switch(_0x26f0fe){case 0x0:_0x57d745=Math['min'](0xa,_0x1f83a9-_0x369936),_0x19acac=Math[_0x2deb03(0xe1)](0xa,_0x2a1cc6-_0x504c01);break;case 0x1:_0x57d745=Math[_0x2deb03(0xe1)](0xa,_0x1f83a9-_0x369936),_0x19acac=(_0x2a1cc6-_0x504c01)/0x2;break;case 0x2:_0x57d745=(_0x1f83a9-_0x369936)/0x2,_0x19acac=Math['min'](0xa,_0x2a1cc6-_0x504c01);break;case 0x3:_0x57d745=(_0x1f83a9-_0x369936)/0x2,_0x19acac=(_0x2a1cc6-_0x504c01)/0x2;break;case 0x4:_0x57d745=Math['max'](_0x1f83a9-_0x369936-0xa,0x0),_0x19acac=(_0x2a1cc6-_0x504c01)/0x2;break;case 0x5:_0x57d745=Math['max'](_0x1f83a9-_0x369936-0xa,0x0),_0x19acac=Math[_0x2deb03(0xe1)](0xa,_0x2a1cc6-_0x504c01);break;case 0x6:_0x57d745=Math[_0x2deb03(0x17a)](_0x1f83a9-_0x369936-0xa,0x0),_0x19acac=Math[_0x2deb03(0x17a)](_0x2a1cc6-_0x504c01-0xa,0x0);break;case 0x7:_0x57d745=Math[_0x2deb03(0xe1)](0xa,_0x1f83a9-_0x369936),_0x19acac=Math[_0x2deb03(0x17a)](_0x2a1cc6-_0x504c01-0xa,0x0);break;default:_0x57d745=0x0,_0x19acac=0x0;break;}_0x57ea13['style']['position']=_0x2deb03(0xed),_0x57ea13[_0x2deb03(0x182)][_0x2deb03(0x3aa)]=_0x57d745+'px',_0x57ea13['style']['top']=_0x19acac+'px',document[_0x2deb03(0x39c)]['appendChild'](_0x57ea13),setTimeout(()=>{const _0x38900f=_0x2deb03;_0x57ea13['classList']['add'](_0x38900f(0x2bb));},0x0),setTimeout(()=>{const _0x335473=_0x2deb03;_0x57ea13[_0x335473(0x182)][_0x335473(0x3f0)]=0x0,setTimeout(()=>{const _0x348f90=_0x335473;_0x57ea13[_0x348f90(0x189)]();},0x7d0);},0x2710);}function startBackgroundWords(){setInterval(()=>{const _0x160708=_0x319f,_0x1c2017=Math[_0x160708(0x18a)](Math[_0x160708(0x3da)]()*backgroundWords[_0x160708(0x32e)]),_0x573164=backgroundWords[_0x1c2017];createWordElement(_0x573164);},0x4a38);}startBackgroundWords();
+const mp4 = {
+    'papel': ['mp4/papel.mp4'],
+    'esquadro': ['mp4/esquadro.mp4'],
+    'piano': ['mp4/piano.mp4'],
+    'jarra': ['mp4/jarra.mp4'],
+    'boneca': ['mp4/boneca.mp4'],
+    'escrivaninha': ['mp4/escrivaninha.mp4' , 'mp4/escrivaninha2.mp4'],
+    'lápis de cor': ['mp4/lápis de cor.mp4'],
+    'luva': ['mp4/luva.mp4'],
+    'luva de boxe' : ['mp4/luva de boxe.mp4'],
+    'saxofone': ['mp4/saxofone.mp4'],
+    'cômoda': ['mp4/cômoda.mp4'],
+    'fogão a lenha': ['mp4/fogão a lenha.mp4'],
+    'brilho labial': ['mp4/brilho labial.mp4'],
+    'seringa': ['mp4/seringa.mp4'],
+    'guidão': ['mp4/guidão.mp4'],
+    'roteador': ['mp4/roteador.mp4'],
+    'tigela' : ['mp4/tigela.mp4' , 'mp4/tigela2.mp4'],
+    'ofurô': ['mp4/ofurô.mp4'],
+    'cama elástica': ['mp4/cama elástica.mp4'],
+    'estante': ['mp4/estante.mp4' , 'mp4/estante2.mp4' ,'mp4/estante3.mp4'],
+    'botão': ['mp4/botão.mp4' , 'mp4/botão2.mp4'],
+    'broche': ['mp4/broche.mp4'],
+    'figurinha': ['mp4/figurinha.mp4', 'mp4/figurinha2.mp4'],
+    'pano de chão': ['mp4/pano de chão.mp4'],
+    'bongô': ['mp4/bongô.mp4'],
+    'cola': ['mp4/cola.mp4'],
+    'alarme': ['mp4/alarme.mp4'],
+    'míssil': ['mp4/míssil.mp4'],
+    'cortina': ['mp4/cortina.mp4', 'mp4/cortina2.mp4'],
+    'barril': ['mp4/barril2.mp4'],
+    'bigorna': ['mp4/bigorna.mp4'],
+    'gaveta': ['mp4/gaveta.mp4'],
+    'vasilha': ['mp4/vasilha.mp4'],
+    'mola': ['mp4/mola.mp4'],
+    'zíper': ['mp4/zíper.mp4'],
+    'caderno': ['mp4/caderno.mp4'],
+    'caderneta' : ['mp4/caderneta.mp4'],
+    'máquina de datilografar' : ['mp4/máquina de datilografar.mp4'],
+    'fichário': ['mp4/fichário.mp4'],
+    'âncora': ['mp4/âncora.mp4'],
+    'impressora': ['mp4/impressora.mp4'],
+    'filmadora': ['mp4/filmadora.mp4', 'mp4/filmadora2.mp4'],
+    'ferro de passar roupa': ['mp4/ferro de passar roupa.mp4'],
+    'macacão': ['mp4/macacão.mp4'],
+    'chave canhão': ['mp4/chave canhão.mp4'],
+    'capacete': ['mp4/capacete.mp4' , 'mp4/capacete2.mp4'],
+    'prancheta': ['mp4/prancheta.mp4'],
+    'cartucho de tinta': ['mp4/cartucho de tinta.mp4'],
+    'balde': ['mp4/balde.mp4' , 'mp4/balde2.mp4'],
+    'telefone': ['mp4/telefone.mp4'],
+    'edredom': ['mp4/edredom.mp4'],
+    'prateleira': ['mp4/prateleira.mp4'],
+    'geladeira': ['mp4/geladeira.mp4'],
+    'pires': ['mp4/pires.mp4'],
+    'bilhete': ['mp4/bilhete.mp4'],
+    'cristal': ['mp4/cristal.mp4'],
+    'transferidor': ['mp4/transferidor.mp4'],
+    'cama': ['mp4/cama.mp4'],
+    'chave de roda': ['mp4/chave de roda.mp4'],
+    'cruz': ['mp4/cruz.mp4' , 'mp4/cruz2.mp4'],
+    'medalha': ['mp4/medalha.mp4'],
+    'lamparina': ['mp4/lamparina.mp4'],
+    'tanque': ['mp4/tanque.mp4'],
+    'camisa de força': ['mp4/camisa de força.mp4'],
+    'esmalte': ['mp4/esmalte.mp4'],
+    'caixa': ['mp4/caixa.mp4'],
+    'talco': ['mp4/talco.mp4'],
+    'cílios postiços': ['mp4/cílios postiços.mp4'],
+    'chapéu': ['mp4/chapéu.mp4' , 'mp4/chapéu2.mp4'],
+    'carrinho de mão': ['mp4/carrinho de mão.mp4'],
+    'ioiô': ['mp4/ioiô.mp4', 'mp4/ioiô2.mp4'],
+    'lança': ['mp4/lança.mp4'],
+    'cafeteira': ['mp4/cafeteira.mp4'],
+    'carretel' : ['mp4/carretel.mp4'],
+    'calota' : ['mp4/calota.mp4'],
+    'hidrante': ['mp4/hidrante.mp4'],
+    'anilha': ['mp4/anilha.mp4'],
+    'máscara de mergulho': ['mp4/máscara de mergulho.mp4'],
+    'jaleco' : ['mp4/jaleco.mp4'],
+    'leiteira' : ['mp4/leiteira.mp4'],
+    'beliche' : ['mp4/beliche.mp4'],
+    'maiô' : ['mp4/maiô.mp4', 'mp4/maiô2.mp4'],
+    'tela' : ['mp4/tela.mp4'],
+    'conta-gotas' : ['mp4/conta-gotas.mp4'],
+    'bambolê' : ['mp4/bambolê.mp4'],
+    'pipa': ['mp4/pipa.mp4' , 'mp4/pipa2.mp4'],
+    'holofote' : ['mp4/holofote.mp4'],
+    'cadeira de balanço': ['mp4/cadeira de balanço.mp4'],
+    'caixa de isopor' : ['mp4/caixa de isopor.mp4'],
+    'aquecedor' : ['mp4/aquecedor.mp4'],
+    'corda' : ['mp4/corda.mp4', 'mp4/corda2.mp4'],
+    'casaco' : ['mp4/casaco.mp4', 'mp4/casaco2.mp4'],
+    'cachecol' : ['mp4/cachecol.mp4'],
+    'pingente': ['mp4/pingente.mp4' , 'mp4/pingente2.mp4'],
+    'garrafa térmica' : ['mp4/garrafa térmica.mp4'],
+    'echarpe' : ['mp4/echarpe.mp4'],
+    'xícara': ['mp4/xícara.mp4'],
+    'baqueta': ['mp4/baqueta.mp4'],
+    'compasso': ['mp4/compasso.mp4'],
+    'coroa': ['mp4/coroa.mp4' , 'mp4/coroa2.mp4'],
+    'unha postiça' : ['mp4/unha postiça.mp4' , 'mp4/unha postiça2.mp4'],
+    'coleira': ['mp4/coleira.mp4'],
+    'brinco': ['mp4/brinco.mp4'],
+    'chave de boca': ['mp4/chave de boca.mp4'],
+    'mordaça': ['mp4/mordaça.mp4'],
+    'periscópio' : ['mp4/periscópio.mp4' , 'mp4/periscópio2.mp4'],
+    'pérola' : ['mp4/pérola.mp4' , 'mp4/pérola2.mp4'],
+    'almofada' : ['mp4/almofada.mp4'],
+    'crucifixo' : ['mp4/crucifixo.mp4'],
+    'escavadeira' : ['mp4/escavadeira.mp4'],
+    'lixa de unha' : ['mp4/lixa de unha.mp4'],
+    'micro-ondas' : ['mp4/micro-ondas.mp4'],
+    'bandeira' : ['mp4/bandeira.mp4'],
+    'pilão' : ['mp4/pilão.mp4'],
+    'jangada' : ['mp4/jangada.mp4'],
+    'panela' : ['mp4/panela.mp4'],
+    'fita' : ['mp4/fita.mp4'],
+    'mangueira' : ['mp4/mangueira.mp4'],
+    'aspirador de pó' : ['mp4/aspirador de pó.mp4' , 'mp4/aspirador de pó2.mp4'],
+    'boia' : ['mp4/boia.mp4', 'mp4/boia2.mp4'],
+    'arco' : ['mp4/arco.mp4'],
+    'lustre' : ['mp4/lustre.mp4'],
+    'pódio' : ['mp4/pódio.mp4'],
+    'carta' : ['mp4/carta.mp4', 'mp4/carta2.mp4'],
+    'short' : ['mp4/short.mp4'],
+    'presente' : ['mp4/presente.mp4'],
+    'camiseta' : ['mp4/camiseta.mp4'],
+    'terno' : ['mp4/terno.mp4' , 'mp4/terno2.mp4'],
+    'tênis' : ['mp4/tênis.mp4'],
+    'violão' : ['mp4/violão.mp4'],
+    'marreta' : ['mp4/marreta.mp4'],
+    'carimbo' : ['mp4/carimbo.mp4', 'mp4/carimbo2.mp4'],
+    'iate' : ['mp4/iate.mp4'],
+    'sabre' : ['mp4/sabre.mp4'],
+    'ralo' : ['mp4/ralo.mp4'],
+    'reco-reco' : ['mp4/reco-reco.mp4'],
+    'triturador' : ['mp4/triturador.mp4'],
+    'cone' : ['mp4/cone.mp4'],
+    'gravata' : ['mp4/gravata.mp4'],
+    'máquina de lavar roupa' : ['mp4/máquina de lavar roupa.mp4'],
+    'granada' : ['mp4/granada.mp4'],
+    'filtro de papel' : ['mp4/filtro de papel.mp4' , 'mp4/filtro de papel2.mp4'],
+    'papel higiênico' : ['mp4/papel higiênico.mp4'],
+    'bafômetro' : ['mp4/bafômetro.mp4'],
+    'para-raios' : ['mp4/para-raios.mp4'],
+    'abridor de latas' : ['mp4/abridor de latas.mp4' ,'mp4/abridor de latas2.mp4'],
+    'dinamite' : ['mp4/dinamite.mp4'],
+    'toldo' : ['mp4/toldo.mp4'],
+    'rímel' : ['mp4/rímel.mp4'],
+    'lata' : ['mp4/lata.mp4'],
+    'cadeira' : ['mp4/cadeira.mp4'],
+    'pia' : ['mp4/pia.mp4'],
+    'espelho' : ['mp4/espelho.mp4'],
+    'sutiã' : ['mp4/sutiã.mp4' , 'mp4/sutiã2.mp4'],
+    'bola de golfe' : ['mp4/bola de golfe.mp4'],
+    'abridor de garrafa' : ['mp4/abridor de garrafa.mp4'],
+    'relógio' : ['mp4/relógio.mp4'],
+    'escapamento' : ['mp4/escapamento.mp4'],
+    'violoncelo' : ['mp4/violoncelo.mp4'],
+    'revista' : ['mp4/revista.mp4'],
+    'lona' : ['mp4/lona.mp4'],
+    'bule' : ['mp4/bule.mp4'],
+    'véu' : ['mp4/véu.mp4'],
+    'manequim' : ['mp4/manequim.mp4'],
+    'paraquedas' : ['mp4/paraquedas.mp4'],
+    'banco' : ['mp4/banco.mp4'],
+    'liquidificador' : ['mp4/liquidificador.mp4' , 'mp4/liquidificador2.mp4'],
+    'quadro' : ['mp4/quadro.mp4'],
+    'caixa de som' : ['mp4/caixa de som.mp4'],
+    'tapete' : ['mp4/tapete.mp4'], 
+    'tanga' : ['mp4/tanga.mp4', 'mp4/tanga2.mp4'],
+    'fones de ouvido' : ['mp4/fones de ouvido.mp4'],
+    'canoa' : ['mp4/canoa.mp4'],
+    'frigobar' : ['mp4/frigobar.mp4'],
+    'foguete' : ['mp4/foguete.mp4'],
+    'porta' : ['mp4/porta.mp4'],
+    'guilhotina' : ['mp4/guilhotina.mp4'],
+    'serra' : ['mp4/serra.mp4' , 'mp4/serra2.mp4'],
+    'carrinho' : ['mp4/carrinho.mp4'],
+    'lanterna' : ['mp4/lanterna.mp4'],
+    'buquê' : ['mp4/buquê.mp4'],
+    'faca' : ['mp4/faca.mp4'],
+    'ampulheta' : ['mp4/ampulheta.mp4'],
+    'raquete elétrica' : ['mp4/raquete elétrica.mp4' , 'mp4/raquete elétrica2.mp4'],
+    'borrifador' : ['mp4/borrifador.mp4'],
+    'tablet' : ['mp4/tablet.mp4' , 'mp4/tablet2.mp4'],
+    'puff' : ['mp4/puff.mp4'],
+    'torradeira' : ['mp4/torradeira.mp4'],
+    'rolo de massa' : ['mp4/rolo de massa.mp4'],
+    'extintor de incêndio' : ['mp4/extintor de incêndio.mp4'],
+    'luminária' : ['mp4/luminária.mp4'],
+    'esparadrapo' : ['mp4/esparadrapo.mp4'],
+    'estilingue' : ['mp4/estilingue.mp4'],
+    'agulha de crochê' : ['mp4/agulha de crochê.mp4'],
+    'gesso' : ['mp4/gesso.mp4'],
+    'fantoche' : ['mp4/fantoche.mp4' , 'mp4/fantoche2.mp4'],
+    'lenço' : ['mp4/lenço.mp4'],
+    'penteadeira' : ['mp4/penteadeira.mp4'],
+    'porta-retrato' : ['mp4/porta-retrato.mp4'],
+    'vídeo cassete' : ['mp4/vídeo cassete.mp4'],
+    'berimbau' : ['mp4/berimbau.mp4'],
+    'chaveiro' : ['mp4/chaveiro.mp4'],
+    'cisterna' : ['mp4/cisterna.mp4' , 'mp4/cisterna2.mp4'],
+    'pá' : ['mp4/pá.mp4'],
+    'mala' : ['mp4/mala.mp4' , 'mp4/mala2.mp4'],
+    'cinta-liga' : ['mp4/cinta-liga.mp4'],
+    'óculos de sol' : ['mp4/óculos de sol.mp4'],
+    'balaio' : ['mp4/balaio.mp4'],
+    'fax' : ['mp4/fax.mp4'],
+    'suéter' : ['mp4/suéter.mp4'],
+    'ralador' : ['mp4/ralador.mp4'],
+    'prancha' : ['mp4/prancha.mp4' , 'mp4/prancha2.mp4'],
+    'churrasqueira' : ['mp4/churrasqueira.mp4'],
+    'chaleira' : ['mp4/chaleira.mp4'],
+    'giz de cera' : ['mp4/giz de cera.mp4'],
+    'vaso sanitário' : ['mp4/vaso sanitário.mp4' , 'mp4/vaso sanitário2.mp4'],
+    'gramofone' : ['mp4/gramofone.mp4'],
+    'leque' : ['mp4/leque.mp4'],
+    'tijolo' : ['mp4/tijolo.mp4' , 'mp4/tijolo2.mp4' , 'mp4/tijolo3.mp4'],
+    'calçadeira' : ['mp4/calçadeira.mp4'],
+    'cabo' : ['mp4/cabo.mp4'],
+    'prego' : ['mp4/prego.mp4'],
+    'corrente' : ['mp4/corrente.mp4'],
+    'espátula' : ['mp4/espátula.mp4' , 'mp4/espátula2.mp4'],
+    'arpão' : ['mp4/arpão.mp4'],
+    'cueca' : ['mp4/cueca.mp4'],
+    'cinto' : ['mp4/cinto.mp4'],
+    'parabrisa' : ['mp4/parabrisa.mp4'],
+    'tiara' : ['mp4/tiara.mp4'],
+    'quebra-cabeça' : ['mp4/quebra-cabeça.mp4' , 'mp4/quebra-cabeça2.mp4'],
+    'gancho' : ['mp4/gancho.mp4'],
+    'alargador' : ['mp4/alargador.mp4'],
+    'esponja' : ['mp4/esponja.mp4'],
+    'cavaquinho' : ['mp4/cavaquinho.mp4'],
+    'anzol' : ['mp4/anzol.mp4' , 'mp4/anzol2.mp4'],
+    'alicate' : ['mp4/alicate.mp4'],
+    'diamante' : ['mp4/diamante.mp4'],
+    'quebra-nozes' : ['mp4/quebra-nozes.mp4'],
+    'microfone' : ['mp4/microfone.mp4'],
+    'mouse' : ['mp4/mouse.mp4'],
+    'bolsa' : ['mp4/bolsa.mp4'],
+    'sandália' : ['mp4/sandália.mp4', 'mp4/sandália.mp4'],
+    'farda' : ['mp4/farda.mp4' , 'mp4/farda2.mp4' , 'mp4/farda3.mp4'],
+    'viola' : ['mp4/viola.mp4'],
+    'pantufa' : ['mp4/pantufa.mp4'],
+    'joelheira' : ['mp4/joelheira.mp4'],
+    'bicho de pelúcia' : ['mp4/bicho de pelúcia.mp4'],
+    'delineador' : ['mp4/delineador.mp4'],
+    'ventilador' : ['mp4/ventilador.mp4'],
+    'sapateira' : ['mp4/sapateira.mp4'],
+    'charuto' : ['mp4/charuto.mp4'],
+    'batom' : ['mp4/batom.mp4'],
+    'novelo de lã' : ['mp4/novelo de lã.mp4'],
+    'colcha' : ['mp4/colcha.mp4'],
+    'batente' : ['mp4/batente.mp4'],
+    'apito' : ['mp4/apito.mp4'],
+    'chave de fenda' : ['mp4/chave de fenda.mp4'],
+    'telescópio' : ['mp4/telescópio.mp4'],
+    'hélice' : ['mp4/hélice.mp4'],
+    'webcam': ['mp4/webcam.mp4'],
+    'elástico': ['mp4/elástico.mp4'],
+    'marionete': ['mp4/marionete.mp4'],
+    'pistola': ['mp4/pistola.mp4'],
+    'monitor': ['mp4/monitor.mp4'],
+    'cadeira elétrica': ['mp4/cadeira elétrica.mp4'],
+    'trono': ['mp4/trono.mp4'],
+    'pijama': ['mp4/pijama.mp4'],
+    'chave de grifo': ['mp4/chave de grifo.mp4'],
+    'chave canhão': ['mp4/chave canhão2.mp4'],
+    'cadeira de rodas': ['mp4/cadeira de rodas.mp4'],
+    'camisola': ['mp4/camisola.mp4'],
+    'cadeira de praia': ['mp4/cadeira de praia.mp4'],
+    'revólver': ['mp4/revólver.mp4'],
+    'televisão': ['mp4/televisão.mp4'],
+    'pente': ['mp4/pente.mp4'],
+    'escova': ['mp4/escova.mp4'],
+    'colcha': ['mp4/colcha.mp4'],
+    'megafone': ['mp4/megafone.mp4'],
+    'armadura': ['mp4/armadura.mp4'],
+    'esfigmomanômetro': ['mp4/esfigmomanômetro.mp4'],
+    'agulha': ['mp4/agulha.mp4'],
+    'coturno': ['mp4/coturno.mp4'],
+    'fronha': ['mp4/fronha.mp4'],
+    'gibi': ['mp4/gibi.mp4'],
+    'chinelo': ['mp4/chinelo.mp4'],
+    'guirlanda': ['mp4/guirlanda.mp4'],
+    'tamanco': ['mp4/tamanco.mp4' , 'mp4/tamanco2.mp4'],
+    'persiana': ['mp4/persiana.mp4'],
+    'barbante': ['mp4/barbante.mp4'],
+    'álbum': ['mp4/álbum.mp4'],
+    'lâmpada': ['mp4/lâmpada.mp4'],
+    'ferrolho': ['mp4/ferrolho.mp4'],
+    'pacote': ['mp4/pacote.mp4'],
+    'estilete': ['mp4/estilete.mp4'],
+    'mesa de sinuca': ['mp4/mesa de sinuca.mp4'],
+    'isqueiro': ['mp4/isqueiro.mp4'],
+    'terno': ['mp4/terno.mp4'],
+    'poster': ['mp4/poster.mp4'],
+    'pano de prato': ['mp4/pano de prato.mp4'],
+    'botina': ['mp4/botina.mp4'],
+    'picareta': ['mp4/picareta.mp4'],
+    'canivete': ['mp4/canivete.mp4'],
+    'espiral': ['mp4/espiral.mp4'],
+    'basculante': ['mp4/basculante.mp4'],
+    'travesseiro': ['mp4/travesseiro.mp4'],
+    'flauta': ['mp4/flauta.mp4'],
+    'janela': ['mp4/janela.mp4'],
+    'órgão': ['mp4/órgão.mp4'],
+    'mesa de ping-pong': ['mp4/mesa de ping-pong.mp4'],
+    'mouse pad': ['mp4/mouse pad.mp4'],
+    'colar': ['mp4/colar.mp4'],
+    'lanterna chinesa': ['mp4/lanterna chinesa.mp4'],
+    'régua': ['mp4/régua.mp4'],
+    'camisa': ['mp4/camisa.mp4'],
+    'camisa de força': ['mp4/camisa de força.mp4'],
+    'cobertor': ['mp4/cobertor.mp4'],
+    'rasteirinha': ['mp4/rasteirinha.mp4'],
+    'pilha': ['mp4/pilha.mp4'],
+    'minissaia': ['mp4/minissaia.mp4'],
+    'manta': ['mp4/manta.mp4'],
+    'boné': ['mp4/boné.mp4' , 'mp4/boné2.mp4'],
+    'pá de lixo': ['mp4/pá de lixo.mp4' , 'mp4/pá de lixo2.mp4'],
+    'blusa': ['mp4/blusa.mp4'],
+    'aquecedor': ['mp4/aquecedor.mp4'],
+    'saia': ['mp4/saia.mp4'],
+    'dobradiça': ['mp4/dobradiça.mp4'],
+    'míssil': ['mp4/míssil.mp4'],
+    'alto falante': ['mp4/alto falante.mp4'],
+    'colchonete': ['mp4/colchonete.mp4'],
+    'navalha': ['mp4/navalha.mp4'],
+    'vídeo game': ['mp4/vídeo game.mp4'],
+    'salto alto': ['mp4/salto alto.mp4'],
+    'manete': ['mp4/manete.mp4'],
+    'pasta': ['mp4/pasta.mp4', 'mp4/pasta2.mp4'],
+    'armário': ['mp4/armário.mp4'],
+    'maca': ['mp4/maca.mp4'],
+    'exaustor': ['mp4/exaustor.mp4'],
+    'boneca': ['mp4/boneca.mp4'],
+    'bisturi': ['mp4/bisturi.mp4'],
+    'trave': ['mp4/trave.mp4'],
+    'guarda-roupa': ['mp4/guarda-roupa.mp4'],
+    'tumba': ['mp4/tumba.mp4' , 'mp4/tumba2.mp4'],
+    'biombo': ['mp4/biombo.mp4'],
+    'lixeira': ['mp4/lixeira.mp4'],
+    'guardanapo': ['mp4/guardanapo.mp4' , 'mp4/guardanapo2.mp4'],
+    'palmilha': ['mp4/palmilha.mp4'],
+    'bota': ['mp4/bota.mp4'],
+    'jaqueta': ['mp4/jaqueta.mp4'],
+    'galocha': ['mp4/galocha.mp4'],
+    'brinco': ['mp4/brinco.mp4'],
+    'rádio': ['mp4/rádio.mp4'],
+    'giz de cera': ['mp4/giz de cera.mp4'],
+    'guitarra': ['mp4/guitarra.mp4'],
+    'lençol': ['mp4/lençol.mp4' , 'mp4/lençol2.mp4'],
+    'giz': ['mp4/giz.mp4'],
+    'rodo': ['mp4/rodo.mp4'],
+    'sapato': ['mp4/sapato.mp4' , 'mp4/sapato2.mp4'],
+    'frigideira': ['mp4/frigideira.mp4'],
+    'toalha': ['mp4/toalha.mp4'],
+    'sanduicheira': ['mp4/sanduicheira.mp4' , 'mp4/sanduicheira2.mp4'],
+    'vaso' : ['mp4/vaso.mp4' , 'mp4/vaso2.mp4'],
+    'foice' : ['mp4/foice.mp4'],
+    'bola' : ['mp4/bola.mp4'],
+    'mesa' : ['mp4/mesa.mp4'],
+    'skate' : ['mp4/skate.mp4'],
+    'cavalo de pau' : ['mp4/cavalo de pau.mp4'],
+    'leiteira' : ['mp4/leiteira.mp4'],
+    'caneca': ['mp4/caneca.mp4'],
+    'colher': ['mp4/colher.mp4'],
+    'rede de pesca': ['mp4/rede de pesca.mp4'],
+    'suspensório': ['mp4/suspensório.mp4'],
+    'escada': ['mp4/escada.mp4'],
+    'cachimbo': ['mp4/cachimbo.mp4'],
+    'algema': ['mp4/algema.mp4'],
+    'cesta': ['mp4/cesta.mp4'],
+    'saca-rolhas': ['mp4/saca-rolhas.mp4'],
+    'concha': ['mp4/concha.mp4'],
+    'cerca elétrica': ['mp4/cerca elétrica.mp4'],
+    'notebook': ['mp4/notebook.mp4'],
+    'gaiola': ['mp4/gaiola.mp4'],
+    'asa delta': ['mp4/asa delta.mp4'],
+    'caneta': ['mp4/caneta.mp4'],
+    'balão': ['mp4/balão.mp4'],
+    'tamborim': ['mp4/tamborim.mp4' , 'mp4/tamborim2.mp4'],
+    'alfinete': ['mp4/alfinete.mp4' , 'mp4/alfinete2.mp4'],
+    'serra elétrica': ['mp4/serra elétrica.mp4'],
+    'arame farpado': ['mp4/arame farpado.mp4'],
+    'agulheiro': ['mp4/agulheiro.mp4'],
+    'caixa de correio': ['mp4/caixa de correio.mp4' , 'mp4/caixa de correio2.mp4'],
+    'faixa': ['mp4/faixa.mp4'],
+    'volante': ['mp4/volante.mp4'],
+    'tridente': ['mp4/tridente.mp4'],
+    'borracha': ['mp4/borracha.mp4'],
+    'ratoeira': ['mp4/ratoeira.mp4'],
+    'balança': ['mp4/balança.mp4'],
+    'envelope': ['mp4/envelope.mp4'],
+    'patinete': ['mp4/patinete.mp4'],
+    'sapatilha': ['mp4/sapatilha.mp4' , 'mp4/sapatilha2.mp4'],
+    'estátua': ['mp4/estátua.mp4' , 'mp4/estátua2.mp4'],
+    'caixa de ferramentas': ['mp4/caixa de ferramentas.mp4'],
+    'radar': ['mp4/radar.mp4'],
+    'gangorra': ['mp4/gangorra.mp4'],
+    'sombrinha': ['mp4/sombrinha.mp4'],
+    'anel': ['mp4/anel.mp4'],
+    'caixote': ['mp4/caixote.mp4'],
+    'algodão': ['mp4/algodão.mp4'],
+    'aliança': ['mp4/aliança.mp4'],
+    'rede': ['mp4/rede.mp4' , 'mp4/rede2.mp4'],
+    'serrote': ['mp4/serrote.mp4' , 'mp4/serrote2.mp4'],
+    'spray': ['mp4/spray.mp4'],
+    'jardineira': ['mp4/jardineira.mp4'],
+    'abafador': ['mp4/abafador.mp4'],
+    'abajur': ['mp4/abajur.mp4'],
+    'guarda-chuva': ['mp4/guarda-chuva.mp4'],
+    'fio': ['mp4/fio.mp4' , 'mp4/fio2.mp4'],
+    'lápis': ['mp4/lápis.mp4'],
+    'alicate de unha': ['mp4/alicate de unha.mp4'],
+    'cajado': ['mp4/cajado.mp4'],
+    'guarda-sol': ['mp4/guarda-sol.mp4'],
+    'garfo': ['mp4/garfo.mp4'],
+    'lupa': ['mp4/lupa.mp4'],
+    'rede de descanso': ['mp4/rede de descanso.mp4'],
+    'rolha': ['mp4/rolha.mp4'],
+    'maracá': ['mp4/maracá.mp4'],
+    'cano': ['mp4/cano.mp4'],
+    'jeans': ['mp4/jeans.mp4'],
+    'caixão': ['mp4/caixão.mp4'],
+    'balaústre': ['mp4/balaústre.mp4'],
+    'chocalho': ['mp4/chocalho.mp4'],
+    'bengala': ['mp4/bengala.mp4'],
+    'calcinha': ['mp4/calcinha.mp4' , 'mp4/calcinha2.mp4'],
+    'nariz de palhaço': ['mp4/nariz de palhaço.mp4'],
+    'calça': ['mp4/calça.mp4'],
+    'garrafa': ['mp4/garrafa.mp4'],
+    'disco': ['mp4/disco.mp4'],
+    'tambor': ['mp4/tambor.mp4'],
+    'enxada': ['mp4/enxada.mp4', 'mp4/enxada3.mp4'],
+    'cocar': ['mp4/cocar.mp4'],
+    'aspersório': ['mp4/aspersório.mp4'],
+    'buzina': ['mp4/buzina.mp4'],
+    'caneta hidrocor': ['mp4/caneta hidrocor.mp4'],
+    'pneu': ['mp4/pneu.mp4'],
+    'desodorante': ['mp4/desodorante.mp4'],
+    'apagador' : ['mp4/apagador.mp4'],
+    'baioneta' : ['mp4/baioneta.mp4'],
+    'cd' : ['mp4/cd.mp4'],
+    'moeda' : ['mp4/moeda.mp4'],
+    'andaime' : ['mp4/andaime.mp4'],
+    'boina' : ['mp4/boina.mp4'],
+    'antena' : ['mp4/antena.mp4'],
+    'monóculo' : ['mp4/monóculo.mp4' , 'mp4/monóculo2.mp4'],
+    'dardo' : ['mp4/dardo.mp4'],
+    'mochila' : ['mp4/mochila.mp4'],
+    'aquário' : ['mp4/aquário.mp4'],
+    'copo' : ['mp4/copo.mp4'],
+    'aro' : ['mp4/aro.mp4' ,'mp4/aro2.mp4'],
+    'banqueta' : ['mp4/banqueta.mp4'],
+    'andador' : ['mp4/andador.mp4'],
+    'assadeira' : ['mp4/assadeira.mp4'],
+    'baú' : ['mp4/baú.mp4'],
+    'forma' : ['mp4/forma.mp4'],
+    'berço' : ['mp4/berço.mp4'],
+    'garfo' : ['mp4/garfo.mp4'],
+    'gaita' : ['mp4/gaita.mp4' , 'mp4/gaita2.mp4'],
+    'oboé' : ['mp4/oboé.mp4'],
+    'computador' : ['mp4/computador.mp4'],
+    'relógio de sol' : ['mp4/relógio de sol.mp4'],
+    'desentupidor' : ['mp4/desentupidor.mp4', 'mp4/desentupidor2.mp4'],
+    'caixa de fósforo' : ['mp4/caixa de fósforo.mp4'],
+    'chapéu de aniversário' : ['mp4/chapéu de aniversário.mp4'],
+    'cetro' : ['mp4/cetro.mp4' , 'mp4/cetro2.mp4'],
+    'fantasia' : ['mp4/fantasia.mp4'],
+    'bomba de ar' : ['mp4/bomba de ar.mp4', 'mp4/bomba de ar.mp4' , 'mp4/bomba de ar3.mp4'],
+    'canudo' : ['mp4/canudo.mp4'],
+    'chave inglesa' : ['mp4/chave inglesa.mp4'],
+    'bracelete' : ['mp4/bracelete.mp4'],
+    'caneleira' : ['mp4/caneleira.mp4'],
+    'chupeta' : ['mp4/chupeta.mp4'],
+    'cata-vento' : ['mp4/cata-vento.mp4'],
+    'chicote' : ['mp4/chicote.mp4'],
+    'chave' : ['mp4/chave.mp4'],
+    'carrinho de feira' : ['mp4/carrinho de feira.mp4'],
+    'cartão postal' : ['mp4/cartão postal.mp4' , 'mp4/cartão postal2.mp4'],
+    'cinto de segurança' : ['mp4/cinto de segurança.mp4'],
+    'claquete' : ['mp4/claquete.mp4'],
+    'cantil' : ['mp4/cantil.mp4'],
+    'casula' : ['mp4/casula.mp4'],
+    'catraca' : ['mp4/catraca.mp4'],
+    'cantoneira' : ['mp4/cantoneira.mp4'],
+    'candeeiro' : ['mp4/candeeiro.mp4'],
+    'capacho' : ['mp4/capacho.mp4'],
+    'chuteira' : ['mp4/chuteira.mp4'],
+    'chave estrela' : ['mp4/chave estrela.mp4'],
+    'cartão' : ['mp4/cartão.mp4'],
+    'caixa de papelão' : ['mp4/caixa de papelão.mp4'],
+    'carrinho de rolimã' : ['mp4/carrinho de rolimã.mp4'],
+    'brinquedo' : ['mp4/brinquedo.mp4'],
+    'bronzeador' : ['mp4/bronzeador.mp4'],
+    'canga' : ['mp4/canga.mp4'],
+    'clipe' : ['mp4/clipe.mp4'],
+    'clava' : ['mp4/clava.mp4'],
+    'cartola' : ['mp4/cartola.mp4'],
+    'camisa regata' : ['mp4/camisa regata.mp4' , 'mp4/camisa regata2.mp4'],
+    'caixa registradora' : ['mp4/caixa registradora.mp4'],
+    'celular' : ['mp4/celular.mp4'],
+    'carteira' : ['mp4/carteira.mp4'],
+    'candelabro' : ['mp4/candelabro.mp4'],
+    'cadarço' : ['mp4/cadarço.mp4'],
+    'coador' : ['mp4/coador.mp4'],
+    'bolsa térmica' : ['mp4/bolsa térmica.mp4'],
+    'bola de boliche' : ['mp4/bola de boliche.mp4'],
+    'bola de gude' : ['mp4/bola de gude.mp4'],
+    'despertador' : ['mp4/despertador.mp4'],
+    'controle remoto' : ['mp4/controle remoto.mp4' , 'mp4/controle remoto2.mp4'],
+    'cruzeta' : ['mp4/cruzeta.mp4' , 'mp4/cruzeta2.mp4'],
+    'colchão inflável' : ['mp4/colchão inflável.mp4'],
+    'corneta' : ['mp4/corneta.mp4'],
+    'colírio' : ['mp4/colírio.mp4'],
+    'cuia' : ['mp4/cuia.mp4'],
+    'ponteiro' : ['mp4/ponteiro.mp4'],
+    'dedal' : ['mp4/dedal.mp4'],
+    'coifa' : ['mp4/coifa.mp4'],
+    'comedouro' : ['mp4/comedouro.mp4'],
+    'sunga' : ['mp4/sunga.mp4'],
+    'diário' : ['mp4/diário.mp4' , 'mp4/diário2.mp4'],
+    'martelo' : ['mp4/martelo.mp4'],
+    'crachá' : ['mp4/crachá.mp4'],
+    'curvador de cílios' : ['mp4/curvador de cílios.mp4'],
+    'cutelo' : ['mp4/cutelo.mp4' , 'mp4/cutelo2.mp4', 'mp4/cutelo3.mp4'],
+    'dado' : ['mp4/dado.mp4'],
+    'ímã' : ['mp4/ímã.mp4'],
+    'fruteira' : ['mp4/fruteira.mp4'],
+    'escudo' : ['mp4/escudo.mp4'],
+    'estaca' : ['mp4/estaca.mp4'],
+    'fita isolante' : ['mp4/fita isolante.mp4'],
+    'esfregão' : ['mp4/esfregão.mp4'],
+    'escopeta' : ['mp4/escopeta.mp4'],
+    'filtro de linha' : ['mp4/filtro de linha.mp4'],
+    'fita cassete' : ['mp4/fita cassete.mp4'],
+    'fio dental' : ['mp4/fio dental.mp4'],
+    'escorredor de pratos' : ['mp4/escorredor de pratos.mp4'],
+    'rastelo' : ['mp4/rastelo.mp4'],
+    'farol de milha' : ['mp4/farol de milha.mp4'],
+    'escorredor de macarrão' : ['mp4/escorredor de macarrão.mp4'],
+    'flecha' : ['mp4/flecha.mp4'],
+    'fivela' : ['mp4/fivela.mp4'],
+    'vela': ['mp4/vela.mp4'],
+    'dominó' : ['mp4/dominó.mp4'],
+    'biruta' : ['mp4/biruta.mp4'],
+    'escorregador' : ['mp4/escorregador.mp4'],
+    'fita adesiva' : ['mp4/fita adesiva.mp4'],
+    'farolete' : ['mp4/farolete.mp4'],
+    'estojo' : ['mp4/estojo.mp4'],
+    'faqueiro' : ['mp4/faqueiro.mp4'],
+    'estabilizador' : ['mp4/estabilizador.mp4'],
+    'facão' : ['mp4/facão.mp4'],
+    'espremedor de alho' : ['mp4/espremedor de alho.mp4'],
+    'freezer' : ['mp4/freezer.mp4'],
+    'ferradura' : ['mp4/ferradura.mp4'],
+    'farinheiro' : ['mp4/farinheiro.mp4'],
+    'funil' : ['mp4/funil.mp4'],
+    'tobogã' : ['mp4/tobogã.mp4'],
+    'filtro de água' : ['mp4/filtro de água.mp4'],
+    'carimbo' : ['mp4/carimbo.mp4'],
+    'fita crepe' : ['mp4/fita crepe.mp4'],
+    'fogão' : ['mp4/fogão.mp4', 'mp4/fogão2.mp4'],
+    'rifle' : ['mp4/rifle.mp4'],
+    'flanela' : ['mp4/flanela.mp4'],
+    'espanador' : ['mp4/espanador.mp4'],
+    'frasco' : ['mp4/frasco.mp4'],
+    'escumadeira' : ['mp4/escumadeira.mp4'],
+    'estojo de maquiagem' : ['mp4/estojo de maquiagem.mp4'],
+    'estatueta do oscar' : ['mp4/estatueta do oscar.mp4', 'mp4/estatueta do oscar2.mp4'],
+    //palavras abaixo que foram adicionadas domingo, 18 de agosto/2024
+    'cuíca': ['mp4/cuíca.mp4'],
+    'livro': ['mp4/livro.mp4'],
+    'chuveiro': ['mp4/chuveiro.mp4' , 'mp4/chuveiro2.mp4', 'mp4/chuveiro3.mp4'],
+    'capa': ['mp4/capa.mp4', 'mp4/capa2.mp4'],
+    'pipoqueira' : ['mp4/pipoqueira.mp4', 'mp4/pipoqueira2.mp4'],
+    'contrabaixo': ['mp4/contrabaixo.mp4'],
+    'grampo de cabelo': ['mp4/grampo de cabelo.mp4'],
+    'ombreira': ['mp4/ombreira.mp4'],
+    'bomba': ['mp4/bomba.mp4' , 'mp4/bomba2.mp4'],
+    'avental': ['mp4/avental2.mp4'],
+    'tinta de cabelo': ['mp4/tinta de cabelo.mp4'],
+    'caldeirão': ['mp4/caldeirão.mp4'],
+    'bicama': ['mp4/bicama.mp4'],
+    'mastro': ['mp4/mastro.mp4'],
+    'vassoura': ['mp4/vassoura.mp4', 'mp4/vassoura2.mp4'],
+    'depilador elétrico': ['mp4/depilador elétrico.mp4' , 'mp4/depilador elétrico2.mp4' , 'mp4/depilador elétrico3.mp4'],
+    'scanner': ['mp4/scanner.mp4'],
+    'azulejo': ['mp4/azulejo.mp4'],
+    'jornal': ['mp4/jornal.mp4'],
+    'bidê': ['mp4/bidê.mp4', 'mp4/bidê2.mp4'],
+    'bumerangue': ['mp4/bumerangue.mp4'],
+    'rede de descanso': ['mp4/rede de descanso.mp4'],
+    'panela de pressão': ['mp4/panela de pressão.mp4'],
+    'cassetete': ['mp4/cassetete.mp4'],
+    'prato': ['mp4/prato.mp4'],
+    'corpete': ['mp4/corpete.mp4'],
+    'broca': ['mp4/broca.mp4'],
+    'bagageiro': ['mp4/bagageiro.mp4'],
+    'cortador de grama': ['mp4/cortador de grama.mp4'],
+    'apontador de lápis': ['mp4/apontador de lápis.mp4'],
+    'bateria': ['mp4/bateria.mp4'],
+    'mosquiteiro': ['mp4/mosquiteiro.mp4'],
+    'convite': ['mp4/convite.mp4'],
+    'batina': ['mp4/batina.mp4'],
+    'semáforo': ['mp4/semáforo.mp4', 'mp4/semáforo2.mp4'],
+    'tornozeleira': ['mp4/tornozeleira.mp4'],
+    'tatame': ['mp4/tatame.mp4' ,'mp4/tatame2.mp4'],
+    'barbeador': ['mp4/barbeador.mp4' , 'mp4/barbeador2.mp4'],
+    'berrante': ['mp4/berrante.mp4'],
+    'chimbal': ['mp4/chimbal.mp4'],
+    'colher de pau': ['mp4/colher de pau.mp4'],
+    'tridente': ['mp4/tridente.mp4'],
+    'corsário': ['mp4/corsário.mp4'],
+    'cueca': ['mp4/cueca.mp4'],
+    'espremedor de frutas': ['mp4/espremedor de frutas.mp4'],
+    'bíblia' : ['mp4/bíblia.mp4'],
+    'esteira ergométrica': ['mp4/esteira ergométrica.mp4'],
+    'corretivo': ['mp4/corretivo.mp4'],
+    'colchão': ['mp4/colchão.mp4' , 'mp4/colchão2.mp4'],
+    'espingarda': ['mp4/espingarda.mp4'],
+    'cotoveleira': ['mp4/cotoveleira.mp4'],
+    'trampolim': ['mp4/trampolim.mp4'],
+    'coldre': ['mp4/coldre.mp4'],
+    'cofre': ['mp4/cofre.mp4'],
+    'furadeira': ['mp4/furadeira.mp4'],
+    'panfleto': ['mp4/panfleto.mp4'],
+    'saboneteira': ['mp4/saboneteira.mp4'],
+    'lantejoula': ['mp4/lantejoula.mp4'],
+    'pinça': ['mp4/pinça.mp4', 'mp4/pinça2.mp4'],
+    'confete': ['mp4/confete.mp4'],
+    'boá': ['mp4/boá.mp4'],
+    'piercing': ['mp4/piercing.mp4'],
+    'máquina de lavar louça': ['mp4/máquina de lavar louça.mp4'],
+    'binóculo': ['mp4/binóculo.mp4'],
+    'pote': ['mp4/pote.mp4'],
+    'filmadora': ['mp4/filmadora.mp4'],
+    //palavras abaixo que foram adicionadas segunda, 20 de agosto/2024
+    'alaúde': ['mp4/alaúde.mp4'],
+    'aerofólio': ['mp4/aerofólio.mp4'],
+    'açucareiro': ['mp4/açucareiro.mp4'],
+    'bazuca': ['mp4/bazuca.mp4', 'mp4/bazuca2.mp4'],
+    'bandolim': ['mp4/bandolim.mp4'],
+    'bandana': ['mp4/bandana.mp4'],
+    'estribo': ['mp4/estribo.mp4'],
+    'biqueira': ['mp4/biqueira.mp4'],
+    'betoneira': ['mp4/betoneira.mp4'],
+    'antena parabólica': ['mp4/antena parabólica.mp4'],
+    'camafeu': ['mp4/camafeu.mp4'],
+    'estetoscópio': ['mp4/estetoscópio.mp4' , 'mp4/estetoscópio2.mp4', 'mp4/estetoscópio3.mp4'],
+    'aldrava': ['mp4/aldrava.mp4'],
+    'bilboquê': ['mp4/bilboquê.mp4'],
+    'banheira': ['mp4/banheira.mp4'],
+    'espada': ['mp4/espada.mp4'],
+    'prendedor de cabelo': ['mp4/prendedor de cabelo.mp4' , 'mp4/prendedor de cabelo2.mp4'],
+    'afiador de facas': ['mp4/afiador de facas.mp4'],
+    'barraca': ['mp4/barraca.mp4'],
+    'astrolábio': ['mp4/astrolábio.mp4'],
+    'bacia': ['mp4/bacia.mp4' ,'mp4/bacia2.mp4'],
+    'violino': ['mp4/violino.mp4',  'mp4/violino2.mp4'],
+    'beca': ['mp4/beca.mp4'],
+    'abotoadura': ['mp4/abotoadura.mp4'],
+    'adaga': ['mp4/adaga.mp4'],
+    'armadilha': ['mp4/armadilha.mp4'],
+    'amortecedor': ['mp4/amortecedor.mp4'],
+    'aparador': ['mp4/aparador.mp4'],
+    'bata': ['mp4/bata.mp4'],
+    'aljava': ['mp4/aljava.mp4'],
+    'relicário': ['mp4/relicário.mp4'],
+    'aneleira': ['mp4/aneleira.mp4'],
+    'batedeira': ['mp4/batedeira.mp4'],
+    'antolho': ['mp4/antolho.mp4'],
+    'balaclava': ['mp4/balaclava.mp4'],
+    'batuta': ['mp4/batuta.mp4'],
+    'arca': ['mp4/arca.mp4'],
+    'poltrona': ['mp4/poltrona.mp4' , 'mp4/poltrona2.mp4'],
+    'biquíni': ['mp4/biquíni.mp4'],
+    'ábaco': ['mp4/ábaco.mp4'],
+    'autorama': ['mp4/autorama.mp4'],
+    'aparelho ortodôntico': ['mp4/aparelho ortodôntico.mp4'],
+    'balsa': ['mp4/balsa.mp4'],
+    'bicicleta ergométrica': ['mp4/bicicleta ergométrica.mp4'],
+    'adaptador': ['mp4/adaptador.mp4'],
+    'árvore de natal': ['mp4/árvore de natal.mp4'],
+    'baleiro': ['mp4/baleiro.mp4'],
+    'amuleto': ['mp4/amuleto.mp4'],
+    'modem' : ['mp4/modem.mp4'],
+    'divã' : ['mp4/divã.mp4'],
+    'retrato' : ['mp4/retrato.mp4'],
+    'mamadeira' : ['mp4/mamadeira.mp4'],
+    'retrovisor' : ['mp4/retrovisor.mp4' , 'mp4/retrovisor2.mp4'],
+    'forno elétrico' : ['mp4/forno elétrico.mp4'],
+    'pilão' : ['mp4/pilão.mp4'],
+    'colete' : ['mp4/colete.mp4'],
+    'cabide' : ['mp4/cabide.mp4'],
+    'dvd' : ['mp4/dvd.mp4'],
+    'varal' : ['mp4/varal.mp4'],
+    'chapinha de cabelo' : ['mp4/chapinha de cabelo.mp4'],
+    'carrinho de bebê' : ['mp4/carrinho de bebê.mp4'],
+    'uniforme' : ['mp4/uniforme.mp4'],
+    'ceroula' : ['mp4/ceroula.mp4'],
+    'urna' : ['mp4/urna.mp4'],
+    'tubo de ensaio' : ['mp4/tubo de ensaio.mp4'],
+    'vestido' : ['mp4/vestido.mp4'],
+    'celada' : ['mp4/celada.mp4'],
+    'tuba' : ['mp4/tuba.mp4'],
+    'turbante' : ['mp4/turbante.mp4'],
+    'vidro' : ['mp4/vidro.mp4'],
+    'pregador' : ['mp4/pregador.mp4'],
+    'toga' : ['mp4/toga.mp4'],
+    'bombacha' : ['mp4/bombacha.mp4'],
+    'cartão de crédito' : ['mp4/cartão de crédito.mp4'],
+    'troféu' : ['mp4/troféu.mp4'],
+    'caxixi' : ['mp4/caxixi.mp4'],
+    'cálice' : ['mp4/cálice.mp4'],
+    //palavras adicionadas no dia 30/08/2024
+    'xilofone' : ['mp4/xilofone.mp4'],
+    'toalha de mesa' : ['mp4/toalha de mesa.mp4'],
+    'rabeca' : ['mp4/rabeca.mp4'],
+    'teclado' : ['mp4/teclado.mp4'],
+    'tábua' : ['mp4/tábua.mp4'],
+    'queijeira' : ['mp4/queijeira.mp4'],
+    'trompete' : ['mp4/trompete.mp4'],
+    'termômetro' : ['mp4/termômetro.mp4'],
+    'radar' : ['mp4/radar.mp4'],
+    'placa' : ['mp4/placa.mp4'],
+    'rodapé' : ['mp4/rodapé.mp4'],
+    'revisteiro' : ['mp4/revisteiro.mp4'],
+    'pipeta' : ['mp4/pipeta.mp4'],
+    'zabumba' : ['mp4/zabumba.mp4'],
+    'polaina' : ['mp4/polaina.mp4'],
+    'quepe' : ['mp4/quepe.mp4'],
+    'bastão' : ['mp4/bastão.mp4'],
+    'rack' : ['mp4/rack.mp4'],
+    'rádio gravador' : ['mp4/rádio gravador.mp4'],
+    'quimono' : ['mp4/quimono.mp4'],
+    'sanfona' : ['mp4/sanfona.mp4'],
+    'tesoura' : ['mp4/tesoura.mp4'],
+    'regador' : ['mp4/regador.mp4'],
+    'porta-lápis' : ['mp4/porta-lápis.mp4'],
+    'gabinete' : ['mp4/gabinete.mp4'],
+    'protetor auricular' : ['mp4/protetor auricular.mp4'],
+    'trampolim' : ['mp4/trampolim.mp4'],
+    'pulverizador' : ['mp4/pulverizador.mp4'],
+    'rédea' : ['mp4/rédea.mp4'],
+    'samba canção' : ['mp4/samba canção.mp4'],
+    'retroprojetor' : ['mp4/retroprojetor.mp4'],
+    'pochete' : ['mp4/pochete.mp4'],
+    'taça' : ['mp4/taça.mp4'],
+    'porta cd' : ['mp4/porta cd.mp4'],
+    'remo' : ['mp4/remo.mp4'],
+    'pisca-pisca' : ['mp4/pisca-pisca.mp4'],
+    'protetor bucal' : ['mp4/protetor bucal.mp4'],
+    'trompa' : ['mp4/trompa.mp4'],
+    'saco de plástico' : ['mp4/saco de plástico.mp4'],
+    'triângulo' : ['mp4/triângulo.mp4'],
+    'tambor' : ['mp4/tambor.mp4'],
+    'raquete' : ['mp4/raquete.mp4'],
+    'taco' : ['mp4/taco.mp4'],
+    'laço' : ['mp4/laço.mp4'],
+    'puxador' : ['mp4/puxador.mp4'],
+    'pluma' : ['mp4/pluma.mp4'],
+    'rádio' : ['mp4/rádio.mp4'],
+    'rádio amador' : ['mp4/rádio amador.mp4'],
+    'pincel' : ['mp4/pincel.mp4'],
+    'zarabatana' : ['mp4/zarabatana.mp4'],
+    'pino' : ['mp4/pino.mp4'],
+    'ralo de pia' : ['mp4/ralo de pia.mp4'],
+    'talher' : ['mp4/talher.mp4'],
+    'refratário' : ['mp4/refratário.mp4'],
+    'telha' : ['mp4/telha.mp4'],
+    'tecido' : ['mp4/tecido.mp4'],
+    'touca' : ['mp4/touca.mp4'],
+    'sandália' : ['mp4/sandália.mp4'],
+    'parafuso' : ['mp4/parafuso.mp4'],
+    // palavras adicionadas no dia 30/08/2024
+    'peteca' : ['mp4/peteca.mp4'],
+    'patinete' : ['mp4/patinete.mp4'],
+    'penteadeira' : ['mp4/penteadeira.mp4'],
+    'papel carbono' : ['mp4/papel carbono.mp4'],
+    'papel laminado' : ['mp4/papel laminado.mp4'],
+    'pen drive' : ['mp4/pen drive.mp4'],
+    'pato de borracha' : ['mp4/pato de borracha.mp4'],
+    'perna de pau' : ['mp4/perna de pau.mp4'],
+    'pêndulo' : ['mp4/pêndulo.mp4'],
+    'pedra-pomes' : ['mp4/pedra-pomes.mp4'],
+    'para-raios' : ['mp4/para-raios.mp4'],
+    'perfurador de papel' : ['mp4/perfurador de papel.mp4'],
+    'pedal' : ['mp4/pedal.mp4'],
+    'pé de cabra' : ['mp4/pé de cabra.mp4'],
+    'parca' : ['mp4/parca.mp4'],
+    'peruca' : ['mp4/peruca.mp4'],
+    'pantufa' : ['mp4/pantufa.mp4'],
+    'papel toalha' : ['mp4/papel toalha.mp4'],
+    'pilão' : ['mp4/pilão.mp4'],
+    'periscópio' : ['mp4/periscópio.mp4'],
+    'patins' : ['mp4/patins.mp4'],
+    'papel higiênico' : ['mp4/papel higiênico.mp4'],
+    'pente' : ['mp4/pente.mp4'],
+    'pé de pato' : ['mp4/pé de pato.mp4'],
+    'penhoar' : ['mp4/penhoar.mp4'],
+    'pergaminho' : ['mp4/pergaminho.mp4'], 
+    // palavras abaixo add no dia 3 de setembro de 2024
+    'smoking' : ['mp4/smoking.mp4'],
+    // palavras abaixo add no dia 5 de setembro de 2024
+    'fuzil' : ['mp4/fuzil.mp4'],
+    // palavras adicionadas no dia 7 de setembro de 2024
+    'lista telefônica' : ['mp4/lista telefônica.mp4'],
+    'calibrador' : ['mp4/calibrador.mp4'],
+    'incensário' : ['mp4/incensário.mp4'],
+    'peneira' : ['mp4/peneira.mp4'],
+    'multiprocessador' : ['mp4/multiprocessador.mp4'],
+    'palheta' : ['mp4/palheta.mp4'],
+    'garrafa pet' : ['mp4/garrafa pet.mp4'],
+    'cartão de memória' : ['mp4/cartão de memória.mp4'],
+
+
+
+
+
+
+     
+    
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+    
+
+
+    
+    
+
+};
+
+let words = Object.keys(mp4);
+
+function shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+}
+
+shuffle(words);
+let currentIndex = 0;
+let score = 0;
+let soundEnabled = true;
+
+const mp4Container = document.getElementById('mp4-container');
+const mp4Element = document.getElementById('mp4');
+const placeholder = document.getElementById('placeholder');
+const userInput = document.getElementById('user-input');
+const correctSound = document.getElementById('correct-sound');
+const scoreElement = document.getElementById('score');
+const searchButton = document.getElementById('search-button');
+const searchModal = document.getElementById('search-modal');
+const searchInput = document.getElementById('search-input');
+const searchSubmit = document.getElementById('search-submit');
+const searchResult = document.getElementById('search-result');
+const closeSearchModal = document.getElementById('close-search-modal');
+const soundToggle = document.getElementById('sound-toggle');
+const infoButton = document.getElementById('info-button');
+const infoModal = document.getElementById('info-modal');
+const closeInfoModal = document.getElementById('close-info-modal');
+
+let inactivityTimeout;
+
+function loadNextMp4() {
+if (currentIndex < words.length) {
+    const currentWord = words[currentIndex];
+    const videos = mp4[currentWord];
+    const randomVideo = videos[Math.floor(Math.random() * videos.length)];
+    mp4Element.src = randomVideo;
+    mp4Element.style.display = 'block';
+    placeholder.style.display = 'none';
+    userInput.value = '';
+    userInput.focus();
+
+    // Revela a palavra correta no console para depuração
+    console.log(`Palavra correta para o vídeo atual: ${currentWord}`);
+
+    // Reseta a exibição da resposta
+    clearTimeout(inactivityTimeout);
+    document.getElementById('answerReveal').style.display = 'none';
+
+    // Inicia o timer para revelar a resposta correta após 10 segundos
+    inactivityTimeout = setTimeout(() => {
+        document.getElementById('answerReveal').textContent = currentWord;
+        document.getElementById('answerReveal').style.display = 'inline-block';
+    }, 10000); // alterne o valor de espera para a respota aqui.
+
+    mp4Element.play().catch(error => {
+        console.log('Reprodução automática falhou:', error);
+    });
+} else {
+    shuffle(words);
+    currentIndex = 0;
+    loadNextMp4();
+}
+}
+
+userInput.addEventListener('keypress', (event) => {
+if (event.key === 'Enter') {
+const userText = userInput.value.trim().toLowerCase();
+if (userText === words[currentIndex]) {
+    currentIndex++;
+    score++;
+    scoreElement.textContent = score;
+    if (soundEnabled) {
+        correctSound.play();
+    }
+    loadNextMp4();
+    
+    // Aumenta a luminosidade do contêiner
+    mp4Container.style.boxShadow = '0 0 60px 20px rgba(255, 255, 255, 1)';
+    setTimeout(() => {
+        mp4Container.style.boxShadow = '0 0 60px 20px rgba(255, 255, 255, 0.8)';
+    }, 1000);
+} else {
+    userInput.value = '';
+}
+}
+});
+
+function attemptAutoPlay() {
+    const playPromise = mp4Element.play();
+    if (playPromise !== undefined) {
+        playPromise.then(() => {
+            console.log('Reprodução automática bem-sucedida');
+        }).catch(error => {
+            console.log('Reprodução automática falhou:', error);
+        });
+    }
+}
+
+mp4Element.addEventListener('canplaythrough', attemptAutoPlay);
+
+loadNextMp4();
+
+searchButton.addEventListener('click', () => {
+    searchModal.style.display = 'flex';
+    searchInput.value = '';
+    searchResult.textContent = '';
+    searchInput.focus();
+});
+
+closeSearchModal.addEventListener('click', () => {
+    searchModal.style.display = 'none';
+});
+
+searchSubmit.addEventListener('click', () => {
+    const searchText = searchInput.value.trim().toLowerCase();
+    if (mp4[searchText]) {
+        const videos = mp4[searchText];
+        const randomVideo = videos[Math.floor(Math.random() * videos.length)];
+        searchResult.innerHTML = `<video src="${randomVideo}" controls width="100%"></video>`;
+        
+        // Aumenta a luminosidade do contêiner
+        mp4Container.style.boxShadow = '0 0 60px 20px rgba(255, 255, 255, 1)';
+        setTimeout(() => {
+            mp4Container.style.boxShadow = '0 0 60px 20px rgba(255, 255, 255, 0.8)';
+        }, 1000);
+    } else {
+        searchResult.textContent = 'Objeto ainda não disponível';
+    }
+});
+
+searchInput.addEventListener('keypress', (event) => {
+if (event.key === 'Enter') {
+searchSubmit.click();
+}
+});
+
+soundToggle.addEventListener('click', () => {
+    soundEnabled = !soundEnabled;
+    soundToggle.textContent = soundEnabled ? '🔊' : '🔇';
+});
+
+infoButton.addEventListener('click', () => {
+    infoModal.style.display = 'flex';
+});
+
+closeInfoModal.addEventListener('click', () => {
+    infoModal.style.display = 'none';
+});
+
+
+//código responsavel por exibir frases aleatorias 
+// Lista de frases. Você pode adicionar quantas quiser aqui.
+const backgroundWords = [
+
+    "continue tentando!",
+    "cada erro é uma lição.",
+    "a prática leva à perfeição.",
+    "o primeiro traço é importante",
+    "observe o primeiro traço!",
+    "ouça músicas enquanto joga!",
+    "até mesmo a cor dos desenhos é importante!",
+    "se atente aos detalhes únicos de cada desenho",
+    "Gartic é apenas um jogo, não dê sua vida nisso",
+    "digitar devagar é essencial às vezes",
+    "seu feedback é importante",
+    "as pessoas realmente leem isso?",
+    "você pode fazer melhor",
+    "a verdadeira vitória vem com o desafio!",
+    "você está ficando para trás, que tal digitar mais rápido?",
+    "Você está evoluindo",
+    "que tal errar menos?",
+    "syuz fã de daniewz",
+    "seu desempenho é fraco",
+    "você continua falhando",
+    "quanto mais prática, melhor!",
+    "Você está tentando, mas parece inútil",
+    "Você está longe de dominar.",
+    "pausas são necessárias!",
+    "entre no servidor do discord",
+    "percepção é necessário",
+    "não é sobre velocidade, às vezes",
+    "até mesmo o hardware importa",
+    "jogar com conexões cabeadas será sempre vantajoso",
+    "o mal tem uma falsa vitória sobre o bem",
+    "tenha paciência com as pessoas",
+    "você também já foi noob",
+    "que tal ser menos arrogante?",
+    "não perca seu tempo com assuntos frivolos",
+    "estrela do sul",
+    "uma estrela que brilhou intensamente no meu céu..",
+    "compartilhe nosso servidor",
+    "convide pessoas para aprender",
+    "convide pessoas para praticar",
+    "certas coisas são inevitáveis",
+    "se coloque no lugar dos outros",
+    "tenha empatia",
+    "reconheça o esforço dos outros",
+    "a humildade precede a honra",
+    "seja esperto",
+    "seja gentil consigo mesmo (a)",
+    "evite assuntos demasiadamente superficiais",
+    "se valorize como pessoa",
+    "feito por daniewz e denni_0014",
+    "digite o mais rapido possível!",
+    "pessoas de sucesso definem metas realistas",
+    "uma longa viagem começa por um passo",
+    "o melhor modo de prever o futuro é criá-lo - Peter Drucker",
+    "pratique sua digitação!",
+    "seja mais rápido ou desista",
+    "erros demais, foco!",
+    "não consegue fazer melhor?",
+    "tente não errar",
+    "você é realmente lento",
+    "esse é seu máximo?",
+    "mais foco, menos erro!",
+    "sites para praticar digitação: 10fastfingers, monkeytype",
+    "a vida é simples, nós é que complicamos. - Confúcio",
+    "a coragem é a primeira qualidade humana, pois garante as outras. - Aristóteles",
+    "sem música, a vida seria um erro",
+    "atualizações serão fornecidas através deste site",
+    "estar ciente das suas limitações já é estar além delas - hegel",
+    "garota, você é interestelar! Nem a estrela mais linda tem a luz que cê tem!",
+    "as estrelas apareceram na minha frente quando eu recebi seu abraço!",
+    "O jogo está disponível como app para Windows, Android e versão web!",
+
+
+    
+
+
+
+
+
+];
+
+// Função para criar um elemento de palavra
+function createWordElement(text) {
+    const wordElement = document.createElement('div');
+    wordElement.textContent = text;
+    wordElement.className = 'background-word';
+
+    // Adiciona ao corpo para medir seu tamanho
+    document.body.appendChild(wordElement);
+
+    const wordWidth = wordElement.offsetWidth;
+    const wordHeight = wordElement.offsetHeight;
+
+    // Remove o elemento após medir
+    wordElement.remove();
+
+    // Gera uma posição aleatória dentro da tela
+    const windowWidth = window.innerWidth;
+    const windowHeight = window.innerHeight;
+
+    let x, y;
+
+    // Gera posição aleatória com base nas bordas da tela
+    const positionChoice = Math.floor(Math.random() * 8);
+
+    switch (positionChoice) {
+        case 0: // Canto superior esquerdo
+            x = Math.min(10, windowWidth - wordWidth);
+            y = Math.min(10, windowHeight - wordHeight);
+            break;
+        case 1: // Lateral esquerdo centralizado
+            x = Math.min(10, windowWidth - wordWidth);
+            y = (windowHeight - wordHeight) / 2;
+            break;
+        case 2: // Canto superior central
+            x = (windowWidth - wordWidth) / 2;
+            y = Math.min(10, windowHeight - wordHeight);
+            break;
+        case 3: // Centralizado
+            x = (windowWidth - wordWidth) / 2;
+            y = (windowHeight - wordHeight) / 2;
+            break;
+        case 4: // Lateral direito centralizado
+            x = Math.max(windowWidth - wordWidth - 10, 0);
+            y = (windowHeight - wordHeight) / 2;
+            break;
+        case 5: // Canto superior direito
+            x = Math.max(windowWidth - wordWidth - 10, 0);
+            y = Math.min(10, windowHeight - wordHeight);
+            break;
+        case 6: // Canto inferior direito
+            x = Math.max(windowWidth - wordWidth - 10, 0);
+            y = Math.max(windowHeight - wordHeight - 10, 0);
+            break;
+        case 7: // Canto inferior esquerdo
+            x = Math.min(10, windowWidth - wordWidth);
+            y = Math.max(windowHeight - wordHeight - 10, 0);
+            break;
+        default:
+            x = 0;
+            y = 0;
+            break;
+    }
+
+    wordElement.style.position = 'absolute';
+    wordElement.style.left = `${x}px`;
+    wordElement.style.top = `${y}px`;
+
+    // Adiciona a classe para a animação de aparecimento
+    document.body.appendChild(wordElement);
+    setTimeout(() => {
+        wordElement.classList.add('fade-in');
+    }, 0);
+
+    // Remove o elemento após a animação de desaparecimento
+    setTimeout(() => {
+        wordElement.style.opacity = 0;
+        setTimeout(() => {
+            wordElement.remove();
+        }, 2000); // Tempo para garantir que a animação de desaparecimento termine
+    }, 10000); // Tempo para mostrar a palavra antes de desaparecer
+}
+
+// Inicia a criação de palavras de fundo
+function startBackgroundWords() {
+    setInterval(() => {
+        const randomIndex = Math.floor(Math.random() * backgroundWords.length);
+        const randomText = backgroundWords[randomIndex];
+        createWordElement(randomText);
+    }, 19000); // Tempo entre a criação de novas palavras, estava 15000
+}
+
+startBackgroundWords(); //versão 0.0.6
+
+
+
+
+

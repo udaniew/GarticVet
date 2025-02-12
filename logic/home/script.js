@@ -1,1 +1,37 @@
-function _0x4712(_0x90484b,_0xcae2ee){const _0x3028bb=_0x3028();return _0x4712=function(_0x471271,_0x4d7565){_0x471271=_0x471271-0x1dc;let _0x18211f=_0x3028bb[_0x471271];return _0x18211f;},_0x4712(_0x90484b,_0xcae2ee);}const _0x1e0bc4=_0x4712;(function(_0x4a9521,_0x2c530c){const _0x598c1f=_0x4712,_0x329ef8=_0x4a9521();while(!![]){try{const _0x5cdb5b=parseInt(_0x598c1f(0x1ef))/0x1*(-parseInt(_0x598c1f(0x1e5))/0x2)+-parseInt(_0x598c1f(0x1df))/0x3+parseInt(_0x598c1f(0x1de))/0x4+parseInt(_0x598c1f(0x1ea))/0x5+-parseInt(_0x598c1f(0x1e4))/0x6*(-parseInt(_0x598c1f(0x1ec))/0x7)+-parseInt(_0x598c1f(0x1e3))/0x8*(parseInt(_0x598c1f(0x1dc))/0x9)+-parseInt(_0x598c1f(0x1e7))/0xa*(-parseInt(_0x598c1f(0x1e1))/0xb);if(_0x5cdb5b===_0x2c530c)break;else _0x329ef8['push'](_0x329ef8['shift']());}catch(_0x1f8fa5){_0x329ef8['push'](_0x329ef8['shift']());}}}(_0x3028,0xcd14a));function _0x3028(){const _0x19b088=['none','4784576mJhESB','2923251SwFPNy','display','11QPxLqJ','getElementById','6338184mZPmKB','626172ApKXPt','56348UAASTh','.close-btn','1419910OJwjnj','flex','style','3065185BzcYZn','downloadsBtn','112XTBRQF','addEventListener','target','36fTsACr','click','9pMRHGa'];_0x3028=function(){return _0x19b088;};return _0x3028();}const downloadsBtn=document[_0x1e0bc4(0x1e2)](_0x1e0bc4(0x1eb)),popup=document[_0x1e0bc4(0x1e2)]('popupDownloads'),closeBtn=document['querySelector'](_0x1e0bc4(0x1e6));downloadsBtn[_0x1e0bc4(0x1ed)](_0x1e0bc4(0x1f0),()=>{const _0x507440=_0x1e0bc4;popup[_0x507440(0x1e9)]['display']=_0x507440(0x1e8);}),closeBtn[_0x1e0bc4(0x1ed)](_0x1e0bc4(0x1f0),()=>{const _0x1e3f25=_0x1e0bc4;popup[_0x1e3f25(0x1e9)][_0x1e3f25(0x1e0)]=_0x1e3f25(0x1dd);}),window[_0x1e0bc4(0x1ed)](_0x1e0bc4(0x1f0),_0x13c988=>{const _0x52e3fb=_0x1e0bc4;_0x13c988[_0x52e3fb(0x1ee)]===popup&&(popup[_0x52e3fb(0x1e9)][_0x52e3fb(0x1e0)]='none');});
+// Seleção dos elementos
+const downloadsBtn = document.getElementById('downloadsBtn');
+const popup = document.getElementById('popupDownloads');
+const closeBtn = document.querySelector('.close-btn');
+
+// Abrir o pop-up ao clicar no botão "Downloads"
+downloadsBtn.addEventListener('click', () => {
+    popup.style.display = 'flex'; // Torna o pop-up visível
+});
+
+// Fechar o pop-up ao clicar no 'x'
+closeBtn.addEventListener('click', () => {
+    popup.style.display = 'none';
+});
+
+// Fechar o pop-up se o usuário clicar fora do conteúdo
+window.addEventListener('click', (event) => {
+    if (event.target === popup) {
+        popup.style.display = 'none';
+    }
+});
+
+/* window.alert('Aviso: este site está em desenvolvimento. Para uma experiência otimizada, recomendamos acessá-lo em um computador. Se estiver em um dispositivo móvel, baixe o aplicativo Android na seção "Downloads" ou use o modo desktop. Note que a usabilidade pode ser reduzida em telas menores. O site possui uma senha de acesso. Para obtê-la, envie uma solicitação no Discord (usuário: daniewz), e eu lhe explicarei como acessar. - By Daniewz');
+
+// Defina a senha correta
+const correctPassword = "K3pS#8dG_BpL4$eJ@9N";
+
+function checkPassword() {
+    const userPassword = document.getElementById("passwordInput").value;
+    if (userPassword === correctPassword) {
+        document.getElementById("passwordPopup").style.display = "none";
+    } else {
+        alert("Senha incorreta! Tente novamente.");
+    }
+}
+
+*/
