@@ -1,5 +1,32 @@
 const mp4 = {
-    'água com gás': ['mp4ALI/água com gás.mp4'],
+    //AB-AG
+    'abacate': ['mp4ALI/abacate.mp4'],
+    'abacaxi': ['mp4ALI/abacaxi.mp4'],
+    'abiu': ['mp4ALI/abiu.mp4'],
+    'abóbora': ['mp4ALI/abóbora.mp4'],
+    'abóbora jacarezinho': ['mp4ALI/abóbora_jacarezinho.mp4'],
+    'abobrinha': ['mp4ALI/abobrinha.mp4'],
+    'abricó': ['mp4ALI/abricó.mp4'],
+    'açafrão': ['mp4ALI/açafrão.mp4'],
+    'açaí': ['mp4ALI/açaí.mp4'],
+    'acarajé': ['mp4ALI/acarajé.mp4'],
+    'acelga': ['mp4ALI/acelga.mp4'],
+    'acerola': ['mp4ALI/acerola.mp4'],
+    'achocolatado': ['mp4ALI/achocolatado.mp4'],
+    'açúcar': ['mp4ALI/açúcar.mp4'],
+    'açúcar mascavo': ['mp4ALI/açúcar_mascavo.mp4'],
+    'adoçante': ['mp4ALI/adoçante.mp4'],
+    'agrião': ['mp4ALI/agrião.mp4'],
+    'água': ['mp4ALI/água.mp4'],
+    'água com gás': ['mp4ALI/água_com_gás.mp4'],
+    'água de coco': ['mp4ALI/água_de_coco.mp4'],
+ 
+    //AG-AM
+    
+
+    
+    
+
 };
 
 let words = Object.keys(mp4);
@@ -131,7 +158,7 @@ searchSubmit.addEventListener('click', () => {
             mp4Container.style.boxShadow = '0 0 60px 20px rgba(255, 255, 255, 0.8)';
         }, 1000);
     } else {
-        searchResult.textContent = 'Objeto ainda não disponível';
+        searchResult.textContent = 'Alimento ainda não disponível';
     }
 });
 
@@ -193,7 +220,8 @@ const backgroundWords = [
     "você também já foi noob",
     "que tal ser menos arrogante?",
     "não perca seu tempo com assuntos frivolos",
-    "já ouviu falar em efeito placebo?",
+    "estrela do sul",
+    "uma estrela que brilhou intensamente no meu céu..",
     "compartilhe nosso servidor",
     "convide pessoas para aprender",
     "convide pessoas para praticar",
@@ -205,22 +233,8 @@ const backgroundWords = [
     "seja esperto",
     "seja gentil consigo mesmo (a)",
     "evite assuntos demasiadamente superficiais",
-    "nem todos merecem sua atençâo",
     "se valorize como pessoa",
-    "algumas frases são para a vida",
-    "aprenda sobre memória muscular",
-    "aprenda usar o seu cérebro",
-    "já ouviu falar sobre neurociência?",
-    "você já errou na vida? Acha que merece 2º chance?",
-    "algumas pessoas merecem a 2º chance",
     "feito por daniewz e denni_0014",
-    "você pode jogar no mobile também",
-    "é normal bugar em alguns desenhos",
-    "valorize o trabalho das pessoas",
-    "evite comparações",
-    "consuma bons conteúdos na internet",
-    "quanto mais variações de desenho melhor!",
-    "ajude enviando vídeos com variações para objetos!",
     "digite o mais rapido possível!",
     "pessoas de sucesso definem metas realistas",
     "uma longa viagem começa por um passo",
@@ -233,7 +247,6 @@ const backgroundWords = [
     "você é realmente lento",
     "esse é seu máximo?",
     "mais foco, menos erro!",
-    "esse app não coleta nenhum dado seu",
     "sites para praticar digitação: 10fastfingers, monkeytype",
     "a vida é simples, nós é que complicamos. - Confúcio",
     "a coragem é a primeira qualidade humana, pois garante as outras. - Aristóteles",

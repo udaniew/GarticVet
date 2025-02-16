@@ -211,20 +211,20 @@ font-size: 16px;
 cursor: pointer;
 border-radius: 20px;
 border: none;
-background-color: #389681; /* cor do botão de pesquisar objetos */
+background-color: #ff0800; /* cor do botão de pesquisar alimento */
 color: #ffffff;
 font-family: 'MinhaFonte', Arial, sans-serif;
 transition: box-shadow 0.3s ease-in-out; /* Transição suave para o efeito neon */
 }
 
 #search-button:hover, #search-submit:hover {
-    box-shadow: 0 0 20px 10px #389681; /* Efeito neon mais forte */
-} /* cor do botão de pesquisar */
+    box-shadow: 0 0 20px 10px #ff0000; /* Efeito neon mais forte */
+} /* cor do botão de pesquisar - alimento */
 
 #sound-toggle {
     width: 40px;
     height: 40px;
-    background-color: #389681; /* cor do botão 'on/off para som' */
+    background-color: #ff0000; /* cor do botão 'on/off para som' */
     border: none;
     border-radius: 50%;
     cursor: pointer;
@@ -238,13 +238,13 @@ transition: box-shadow 0.3s ease-in-out; /* Transição suave para o efeito neon
 }
 
 #sound-toggle:hover {
-    box-shadow: 0 0 20px 10px rgb(126, 144, 145); /* Efeito neon mais forte */
+    box-shadow: 0 0 20px 10px rgb(255, 0, 0); /* Efeito neon do botão 'on/off' para o som */
 }
 
 #info-button {
     width: 40px;
     height: 40px;
-    background-color: #389681; /* cor do botão de informação */
+    background-color: #ff0000; /* cor do botão de informação */
     border: none;
     border-radius: 50%;
     cursor: pointer;
@@ -259,13 +259,13 @@ transition: box-shadow 0.3s ease-in-out; /* Transição suave para o efeito neon
 }
 
 #info-button:hover {
-    box-shadow: 0 0 20px 10px #389681; /* Efeito neon mais forte */
+    box-shadow: 0 0 20px 10px #ff0000; /* Efeito neon do botão 'info' */
 } /* botão de informação */
 
 #home-button {
     width: 40px;
     height: 40px;
-    background-color: #389681; /* Cor igual ao botão de informação */
+    background-color: #ff0000; /* Cor igual ao botão de informação - botão home */
     border: none;
     border-radius: 50%; /* Tornando o botão redondo */
     cursor: pointer;
@@ -280,7 +280,7 @@ transition: box-shadow 0.3s ease-in-out; /* Transição suave para o efeito neon
 }
 
 #home-button:hover {
-    box-shadow: 0 0 20px 10px #389681; /* Efeito neon na cor do botão */
+    box-shadow: 0 0 20px 10px #ff0000; /* Efeito neon na cor do botão 'home' */
 }
 
 
@@ -329,7 +329,7 @@ transition: box-shadow 0.3s ease-in-out; /* Transição suave para o efeito neon
     font-size: 16px;
     margin-top: 10px;
     display: block;
-    background-color: #389681; /* cor do botão fechar */
+    background-color: #ff0000; /* cor do botão fechar */
     border: none;
     border-radius: 20px;
     padding: 10px 20px;
@@ -337,7 +337,7 @@ transition: box-shadow 0.3s ease-in-out; /* Transição suave para o efeito neon
 }
 
 #close-info-modal:hover {
-    box-shadow: 0 0 20px 10px #389681; /* Efeito neon mais forte */
+    box-shadow: 0 0 20px 10px #ff0000; /* Efeito neon mais forte */
     color: #fff; /* Cor do texto ao passar o mouse */
 }
 
@@ -441,7 +441,7 @@ background-color: #8d2d2d; /* Cor do scroll bar quando o mouse passa por cima
 
     <div id="search-modal">
         <div id="search-modal-content">
-            <input type="text" id="search-input" placeholder="Digite o nome do objeto">
+            <input type="text" id="search-input" placeholder="Digite o nome do alimento">
             <button id="search-submit">Buscar</button>
             <p id="search-result"></p>
             <span id="close-search-modal">Fechar</span>
@@ -465,6 +465,6 @@ background-color: #8d2d2d; /* Cor do scroll bar quando o mouse passa por cima
 
     <audio id="correct-sound" src="sound/correct.mpeg"></audio>
 
-    <script src="logic/logicALI/handler_ALI.j"></script>
+    <script src="logic/logicALI/handler_ALI.js"></script>
 </body>
 </html>

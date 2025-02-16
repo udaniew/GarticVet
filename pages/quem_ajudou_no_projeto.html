@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vidro Fosco com JavaScript</title>
+    <title>Time do Projeto</title>
     <style>
         * {
             margin: 0;
@@ -26,13 +26,14 @@
         .content {
             width: 80%;
             max-width: 1000px;
-            background: rgba(0, 0, 0, 0.7); /* Fundo semitransparente */
+            background: rgba(0, 0, 0, 0.7);
             border-radius: 20px;
             padding: 30px;
             box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
             animation: fadeIn 1.2s ease-in-out;
             text-align: left;
             z-index: 1;
+    
         }
 
         h1 {
@@ -43,22 +44,104 @@
             animation: fadeInDown 1s ease-in-out;
         }
 
-        p {
-            font-size: 1.2em;
-            margin-bottom: 40px;
+        /* Estilos da seção de créditos */
+        .user-profile {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 16px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            animation: fadeInUp 1s ease-in-out;
+        }
+
+        .profile-link {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+            text-decoration: none;
+        }
+
+        .profile-img {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            border: 3px solid #4ecdc4;
+            transition: transform 0.3s ease;
+        }
+
+        .profile-info {
             color: #f3f3f3;
-            animation: fadeInUp 1.2s ease-in-out;
-            line-height: 1.6;
+        }
+
+        .profile-name {
+            margin: 0;
+            font-size: 1.8rem;
+            color: #4ecdc4;
+        }
+
+        .profile-role {
+            color: #94a3b8;
+            font-size: 0.9rem;
+        }
+
+        .creditos-list {
+            list-style: none;
+            padding: 0;
+            margin: 2rem 0;
+        }
+
+        .credito-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 1.5rem;
+            margin: 1rem 0;
+            background: rgba(255,255,255,0.05);
+            border-radius: 12px;
+            transition: all 0.3s ease;
+            animation: fadeInUp 0.5s ease-in-out;
+        }
+
+        .credito-item:hover {
+            background: rgba(255,255,255,0.1);
+            transform: translateX(10px);
+        }
+
+        .funcao-box {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .funcao {
+            font-weight: 500;
+            color: #f3f3f3;
+            font-size: 1.1rem;
+        }
+
+        .colaborador {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: #4ecdc4;
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.3s ease;
+        }
+
+        .colaborador:hover {
+            color: #3aa89f;
+        }
+
+        .link-icon {
+            font-size: 0.8em;
+            opacity: 0.7;
         }
 
         /* Animações */
         @keyframes fadeIn {
-            from {
-                opacity: 0;
-            }
-            to {
-                opacity: 1;
-            }
+            from { opacity: 0; }
+            to { opacity: 1; }
         }
 
         @keyframes fadeInDown {
@@ -83,6 +166,23 @@
             }
         }
 
+        @media (max-width: 768px) {
+            .content {
+                width: 90%;
+                padding: 20px;
+            }
+
+            .profile-name {
+                font-size: 1.4rem;
+            }
+            
+            .credito-item {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 0.5rem;
+            }
+        }
+
         #backgroundCanvas {
             position: absolute;
             top: 0;
@@ -91,6 +191,46 @@
             height: 100%;
             z-index: -1;
         }
+
+/* Estilos para colaboradores */
+.colab-info {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    width: 100%;
+}
+
+.colab-img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid #4ecdc4;
+    object-fit: cover;
+}
+
+.colab-details {
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
+@media (max-width: 768px) {
+    .colab-info {
+        gap: 1rem;
+    }
+    
+    .colab-details {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .colab-img {
+        width: 50px;
+        height: 50px;
+    }
+}
     </style>
 </head>
 <body>
@@ -98,34 +238,123 @@
     <canvas id="backgroundCanvas"></canvas>
 
     <div class="content">
-        <h1>Quem ajudou no projeto?</h1>
-        <p>
-            Mais informações em breve!
-        </p>
+        <h1>🌟 Time do Projeto</h1>
+        
+        <!-- Seu perfil destacado -->
+        <div class="user-profile">
+            <a href="https://www.threads.net/@udaniew" target="_blank" class="profile-link">
+                <img src="../imagens/daniewzpic.webp" alt="Daniewz" class="profile-img">
+                <div class="profile-info">
+                    <h2 class="profile-name">@daniewz</h2>
+                    <span class="profile-role">Criador & Desenvolvedor do projeto</span>
+                </div>
+            </a>
+        </div>
+
+    <!-- Lista de colaboradores -->
+    <ul class="creditos-list">
+        <li class="credito-item">
+            <div class="colab-info">
+                <img src="../imagens/denni.jpg" alt="Denni" class="colab-img">
+                <div class="colab-details">
+                    <div class="funcao-box">
+                        <span>👑</span>
+                        <span class="funcao">Colaboração geral: apoio e ajustes no desenvolvimento do App Android GarticVet, gravação e corte tema objetos, sugetões..etc</span>
+                    </div>
+                    <a href="https://www.threads.net/@denni_0014" class="colaborador" target="_blank">
+                        @denni
+                        <span class="link-icon">↗</span>
+                    </a>
+                </div>
+            </div>
+        </li>
+
+        <li class="credito-item">
+            <div class="colab-info">
+                <img src="../imagens/manu.jpg" alt="Manu" class="colab-img">
+                <div class="colab-details">
+                    <div class="funcao-box">
+                        <span>✂️</span>
+                        <span class="funcao">Cortes tema: Alimentos</span>
+                    </div>
+                    <a href="https://gartic.com.br/manuu_linda" class="colaborador" target="_blank">
+                        @manu
+                        <span class="link-icon">↗</span>
+                    </a>
+                </div>
+            </div>
+        </li>
+
+        <li class="credito-item">
+            <div class="colab-info">
+                <img src="../imagens/dexter.png" alt="Dexter" class="colab-img">
+                <div class="colab-details">
+                    <div class="funcao-box">
+                        <span>🎬</span>
+                        <span class="funcao">Gravação tema: Alimentos</span>
+                    </div>
+                    <a href="https://gartic.com.br/myschief" class="colaborador" target="_blank">
+                        @dexter
+                        <span class="link-icon">↗</span>
+                    </a>
+                </div>
+            </div>
+        </li>
+
+        <li class="credito-item">
+            <div class="colab-info">
+                <img src="../imagens/radluz.webp" alt="ntilthesun" class="colab-img">
+                <div class="colab-details">
+                    <div class="funcao-box">
+                        <span>🎬</span>
+                        <span class="funcao">Gravação tema: Objetos</span>
+                    </div>
+                    <a href="https://gartic.com.br/radluz" class="colaborador" target="_blank">
+                        @untilthesun
+                        <span class="link-icon">↗</span>
+                    </a>
+                </div>
+            </div>
+        </li>
+
+        <!-- Modelo para novos colaboradores (copiar e colar) -->
+        <!-- 
+        <li class="credito-item">
+            <div class="colab-info">
+                <img src="./foto.jpg" alt="Nome" class="colab-img">
+                <div class="colab-details">
+                    <div class="funcao-box">
+                        <span>⭐</span>
+                        <span class="funcao">Função</span>
+                    </div>
+                    <a href="#" class="colaborador" target="_blank">
+                        @usuario
+                        <span class="link-icon">↗</span>
+                    </a>
+                </div>
+            </div>
+        </li>
+        -->
+    </ul>
+       
     </div>
 
     <script>
         const canvas = document.getElementById('backgroundCanvas');
         const ctx = canvas.getContext('2d');
 
-        // Definindo o tamanho do canvas para cobrir a tela
         canvas.width = window.innerWidth;
         canvas.height = window.innerHeight;
 
-        // Carregar imagem de fundo (aqui você pode colocar qualquer imagem ou cor)
         const img = new Image();
-        img.src = 'background.jpg';  // Aqui você pode colocar sua própria imagem de fundo
+        img.src = 'background.jpg';
         img.onload = function() {
-            // Quando a imagem carregar, aplica o efeito de blur
             ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
-
-            // Aplicando filtro de desfoque (blur)
             ctx.globalAlpha = 0.5;
             ctx.filter = 'blur(10px)';
             ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
         };
 
-        // Reajustar o canvas no redimensionamento da janela
         window.addEventListener('resize', function() {
             canvas.width = window.innerWidth;
             canvas.height = window.innerHeight;
