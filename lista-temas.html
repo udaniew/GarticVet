@@ -14,18 +14,7 @@
             font-style: normal;
         }
 
-        /* Estilo para o vídeo de fundo */
-        .background-video {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            object-fit: cover; /* Garante que o vídeo preencha a tela sem distorção */
-            z-index: -1; /* Coloca o vídeo atrás do conteúdo */
-        }
-
-        /* Estilo do corpo */
+        /* Estilo do corpo com imagem de fundo */
         body {
             display: flex;
             flex-direction: column;
@@ -34,16 +23,21 @@
             height: 100vh;
             margin: 0;
             font-family: 'Arial', sans-serif;
-            color: white; /* Cor do texto para contraste */
-            background: #000; /* Cor de fallback para navegadores que não suportam vídeo */
+            color: white;
+            background-image: url('../GarticVet/imagens/fundo3.png'); /* Caminho da sua imagem */
+            background-size: cover; /* Faz a imagem preencher a tela */
+            background-position: center; /* Centraliza a imagem */
+            background-repeat: no-repeat;
+            background-attachment: fixed; /* Fixa a imagem ao rolar */
         }
 
         /* Título */
         h1 {
-            font-family: 'SuaFonte', sans-serif; /* Fonte personalizada */
+            font-family: 'SuaFonte', sans-serif;
             text-align: center;
             margin-bottom: 50px;
-            z-index: 1; /* Garante que o texto fique acima do vídeo */
+            z-index: 1;
+            text-shadow: 2px 2px 8px #000; /* Sombra para melhorar contraste */
         }
 
         /* Contêiner dos botões */
@@ -51,36 +45,30 @@
             display: flex;
             flex-direction: column;
             gap: 20px;
-            z-index: 1; /* Garante que os botões fiquem acima do vídeo */
+            z-index: 1;
         }
 
         /* Estilo do botão */
         button {
             padding: 10px 20px;
             font-size: 1em;
-            font-family: 'SuaFonte', sans-serif; /* Aplicando a fonte personalizada */
-            background-color: #008CBA; /* Cor de fundo original */
+            font-family: 'SuaFonte', sans-serif;
+            background-color: #008CBA;
             border: none;
             border-radius: 50px;
             color: white;
             cursor: pointer;
-            transition: all 0.3s ease; /* Suaviza a transição */
+            transition: all 0.3s ease;
         }
 
         button:hover {
-            background-color: #008CBA; /* Mantém a cor de fundo ao passar o mouse */
-            box-shadow: 0 0 15px 5px rgba(0, 140, 186, 0.8); /* Efeito neon */
-            transform: scale(1.1); /* Aumenta o botão ao passar o mouse */
+            background-color: #008CBA;
+            box-shadow: 0 0 15px 5px rgba(0, 140, 186, 0.8);
+            transform: scale(1.1);
         }
     </style>
 </head>
 <body>
-    <!-- Vídeo de fundo -->
-    <video class="background-video" autoplay muted loop>
-        <source src="./videos/livewallpaper720.webm" type="video/mp4">
-        Seu navegador não suporta o vídeo de fundo.
-    </video>
-
     <h1>Escolha o Tema</h1>
     <div class="button-container">
         <button onclick="location.href='jogo.html'">Objetos</button>
