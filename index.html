@@ -10,9 +10,30 @@
 <body>
 
 <div class="container">
+
+    <!-- Pop-up Beta (fica no topo da página) -->
+    <div id="popup-beta">
+        <div class="popup-beta-content">
+            <h2>Aviso Importante – Beta</h2>
+                <p>
+                Atenção: este site está em <b> BETA.</b> Se você é um dos que não têm QI suficiente para entender isso, aqui vai o último aviso. Para continuar a usar isso aqui, você precisa entender que o termo “beta” não é um enfeite neste site. É a realidade. Significa que tudo pode estar quebrado, incompleto, bugado <b>(em todo o front-end)</b> E não, não é por descuido, é porque faz parte do processo de evolução. Chamamos de <b><i>placeholder</i></b> (em boa parte) esse conceito. Se você não for capaz de compreender isso, talvez o problema esteja entre a cadeira e o teclado.
+
+                Ofereci oportunidades reais para colaboração, mas, como era de se esperar, ninguém apareceu com disposição ou competência. Então agora, se você decidir reclamar que o site está mal feito ou cheio de erros, saiba que sua crítica não tem valor. Não adianta opinar sobre um projeto de programação quando você sequer entende como a base de um funciona. Sua ignorância não é responsabilidade minha.
+
+                Por fim, muitos dos padrões e dados exibidos aqui foram coletados diretamente de vocês, em momentos anteriores. Portanto, ao reclamar, você está criticando a própria mediocridade.
+
+                Este projeto não será finalizado tão cedo, pois tenho outras prioridades - reais e mais importantes. Se você leu até aqui sem entrar em colapso emocional, talvez ainda exista alguma fagulha de bom senso.
+
+                Por fim, tenha em mente que posso encerrar este projeto a qualquer momento. Aproveite enquanto ele ainda está acessível, porque paciência não é um recurso infinito, e minha boa vontade já está em débito.
+                </p>
+            <p>Aguarde <span id="beta-timer">320</span> segundos para prosseguir.</p>
+            <button id="beta-continue-btn" disabled>Aguarde. Treino anti-burrice.</button>
+        </div>
+    </div>
+
     <div class="content">
         <h1>GarticVet seu site <br> de prática de padrões!</h1>
-        <p>Ferramenta web desenvolvida para jogadores de Gartic, <br> oferecendo uma prática eficiente para melhorar a percepção e a digitação. <br> Ideal também para iniciantes que desejam  aprender <br> novos temas de forma rápida e prática.</p>
+        <p>Ferramenta web desenvolvida para jogadores de Gartic, <br> oferecendo uma prática eficiente para melhorar a percepção e a digitação. <br> Ideal também para iniciantes que desejam aprender <br> novos temas de forma rápida e prática.</p>
         <div class="buttons">
             <a href="lista-temas.html">
                 <button>Jogue aqui</button>
@@ -26,7 +47,7 @@
             </a>
         </div>
 
-                <!-- Pop-up de downloads -->
+        <!-- Pop-up de downloads -->
         <div id="popupDownloads" class="popup">
             <div class="popup-content">
                 <span class="close-btn">&times;</span>
@@ -48,7 +69,7 @@
                 </div>
                 
                 <!-- Overlay -->
-            <div id="overlay"></div>
+                <div id="overlay"></div>
 
             </div>
         </div>
@@ -67,29 +88,14 @@
                 <p>Desenvolvido por daniewz</p>
             </a>
         </div>
-        <!-- Adiciona o texto da versão no rodapé -->
         <div class="version">
             <p>versão atual do site 0.0.6</p>
         </div>
 
         <a href="../GarticVet/conheca_gartic.html" class="gartic-link" target="_blank">Conheça o Gartic</a>
-
-
-
     </div>        
 </div>
+
 <script src="logic/home/script.js"></script>
 </body>
-
-<!--
-<div id="passwordPopup">
-    <div class="popup-content">
-        <h2>Digite a senha para acessar o site</h2>
-        <input type="password" id="passwordInput" placeholder="Senha">
-        <button onclick="checkPassword()">Entrar</button>
-    </div>
-</div>
--->
-
-
 </html>
